@@ -1,0 +1,2568 @@
+{
+    "behavior_code": 0,
+    "change_num": 0,
+    "default_quest_id": 63411,
+    "field_quest": [
+        {
+            "battle_info": {
+                "battle_num": 1,
+                "battle_ticket_rewards": [],
+                "break_bonus": 6540,
+                "can_online": 0,
+                "can_supporter": 1,
+                "chara_missions": [],
+                "color": 0,
+                "current_mission_step": 1,
+                "decoration_id": 0,
+                "difficulty": 150,
+                "difficulty_mode": 1,
+                "enemies": [
+                    {
+                        "battle_enemy_id": 3256,
+                        "level": 120
+                    }
+                ],
+                "hiscore": 0,
+                "hunts_ticket_rewards": [],
+                "is_perfect_mission": 0,
+                "is_six_coop": 0,
+                "is_six_quest": 0,
+                "is_strong_enemy": 2,
+                "is_total_battle": 0,
+                "need_sp": 50,
+                "online_end_date": 4070908800000,
+                "online_start_date": 1451606400000,
+                "quest_battle_id": 17434,
+                "quest_missions": [
+                    {
+                        "complete": 0,
+                        "level": 0,
+                        "missions": [
+                            {
+                                "history": {
+                                    "clear": 0,
+                                    "progress": -1
+                                },
+                                "num": 1,
+                                "quest_mission": {
+                                    "arg1": -1,
+                                    "arg2": -1,
+                                    "clear": 0,
+                                    "description": "",
+                                    "mission_type": 2,
+                                    "mode": 1,
+                                    "num": 1,
+                                    "progress": -1,
+                                    "rewards": [
+                                        {
+                                            "item_id": 2,
+                                            "item_num": 100,
+                                            "item_type": 99
+                                        }
+                                    ]
+                                },
+                                "require": 1
+                            },
+                            {
+                                "history": {
+                                    "clear": 0,
+                                    "progress": -1
+                                },
+                                "num": 2,
+                                "quest_mission": {
+                                    "arg1": 45,
+                                    "arg2": -1,
+                                    "clear": 0,
+                                    "description": "",
+                                    "mission_type": 3,
+                                    "mode": 3,
+                                    "num": 2,
+                                    "progress": -1,
+                                    "rewards": [
+                                        {
+                                            "item_id": 2,
+                                            "item_num": 100,
+                                            "item_type": 99
+                                        }
+                                    ]
+                                },
+                                "require": 45
+                            },
+                            {
+                                "history": {
+                                    "clear": 0,
+                                    "progress": -1
+                                },
+                                "num": 3,
+                                "quest_mission": {
+                                    "arg1": 5000,
+                                    "arg2": -1,
+                                    "clear": 0,
+                                    "description": "",
+                                    "mission_type": 29,
+                                    "mode": 3,
+                                    "num": 3,
+                                    "progress": -1,
+                                    "rewards": [
+                                        {
+                                            "item_id": 2,
+                                            "item_num": 100,
+                                            "item_type": 99
+                                        }
+                                    ]
+                                },
+                                "require": 5000
+                            },
+                            {
+                                "history": {
+                                    "clear": 0,
+                                    "progress": -1
+                                },
+                                "num": 4,
+                                "quest_mission": {
+                                    "arg1": 400000,
+                                    "arg2": -1,
+                                    "clear": 0,
+                                    "mission_type": 30,
+                                    "mode": 2,
+                                    "num": 4,
+                                    "progress": -1,
+                                    "rewards": [
+                                        {
+                                            "item_id": 2,
+                                            "item_num": 100,
+                                            "item_type": 99,
+                                            "quest_reward_type": 3
+                                        }
+                                    ]
+                                },
+                                "require": 400000
+                            }
+                        ],
+                        "perfect_cleared": 0,
+                        "step": 1,
+                        "this_perfect_clear": 0,
+                        "this_perfect_clear2": 0
+                    }
+                ],
+                "resources": {
+                    "battle_enemy_id_list": [
+                        3256
+                    ],
+                    "bgm_list": [
+                        203
+                    ],
+                    "stage_id": 95
+                },
+                "spiritus_point": 0,
+                "status_code": 0,
+                "total_mission_step": 1
+            },
+            "before_talk": -1,
+            "can_skip": 0,
+            "chara_icon_id": -1,
+            "clear_num": 0,
+            "coop_theme_group": 0,
+            "crevasse_point": 0,
+            "dest_cond_quest_id": -1,
+            "dest_focus_quest_id": -1,
+            "difficulty_type": 0,
+            "field_part": 0,
+            "hex_x": 2,
+            "hex_y": 15,
+            "hex_z": 0,
+            "is_boss_rush": 0,
+            "is_memorial_battle": 0,
+            "limit_act": 0,
+            "limit_party_num": 0,
+            "lock_treasure_item": [],
+            "locked_rule_id": [],
+            "map_clear_cond": 0,
+            "map_default_cond": 0,
+            "map_part_clear_cond": 0,
+            "name": "World of Illusions Divine: Assailing Shiva COSMOS",
+            "opt": {
+                "s_i": -1
+            },
+            "quest_id": 63411,
+            "quest_list_group": 0,
+            "quest_type": 1,
+            "regist_party_num": 0,
+            "sort_num": 738044,
+            "symbol_label": -1,
+            "warp_point": {
+                "warp_x": 0,
+                "warp_y": 0,
+                "warp_z": 0
+            }
+        },
+        {
+            "battle_info": {
+                "battle_num": 1,
+                "battle_ticket_rewards": [],
+                "break_bonus": 7770,
+                "can_online": 0,
+                "can_supporter": 1,
+                "chara_missions": [],
+                "color": 0,
+                "current_mission_step": 1,
+                "decoration_id": 0,
+                "difficulty": 180,
+                "difficulty_mode": 1,
+                "enemies": [
+                    {
+                        "battle_enemy_id": 3259,
+                        "level": 150
+                    }
+                ],
+                "hiscore": 0,
+                "hunts_ticket_rewards": [],
+                "is_perfect_mission": 0,
+                "is_six_coop": 0,
+                "is_six_quest": 0,
+                "is_strong_enemy": 2,
+                "is_total_battle": 0,
+                "need_sp": 5,
+                "online_end_date": 4070908800000,
+                "online_start_date": 1451606400000,
+                "quest_battle_id": 17435,
+                "quest_missions": [
+                    {
+                        "complete": 0,
+                        "level": 0,
+                        "missions": [
+                            {
+                                "history": {
+                                    "clear": 0,
+                                    "progress": -1
+                                },
+                                "num": 1,
+                                "quest_mission": {
+                                    "arg1": -1,
+                                    "arg2": -1,
+                                    "clear": 0,
+                                    "description": "",
+                                    "mission_type": 2,
+                                    "mode": 1,
+                                    "num": 1,
+                                    "progress": -1,
+                                    "rewards": [
+                                        {
+                                            "item_id": 2,
+                                            "item_num": 100,
+                                            "item_type": 99
+                                        }
+                                    ]
+                                },
+                                "require": 1
+                            },
+                            {
+                                "history": {
+                                    "clear": 0,
+                                    "progress": -1
+                                },
+                                "num": 2,
+                                "quest_mission": {
+                                    "arg1": 75,
+                                    "arg2": -1,
+                                    "clear": 0,
+                                    "description": "",
+                                    "mission_type": 3,
+                                    "mode": 3,
+                                    "num": 2,
+                                    "progress": -1,
+                                    "rewards": [
+                                        {
+                                            "item_id": 2,
+                                            "item_num": 100,
+                                            "item_type": 99
+                                        }
+                                    ]
+                                },
+                                "require": 75
+                            },
+                            {
+                                "history": {
+                                    "clear": 0,
+                                    "progress": -1
+                                },
+                                "num": 3,
+                                "quest_mission": {
+                                    "arg1": 20000,
+                                    "arg2": -1,
+                                    "clear": 0,
+                                    "description": "",
+                                    "mission_type": 29,
+                                    "mode": 3,
+                                    "num": 3,
+                                    "progress": -1,
+                                    "rewards": [
+                                        {
+                                            "item_id": 2,
+                                            "item_num": 100,
+                                            "item_type": 99
+                                        }
+                                    ]
+                                },
+                                "require": 20000
+                            },
+                            {
+                                "history": {
+                                    "clear": 0,
+                                    "progress": -1
+                                },
+                                "num": 4,
+                                "quest_mission": {
+                                    "arg1": 600000,
+                                    "arg2": -1,
+                                    "clear": 0,
+                                    "mission_type": 30,
+                                    "mode": 2,
+                                    "num": 4,
+                                    "progress": -1,
+                                    "rewards": [
+                                        {
+                                            "item_id": 2,
+                                            "item_num": 100,
+                                            "item_type": 99,
+                                            "quest_reward_type": 3
+                                        }
+                                    ]
+                                },
+                                "require": 600000
+                            }
+                        ],
+                        "perfect_cleared": 0,
+                        "step": 1,
+                        "this_perfect_clear": 0,
+                        "this_perfect_clear2": 0
+                    }
+                ],
+                "resources": {
+                    "battle_enemy_id_list": [
+                        3259
+                    ],
+                    "bgm_list": [
+                        203
+                    ],
+                    "stage_id": 95
+                },
+                "spiritus_point": 0,
+                "status_code": 0,
+                "total_mission_step": 1
+            },
+            "before_talk": -1,
+            "can_skip": 0,
+            "chara_icon_id": -1,
+            "clear_num": 0,
+            "coop_theme_group": 0,
+            "crevasse_point": 0,
+            "dest_cond_quest_id": -1,
+            "dest_focus_quest_id": -1,
+            "difficulty_type": 0,
+            "field_part": 0,
+            "hex_x": 4,
+            "hex_y": 10,
+            "hex_z": 0,
+            "is_boss_rush": 0,
+            "is_memorial_battle": 0,
+            "limit_act": 0,
+            "limit_party_num": 0,
+            "lock_treasure_item": [],
+            "locked_rule_id": [],
+            "map_clear_cond": 0,
+            "map_default_cond": 0,
+            "map_part_clear_cond": 0,
+            "name": "World of Illusions Divine: Assailing Shiva CHAOS",
+            "opt": {
+                "s_i": -1,
+                "qt": 2
+            },
+            "quest_id": 63412,
+            "quest_list_group": 0,
+            "quest_type": 1,
+            "regist_party_num": 0,
+            "relate_complete_quests": [
+                {
+                    "complete_type": 2,
+                    "difficulty_mode": 1,
+                    "is_disp_info": 1,
+                    "quest_id": 63471,
+                    "quest_name": "Assailing Shiva CHAOS [Challenge]"
+                }
+            ],
+            "sort_num": 738089,
+            "symbol_label": -1,
+            "warp_point": {
+                "warp_x": 0,
+                "warp_y": 0,
+                "warp_z": 0
+            }
+        },
+        {
+            "battle_info": {
+                "battle_num": 1,
+                "battle_ticket_rewards": [],
+                "break_bonus": 8590,
+                "can_online": 0,
+                "can_supporter": 1,
+                "chara_missions": [],
+                "color": 0,
+                "current_mission_step": 1,
+                "decoration_id": 0,
+                "difficulty": 200,
+                "difficulty_mode": 1,
+                "enemies": [
+                    {
+                        "battle_enemy_id": 3262,
+                        "level": 200
+                    }
+                ],
+                "hiscore": 0,
+                "hunts_ticket_rewards": [],
+                "is_perfect_mission": 0,
+                "is_six_coop": 0,
+                "is_six_quest": 0,
+                "is_strong_enemy": 3,
+                "is_total_battle": 0,
+                "need_sp": 5,
+                "online_end_date": 4070908800000,
+                "online_start_date": 1451606400000,
+                "quest_battle_id": 17436,
+                "quest_missions": [
+                    {
+                        "complete": 0,
+                        "level": 0,
+                        "missions": [
+                            {
+                                "history": {
+                                    "clear": 0,
+                                    "progress": -1
+                                },
+                                "num": 1,
+                                "quest_mission": {
+                                    "arg1": -1,
+                                    "arg2": -1,
+                                    "clear": 0,
+                                    "description": "",
+                                    "mission_type": 2,
+                                    "mode": 1,
+                                    "num": 1,
+                                    "progress": -1,
+                                    "rewards": [
+                                        {
+                                            "item_id": 2,
+                                            "item_num": 100,
+                                            "item_type": 99
+                                        }
+                                    ]
+                                },
+                                "require": 1
+                            },
+                            {
+                                "history": {
+                                    "clear": 0,
+                                    "progress": -1
+                                },
+                                "num": 2,
+                                "quest_mission": {
+                                    "arg1": 80,
+                                    "arg2": -1,
+                                    "clear": 0,
+                                    "description": "",
+                                    "mission_type": 3,
+                                    "mode": 3,
+                                    "num": 2,
+                                    "progress": -1,
+                                    "rewards": [
+                                        {
+                                            "item_id": 2,
+                                            "item_num": 100,
+                                            "item_type": 99
+                                        }
+                                    ]
+                                },
+                                "require": 80
+                            },
+                            {
+                                "history": {
+                                    "clear": 0,
+                                    "progress": -1
+                                },
+                                "num": 3,
+                                "quest_mission": {
+                                    "arg1": 15000,
+                                    "arg2": -1,
+                                    "clear": 0,
+                                    "description": "",
+                                    "mission_type": 29,
+                                    "mode": 3,
+                                    "num": 3,
+                                    "progress": -1,
+                                    "rewards": [
+                                        {
+                                            "item_id": 2,
+                                            "item_num": 100,
+                                            "item_type": 99
+                                        }
+                                    ]
+                                },
+                                "require": 15000
+                            },
+                            {
+                                "history": {
+                                    "clear": 0,
+                                    "progress": -1
+                                },
+                                "num": 4,
+                                "quest_mission": {
+                                    "arg1": 300000,
+                                    "arg2": -1,
+                                    "clear": 0,
+                                    "mission_type": 30,
+                                    "mode": 2,
+                                    "num": 4,
+                                    "progress": -1,
+                                    "rewards": [
+                                        {
+                                            "item_id": 2,
+                                            "item_num": 100,
+                                            "item_type": 99,
+                                            "quest_reward_type": 3
+                                        }
+                                    ]
+                                },
+                                "require": 300000
+                            }
+                        ],
+                        "perfect_cleared": 0,
+                        "step": 1,
+                        "this_perfect_clear": 0,
+                        "this_perfect_clear2": 0
+                    }
+                ],
+                "recommend_charas": [
+                    {
+                        "chara_id": 10,
+                        "opt": {
+                            "wave": [
+                                0
+                            ]
+                        }
+                    },
+                    {
+                        "chara_id": 79,
+                        "opt": {
+                            "wave": [
+                                0
+                            ]
+                        }
+                    },
+                    {
+                        "chara_id": 112,
+                        "opt": {
+                            "wave": [
+                                0
+                            ]
+                        }
+                    }
+                ],
+                "resources": {
+                    "battle_enemy_id_list": [
+                        3262
+                    ],
+                    "bgm_list": [
+                        203
+                    ],
+                    "stage_id": 117
+                },
+                "spiritus_point": 0,
+                "status_code": 0,
+                "total_mission_step": 1
+            },
+            "before_talk": -1,
+            "can_skip": 0,
+            "chara_icon_id": -1,
+            "clear_num": 0,
+            "coop_theme_group": 0,
+            "crevasse_point": 0,
+            "dest_cond_quest_id": -1,
+            "dest_focus_quest_id": -1,
+            "difficulty_type": 0,
+            "field_part": 0,
+            "hex_x": 1,
+            "hex_y": 2,
+            "hex_z": 1,
+            "is_boss_rush": 0,
+            "is_memorial_battle": 0,
+            "limit_act": 0,
+            "limit_party_num": 0,
+            "lock_treasure_item": [],
+            "locked_rule_id": [],
+            "map_clear_cond": 0,
+            "map_default_cond": 0,
+            "map_part_clear_cond": 0,
+            "name": "Assailing Shiva LUFENIA",
+            "opt": {
+                "bg_index": 0,
+                "bg_x": 0,
+                "bg_y": 0,
+                "qt": 3
+            },
+            "quest_id": 63413,
+            "quest_list_group": 1,
+            "quest_type": 1,
+            "regist_party_num": 0,
+            "relate_complete_quests": [
+                {
+                    "complete_type": 2,
+                    "difficulty_mode": 1,
+                    "is_disp_info": 1,
+                    "quest_id": 63414,
+                    "quest_name": "Assailing Shiva LUFENIA+"
+                }
+            ],
+            "sort_num": 738006,
+            "symbol_label": -1,
+            "warp_point": {
+                "warp_x": 0,
+                "warp_y": 0,
+                "warp_z": 0
+            }
+        },
+        {
+            "battle_info": {
+                "battle_num": 1,
+                "battle_ticket_rewards": [],
+                "break_bonus": 10630,
+                "can_online": 0,
+                "can_supporter": 1,
+                "chara_missions": [],
+                "color": 0,
+                "current_mission_step": 1,
+                "decoration_id": 0,
+                "difficulty": 250,
+                "difficulty_mode": 1,
+                "enemies": [
+                    {
+                        "battle_enemy_id": 3265,
+                        "level": 250
+                    }
+                ],
+                "hiscore": 0,
+                "hunts_ticket_rewards": [],
+                "is_perfect_mission": 0,
+                "is_six_coop": 0,
+                "is_six_quest": 0,
+                "is_strong_enemy": 4,
+                "is_total_battle": 0,
+                "need_sp": 5,
+                "online_end_date": 4070908800000,
+                "online_start_date": 1451606400000,
+                "quest_battle_id": 17437,
+                "quest_missions": [
+                    {
+                        "complete": 0,
+                        "level": 0,
+                        "missions": [
+                            {
+                                "history": {
+                                    "clear": 0,
+                                    "progress": -1
+                                },
+                                "num": 1,
+                                "quest_mission": {
+                                    "arg1": -1,
+                                    "arg2": -1,
+                                    "clear": 0,
+                                    "description": "",
+                                    "mission_type": 2,
+                                    "mode": 1,
+                                    "num": 1,
+                                    "progress": -1,
+                                    "rewards": [
+                                        {
+                                            "item_id": 2,
+                                            "item_num": 100,
+                                            "item_type": 99
+                                        }
+                                    ]
+                                },
+                                "require": 1
+                            },
+                            {
+                                "history": {
+                                    "clear": 0,
+                                    "progress": -1
+                                },
+                                "num": 2,
+                                "quest_mission": {
+                                    "arg1": 70,
+                                    "arg2": -1,
+                                    "clear": 0,
+                                    "description": "",
+                                    "mission_type": 3,
+                                    "mode": 3,
+                                    "num": 2,
+                                    "progress": -1,
+                                    "rewards": [
+                                        {
+                                            "item_id": 2,
+                                            "item_num": 100,
+                                            "item_type": 99
+                                        }
+                                    ]
+                                },
+                                "require": 70
+                            },
+                            {
+                                "history": {
+                                    "clear": 0,
+                                    "progress": -1
+                                },
+                                "num": 3,
+                                "quest_mission": {
+                                    "arg1": 15000,
+                                    "arg2": -1,
+                                    "clear": 0,
+                                    "description": "",
+                                    "mission_type": 29,
+                                    "mode": 3,
+                                    "num": 3,
+                                    "progress": -1,
+                                    "rewards": [
+                                        {
+                                            "item_id": 2,
+                                            "item_num": 100,
+                                            "item_type": 99
+                                        }
+                                    ]
+                                },
+                                "require": 15000
+                            },
+                            {
+                                "history": {
+                                    "clear": 0,
+                                    "progress": -1
+                                },
+                                "num": 4,
+                                "quest_mission": {
+                                    "arg1": 400000,
+                                    "arg2": -1,
+                                    "clear": 0,
+                                    "mission_type": 30,
+                                    "mode": 2,
+                                    "num": 4,
+                                    "progress": -1,
+                                    "rewards": [
+                                        {
+                                            "item_id": 2,
+                                            "item_num": 100,
+                                            "item_type": 99,
+                                            "quest_reward_type": 3
+                                        }
+                                    ]
+                                },
+                                "require": 400000
+                            }
+                        ],
+                        "perfect_cleared": 0,
+                        "step": 1,
+                        "this_perfect_clear": 0,
+                        "this_perfect_clear2": 0
+                    }
+                ],
+                "resources": {
+                    "battle_enemy_id_list": [
+                        3265
+                    ],
+                    "bgm_list": [
+                        203
+                    ],
+                    "stage_id": 117
+                },
+                "spiritus_point": 0,
+                "status_code": 0,
+                "total_mission_step": 1
+            },
+            "before_talk": -1,
+            "can_skip": 0,
+            "chara_icon_id": -1,
+            "clear_num": 0,
+            "completable_relate_quests": [
+                {
+                    "complete_type": 2,
+                    "difficulty_mode": 1,
+                    "is_disp_info": 1,
+                    "is_unlock": true,
+                    "is_within_time": true,
+                    "quest_id": 63413,
+                    "quest_name": "Assailing Shiva LUFENIA"
+                }
+            ],
+            "coop_theme_group": 0,
+            "crevasse_point": 0,
+            "dest_cond_quest_id": -1,
+            "dest_focus_quest_id": -1,
+            "difficulty_type": 0,
+            "field_part": 0,
+            "hex_x": 2,
+            "hex_y": 1,
+            "hex_z": 1,
+            "is_boss_rush": 0,
+            "is_memorial_battle": 0,
+            "limit_act": 0,
+            "limit_party_num": 0,
+            "lock_treasure_item": [],
+            "locked_rule_id": [],
+            "map_clear_cond": 0,
+            "map_default_cond": 0,
+            "map_part_clear_cond": 0,
+            "name": "Assailing Shiva LUFENIA+",
+            "opt": {
+                "bg_index": 0,
+                "bg_x": 0,
+                "bg_y": 0,
+                "qt": 4
+            },
+            "quest_id": 63414,
+            "quest_list_group": 1,
+            "quest_type": 1,
+            "regist_party_num": 0,
+            "sort_num": 738030,
+            "symbol_label": -1,
+            "warp_point": {
+                "warp_x": 0,
+                "warp_y": 0,
+                "warp_z": 0
+            }
+        },
+        {
+            "before_talk": 1813,
+            "can_skip": 0,
+            "chara_icon_id": -1,
+            "clear_num": 0,
+            "coop_theme_group": 0,
+            "crevasse_point": 0,
+            "dest_cond_quest_id": -1,
+            "dest_focus_quest_id": -1,
+            "difficulty_type": 0,
+            "field_part": 0,
+            "hex_x": 5,
+            "hex_y": 20,
+            "hex_z": 0,
+            "is_boss_rush": 0,
+            "is_memorial_battle": 0,
+            "limit_act": 0,
+            "limit_party_num": 0,
+            "lock_treasure_item": [],
+            "locked_rule_id": [],
+            "map_clear_cond": 0,
+            "map_default_cond": 1,
+            "map_part_clear_cond": 0,
+            "name": "World of Illusions Divine: Shiva",
+            "opt": {
+                "s_i": -1
+            },
+            "quest_id": 63415,
+            "quest_list_group": 0,
+            "quest_type": 0,
+            "regist_party_num": 0,
+            "sort_num": 738124,
+            "symbol_label": -1,
+            "warp_point": {
+                "warp_x": 0,
+                "warp_y": 0,
+                "warp_z": 0
+            }
+        },
+        {
+            "before_talk": -1,
+            "can_skip": 0,
+            "chara_icon_id": -1,
+            "clear_num": 0,
+            "coop_theme_group": 0,
+            "crevasse_point": 0,
+            "dest_cond_quest_id": -1,
+            "dest_focus_quest_id": -1,
+            "difficulty_type": 0,
+            "field_part": 0,
+            "hex_x": 1,
+            "hex_y": 16,
+            "hex_z": 0,
+            "is_boss_rush": 0,
+            "is_memorial_battle": 0,
+            "limit_act": 0,
+            "limit_party_num": 0,
+            "lock_treasure_item": [],
+            "locked_rule_id": [],
+            "map_clear_cond": 0,
+            "map_default_cond": 0,
+            "map_part_clear_cond": 0,
+            "name": "0",
+            "opt": {
+                "s_i": -1
+            },
+            "quest_id": 63416,
+            "quest_list_group": 0,
+            "quest_type": 4,
+            "regist_party_num": 0,
+            "sort_num": 738020,
+            "symbol_label": -1,
+            "warp_point": {
+                "warp_x": 0,
+                "warp_y": 0,
+                "warp_z": 0
+            }
+        },
+        {
+            "before_talk": -1,
+            "can_skip": 0,
+            "chara_icon_id": -1,
+            "clear_num": 0,
+            "coop_theme_group": 0,
+            "crevasse_point": 0,
+            "dest_cond_quest_id": -1,
+            "dest_focus_quest_id": -1,
+            "difficulty_type": 0,
+            "field_part": 0,
+            "hex_x": 1,
+            "hex_y": 17,
+            "hex_z": 0,
+            "is_boss_rush": 0,
+            "is_memorial_battle": 0,
+            "limit_act": 0,
+            "limit_party_num": 0,
+            "lock_treasure_item": [],
+            "locked_rule_id": [],
+            "map_clear_cond": 0,
+            "map_default_cond": 0,
+            "map_part_clear_cond": 0,
+            "name": "0",
+            "opt": {
+                "s_i": -1
+            },
+            "quest_id": 63417,
+            "quest_list_group": 0,
+            "quest_type": 4,
+            "regist_party_num": 0,
+            "sort_num": 738021,
+            "symbol_label": -1,
+            "warp_point": {
+                "warp_x": 0,
+                "warp_y": 0,
+                "warp_z": 0
+            }
+        },
+        {
+            "before_talk": -1,
+            "can_skip": 0,
+            "chara_icon_id": -1,
+            "clear_num": 0,
+            "coop_theme_group": 0,
+            "crevasse_point": 0,
+            "dest_cond_quest_id": -1,
+            "dest_focus_quest_id": -1,
+            "difficulty_type": 0,
+            "field_part": 0,
+            "hex_x": 1,
+            "hex_y": 18,
+            "hex_z": 0,
+            "is_boss_rush": 0,
+            "is_memorial_battle": 0,
+            "limit_act": 0,
+            "limit_party_num": 0,
+            "lock_treasure_item": [],
+            "locked_rule_id": [],
+            "map_clear_cond": 0,
+            "map_default_cond": 0,
+            "map_part_clear_cond": 0,
+            "name": "0",
+            "opt": {
+                "s_i": -1
+            },
+            "quest_id": 63418,
+            "quest_list_group": 0,
+            "quest_type": 4,
+            "regist_party_num": 0,
+            "sort_num": 738022,
+            "symbol_label": -1,
+            "warp_point": {
+                "warp_x": 0,
+                "warp_y": 0,
+                "warp_z": 0
+            }
+        },
+        {
+            "before_talk": -1,
+            "can_skip": 0,
+            "chara_icon_id": -1,
+            "clear_num": 0,
+            "coop_theme_group": 0,
+            "crevasse_point": 0,
+            "dest_cond_quest_id": -1,
+            "dest_focus_quest_id": -1,
+            "difficulty_type": 0,
+            "field_part": 0,
+            "hex_x": 2,
+            "hex_y": 11,
+            "hex_z": 0,
+            "is_boss_rush": 0,
+            "is_memorial_battle": 0,
+            "limit_act": 0,
+            "limit_party_num": 0,
+            "lock_treasure_item": [],
+            "locked_rule_id": [],
+            "map_clear_cond": 0,
+            "map_default_cond": 0,
+            "map_part_clear_cond": 0,
+            "name": "0",
+            "opt": {
+                "s_i": -1
+            },
+            "quest_id": 63419,
+            "quest_list_group": 0,
+            "quest_type": 4,
+            "regist_party_num": 0,
+            "sort_num": 738040,
+            "symbol_label": -1,
+            "warp_point": {
+                "warp_x": 0,
+                "warp_y": 0,
+                "warp_z": 0
+            }
+        },
+        {
+            "before_talk": -1,
+            "can_skip": 0,
+            "chara_icon_id": -1,
+            "clear_num": 0,
+            "coop_theme_group": 0,
+            "crevasse_point": 0,
+            "dest_cond_quest_id": -1,
+            "dest_focus_quest_id": -1,
+            "difficulty_type": 0,
+            "field_part": 0,
+            "hex_x": 2,
+            "hex_y": 13,
+            "hex_z": 0,
+            "is_boss_rush": 0,
+            "is_memorial_battle": 0,
+            "limit_act": 0,
+            "limit_party_num": 0,
+            "lock_treasure_item": [],
+            "locked_rule_id": [],
+            "map_clear_cond": 0,
+            "map_default_cond": 0,
+            "map_part_clear_cond": 0,
+            "name": "0",
+            "opt": {
+                "s_i": -1
+            },
+            "quest_id": 63420,
+            "quest_list_group": 0,
+            "quest_type": 4,
+            "regist_party_num": 0,
+            "sort_num": 738042,
+            "symbol_label": -1,
+            "warp_point": {
+                "warp_x": 0,
+                "warp_y": 0,
+                "warp_z": 0
+            }
+        },
+        {
+            "before_talk": -1,
+            "can_skip": 0,
+            "chara_icon_id": -1,
+            "clear_num": 0,
+            "coop_theme_group": 0,
+            "crevasse_point": 0,
+            "dest_cond_quest_id": -1,
+            "dest_focus_quest_id": -1,
+            "difficulty_type": 0,
+            "field_part": 0,
+            "hex_x": 2,
+            "hex_y": 14,
+            "hex_z": 0,
+            "is_boss_rush": 0,
+            "is_memorial_battle": 0,
+            "limit_act": 0,
+            "limit_party_num": 0,
+            "lock_treasure_item": [],
+            "locked_rule_id": [],
+            "map_clear_cond": 0,
+            "map_default_cond": 0,
+            "map_part_clear_cond": 0,
+            "name": "0",
+            "opt": {
+                "s_i": -1
+            },
+            "quest_id": 63421,
+            "quest_list_group": 0,
+            "quest_type": 4,
+            "regist_party_num": 0,
+            "sort_num": 738043,
+            "symbol_label": -1,
+            "warp_point": {
+                "warp_x": 0,
+                "warp_y": 0,
+                "warp_z": 0
+            }
+        },
+        {
+            "before_talk": -1,
+            "can_skip": 0,
+            "chara_icon_id": -1,
+            "clear_num": 0,
+            "coop_theme_group": 0,
+            "crevasse_point": 0,
+            "dest_cond_quest_id": -1,
+            "dest_focus_quest_id": -1,
+            "difficulty_type": 0,
+            "field_part": 0,
+            "hex_x": 2,
+            "hex_y": 16,
+            "hex_z": 0,
+            "is_boss_rush": 0,
+            "is_memorial_battle": 0,
+            "limit_act": 0,
+            "limit_party_num": 0,
+            "lock_treasure_item": [],
+            "locked_rule_id": [],
+            "map_clear_cond": 0,
+            "map_default_cond": 0,
+            "map_part_clear_cond": 0,
+            "name": "0",
+            "opt": {
+                "s_i": -1
+            },
+            "quest_id": 63422,
+            "quest_list_group": 0,
+            "quest_type": 4,
+            "regist_party_num": 0,
+            "sort_num": 738045,
+            "symbol_label": -1,
+            "warp_point": {
+                "warp_x": 0,
+                "warp_y": 0,
+                "warp_z": 0
+            }
+        },
+        {
+            "before_talk": -1,
+            "can_skip": 0,
+            "chara_icon_id": -1,
+            "clear_num": 0,
+            "coop_theme_group": 0,
+            "crevasse_point": 0,
+            "dest_cond_quest_id": -1,
+            "dest_focus_quest_id": -1,
+            "difficulty_type": 0,
+            "field_part": 0,
+            "hex_x": 2,
+            "hex_y": 19,
+            "hex_z": 0,
+            "is_boss_rush": 0,
+            "is_memorial_battle": 0,
+            "limit_act": 0,
+            "limit_party_num": 0,
+            "lock_treasure_item": [],
+            "locked_rule_id": [],
+            "map_clear_cond": 0,
+            "map_default_cond": 0,
+            "map_part_clear_cond": 0,
+            "name": "0",
+            "opt": {
+                "s_i": -1
+            },
+            "quest_id": 63423,
+            "quest_list_group": 0,
+            "quest_type": 4,
+            "regist_party_num": 0,
+            "sort_num": 738048,
+            "symbol_label": -1,
+            "warp_point": {
+                "warp_x": 0,
+                "warp_y": 0,
+                "warp_z": 0
+            }
+        },
+        {
+            "before_talk": -1,
+            "can_skip": 0,
+            "chara_icon_id": -1,
+            "clear_num": 0,
+            "coop_theme_group": 0,
+            "crevasse_point": 0,
+            "dest_cond_quest_id": -1,
+            "dest_focus_quest_id": -1,
+            "difficulty_type": 0,
+            "field_part": 0,
+            "hex_x": 3,
+            "hex_y": 5,
+            "hex_z": 0,
+            "is_boss_rush": 0,
+            "is_memorial_battle": 0,
+            "limit_act": 0,
+            "limit_party_num": 0,
+            "lock_treasure_item": [],
+            "locked_rule_id": [],
+            "map_clear_cond": 0,
+            "map_default_cond": 0,
+            "map_part_clear_cond": 0,
+            "name": "0",
+            "opt": {
+                "s_i": -1
+            },
+            "quest_id": 63424,
+            "quest_list_group": 0,
+            "quest_type": 4,
+            "regist_party_num": 0,
+            "sort_num": 738059,
+            "symbol_label": -1,
+            "warp_point": {
+                "warp_x": 0,
+                "warp_y": 0,
+                "warp_z": 0
+            }
+        },
+        {
+            "before_talk": -1,
+            "can_skip": 0,
+            "chara_icon_id": -1,
+            "clear_num": 0,
+            "coop_theme_group": 0,
+            "crevasse_point": 0,
+            "dest_cond_quest_id": -1,
+            "dest_focus_quest_id": -1,
+            "difficulty_type": 0,
+            "field_part": 0,
+            "hex_x": 3,
+            "hex_y": 6,
+            "hex_z": 0,
+            "is_boss_rush": 0,
+            "is_memorial_battle": 0,
+            "limit_act": 0,
+            "limit_party_num": 0,
+            "lock_treasure_item": [],
+            "locked_rule_id": [],
+            "map_clear_cond": 0,
+            "map_default_cond": 0,
+            "map_part_clear_cond": 0,
+            "name": "0",
+            "opt": {
+                "s_i": -1
+            },
+            "quest_id": 63425,
+            "quest_list_group": 0,
+            "quest_type": 4,
+            "regist_party_num": 0,
+            "sort_num": 738060,
+            "symbol_label": -1,
+            "warp_point": {
+                "warp_x": 0,
+                "warp_y": 0,
+                "warp_z": 0
+            }
+        },
+        {
+            "before_talk": -1,
+            "can_skip": 0,
+            "chara_icon_id": -1,
+            "clear_num": 0,
+            "coop_theme_group": 0,
+            "crevasse_point": 0,
+            "dest_cond_quest_id": -1,
+            "dest_focus_quest_id": -1,
+            "difficulty_type": 0,
+            "field_part": 0,
+            "hex_x": 3,
+            "hex_y": 9,
+            "hex_z": 0,
+            "is_boss_rush": 0,
+            "is_memorial_battle": 0,
+            "limit_act": 0,
+            "limit_party_num": 0,
+            "lock_treasure_item": [],
+            "locked_rule_id": [],
+            "map_clear_cond": 0,
+            "map_default_cond": 0,
+            "map_part_clear_cond": 0,
+            "name": "0",
+            "opt": {
+                "s_i": -1
+            },
+            "quest_id": 63426,
+            "quest_list_group": 0,
+            "quest_type": 4,
+            "regist_party_num": 0,
+            "sort_num": 738063,
+            "symbol_label": -1,
+            "warp_point": {
+                "warp_x": 0,
+                "warp_y": 0,
+                "warp_z": 0
+            }
+        },
+        {
+            "before_talk": -1,
+            "can_skip": 0,
+            "chara_icon_id": -1,
+            "clear_num": 0,
+            "coop_theme_group": 0,
+            "crevasse_point": 0,
+            "dest_cond_quest_id": -1,
+            "dest_focus_quest_id": -1,
+            "difficulty_type": 0,
+            "field_part": 0,
+            "hex_x": 3,
+            "hex_y": 11,
+            "hex_z": 0,
+            "is_boss_rush": 0,
+            "is_memorial_battle": 0,
+            "limit_act": 0,
+            "limit_party_num": 0,
+            "lock_treasure_item": [],
+            "locked_rule_id": [],
+            "map_clear_cond": 0,
+            "map_default_cond": 0,
+            "map_part_clear_cond": 0,
+            "name": "0",
+            "opt": {
+                "s_i": -1
+            },
+            "quest_id": 63427,
+            "quest_list_group": 0,
+            "quest_type": 4,
+            "regist_party_num": 0,
+            "sort_num": 738065,
+            "symbol_label": -1,
+            "warp_point": {
+                "warp_x": 0,
+                "warp_y": 0,
+                "warp_z": 0
+            }
+        },
+        {
+            "before_talk": -1,
+            "can_skip": 0,
+            "chara_icon_id": -1,
+            "clear_num": 0,
+            "coop_theme_group": 0,
+            "crevasse_point": 0,
+            "dest_cond_quest_id": -1,
+            "dest_focus_quest_id": -1,
+            "difficulty_type": 0,
+            "field_part": 0,
+            "hex_x": 3,
+            "hex_y": 12,
+            "hex_z": 0,
+            "is_boss_rush": 0,
+            "is_memorial_battle": 0,
+            "limit_act": 0,
+            "limit_party_num": 0,
+            "lock_treasure_item": [],
+            "locked_rule_id": [],
+            "map_clear_cond": 0,
+            "map_default_cond": 0,
+            "map_part_clear_cond": 0,
+            "name": "0",
+            "opt": {
+                "s_i": -1
+            },
+            "quest_id": 63428,
+            "quest_list_group": 0,
+            "quest_type": 4,
+            "regist_party_num": 0,
+            "sort_num": 738066,
+            "symbol_label": -1,
+            "warp_point": {
+                "warp_x": 0,
+                "warp_y": 0,
+                "warp_z": 0
+            }
+        },
+        {
+            "before_talk": -1,
+            "can_skip": 0,
+            "chara_icon_id": -1,
+            "clear_num": 0,
+            "coop_theme_group": 0,
+            "crevasse_point": 0,
+            "dest_cond_quest_id": -1,
+            "dest_focus_quest_id": -1,
+            "difficulty_type": 0,
+            "field_part": 0,
+            "hex_x": 3,
+            "hex_y": 14,
+            "hex_z": 0,
+            "is_boss_rush": 0,
+            "is_memorial_battle": 0,
+            "limit_act": 0,
+            "limit_party_num": 0,
+            "lock_treasure_item": [],
+            "locked_rule_id": [],
+            "map_clear_cond": 0,
+            "map_default_cond": 0,
+            "map_part_clear_cond": 0,
+            "name": "0",
+            "opt": {
+                "s_i": -1
+            },
+            "quest_id": 63429,
+            "quest_list_group": 0,
+            "quest_type": 4,
+            "regist_party_num": 0,
+            "sort_num": 738068,
+            "symbol_label": -1,
+            "warp_point": {
+                "warp_x": 0,
+                "warp_y": 0,
+                "warp_z": 0
+            }
+        },
+        {
+            "before_talk": -1,
+            "can_skip": 0,
+            "chara_icon_id": -1,
+            "clear_num": 0,
+            "coop_theme_group": 0,
+            "crevasse_point": 0,
+            "dest_cond_quest_id": -1,
+            "dest_focus_quest_id": -1,
+            "difficulty_type": 0,
+            "field_part": 0,
+            "hex_x": 3,
+            "hex_y": 19,
+            "hex_z": 0,
+            "is_boss_rush": 0,
+            "is_memorial_battle": 0,
+            "limit_act": 0,
+            "limit_party_num": 0,
+            "lock_treasure_item": [],
+            "locked_rule_id": [],
+            "map_clear_cond": 0,
+            "map_default_cond": 0,
+            "map_part_clear_cond": 0,
+            "name": "0",
+            "opt": {
+                "s_i": -1
+            },
+            "quest_id": 63430,
+            "quest_list_group": 0,
+            "quest_type": 4,
+            "regist_party_num": 0,
+            "sort_num": 738073,
+            "symbol_label": -1,
+            "warp_point": {
+                "warp_x": 0,
+                "warp_y": 0,
+                "warp_z": 0
+            }
+        },
+        {
+            "before_talk": -1,
+            "can_skip": 0,
+            "chara_icon_id": -1,
+            "clear_num": 0,
+            "coop_theme_group": 0,
+            "crevasse_point": 0,
+            "dest_cond_quest_id": -1,
+            "dest_focus_quest_id": -1,
+            "difficulty_type": 0,
+            "field_part": 0,
+            "hex_x": 3,
+            "hex_y": 20,
+            "hex_z": 0,
+            "is_boss_rush": 0,
+            "is_memorial_battle": 0,
+            "limit_act": 0,
+            "limit_party_num": 0,
+            "lock_treasure_item": [],
+            "locked_rule_id": [],
+            "map_clear_cond": 0,
+            "map_default_cond": 0,
+            "map_part_clear_cond": 0,
+            "name": "0",
+            "opt": {
+                "s_i": -1
+            },
+            "quest_id": 63431,
+            "quest_list_group": 0,
+            "quest_type": 4,
+            "regist_party_num": 0,
+            "sort_num": 738074,
+            "symbol_label": -1,
+            "warp_point": {
+                "warp_x": 0,
+                "warp_y": 0,
+                "warp_z": 0
+            }
+        },
+        {
+            "before_talk": -1,
+            "can_skip": 0,
+            "chara_icon_id": -1,
+            "clear_num": 0,
+            "coop_theme_group": 0,
+            "crevasse_point": 0,
+            "dest_cond_quest_id": -1,
+            "dest_focus_quest_id": -1,
+            "difficulty_type": 0,
+            "field_part": 0,
+            "hex_x": 4,
+            "hex_y": 5,
+            "hex_z": 0,
+            "is_boss_rush": 0,
+            "is_memorial_battle": 0,
+            "limit_act": 0,
+            "limit_party_num": 0,
+            "lock_treasure_item": [],
+            "locked_rule_id": [],
+            "map_clear_cond": 0,
+            "map_default_cond": 0,
+            "map_part_clear_cond": 0,
+            "name": "0",
+            "opt": {
+                "s_i": -1
+            },
+            "quest_id": 63432,
+            "quest_list_group": 0,
+            "quest_type": 4,
+            "regist_party_num": 0,
+            "sort_num": 738084,
+            "symbol_label": -1,
+            "warp_point": {
+                "warp_x": 0,
+                "warp_y": 0,
+                "warp_z": 0
+            }
+        },
+        {
+            "before_talk": -1,
+            "can_skip": 0,
+            "chara_icon_id": -1,
+            "clear_num": 0,
+            "coop_theme_group": 0,
+            "crevasse_point": 0,
+            "dest_cond_quest_id": -1,
+            "dest_focus_quest_id": -1,
+            "difficulty_type": 0,
+            "field_part": 0,
+            "hex_x": 4,
+            "hex_y": 6,
+            "hex_z": 0,
+            "is_boss_rush": 0,
+            "is_memorial_battle": 0,
+            "limit_act": 0,
+            "limit_party_num": 0,
+            "lock_treasure_item": [],
+            "locked_rule_id": [],
+            "map_clear_cond": 0,
+            "map_default_cond": 0,
+            "map_part_clear_cond": 0,
+            "name": "0",
+            "opt": {
+                "s_i": -1
+            },
+            "quest_id": 63433,
+            "quest_list_group": 0,
+            "quest_type": 4,
+            "regist_party_num": 0,
+            "sort_num": 738085,
+            "symbol_label": -1,
+            "warp_point": {
+                "warp_x": 0,
+                "warp_y": 0,
+                "warp_z": 0
+            }
+        },
+        {
+            "before_talk": -1,
+            "can_skip": 0,
+            "chara_icon_id": -1,
+            "clear_num": 0,
+            "coop_theme_group": 0,
+            "crevasse_point": 0,
+            "dest_cond_quest_id": -1,
+            "dest_focus_quest_id": -1,
+            "difficulty_type": 0,
+            "field_part": 0,
+            "hex_x": 4,
+            "hex_y": 7,
+            "hex_z": 0,
+            "is_boss_rush": 0,
+            "is_memorial_battle": 0,
+            "limit_act": 0,
+            "limit_party_num": 0,
+            "lock_treasure_item": [],
+            "locked_rule_id": [],
+            "map_clear_cond": 0,
+            "map_default_cond": 0,
+            "map_part_clear_cond": 0,
+            "name": "0",
+            "opt": {
+                "s_i": -1
+            },
+            "quest_id": 63434,
+            "quest_list_group": 0,
+            "quest_type": 4,
+            "regist_party_num": 0,
+            "sort_num": 738086,
+            "symbol_label": -1,
+            "warp_point": {
+                "warp_x": 0,
+                "warp_y": 0,
+                "warp_z": 0
+            }
+        },
+        {
+            "before_talk": -1,
+            "can_skip": 0,
+            "chara_icon_id": -1,
+            "clear_num": 0,
+            "coop_theme_group": 0,
+            "crevasse_point": 0,
+            "dest_cond_quest_id": -1,
+            "dest_focus_quest_id": -1,
+            "difficulty_type": 0,
+            "field_part": 0,
+            "hex_x": 4,
+            "hex_y": 8,
+            "hex_z": 0,
+            "is_boss_rush": 0,
+            "is_memorial_battle": 0,
+            "limit_act": 0,
+            "limit_party_num": 0,
+            "lock_treasure_item": [],
+            "locked_rule_id": [],
+            "map_clear_cond": 0,
+            "map_default_cond": 0,
+            "map_part_clear_cond": 0,
+            "name": "0",
+            "opt": {
+                "s_i": -1
+            },
+            "quest_id": 63435,
+            "quest_list_group": 0,
+            "quest_type": 4,
+            "regist_party_num": 0,
+            "sort_num": 738087,
+            "symbol_label": -1,
+            "warp_point": {
+                "warp_x": 0,
+                "warp_y": 0,
+                "warp_z": 0
+            }
+        },
+        {
+            "before_talk": -1,
+            "can_skip": 0,
+            "chara_icon_id": -1,
+            "clear_num": 0,
+            "coop_theme_group": 0,
+            "crevasse_point": 0,
+            "dest_cond_quest_id": -1,
+            "dest_focus_quest_id": -1,
+            "difficulty_type": 0,
+            "field_part": 0,
+            "hex_x": 4,
+            "hex_y": 9,
+            "hex_z": 0,
+            "is_boss_rush": 0,
+            "is_memorial_battle": 0,
+            "limit_act": 0,
+            "limit_party_num": 0,
+            "lock_treasure_item": [],
+            "locked_rule_id": [],
+            "map_clear_cond": 0,
+            "map_default_cond": 0,
+            "map_part_clear_cond": 0,
+            "name": "0",
+            "opt": {
+                "s_i": -1
+            },
+            "quest_id": 63436,
+            "quest_list_group": 0,
+            "quest_type": 4,
+            "regist_party_num": 0,
+            "sort_num": 738088,
+            "symbol_label": -1,
+            "warp_point": {
+                "warp_x": 0,
+                "warp_y": 0,
+                "warp_z": 0
+            }
+        },
+        {
+            "before_talk": -1,
+            "can_skip": 0,
+            "chara_icon_id": -1,
+            "clear_num": 0,
+            "coop_theme_group": 0,
+            "crevasse_point": 0,
+            "dest_cond_quest_id": -1,
+            "dest_focus_quest_id": -1,
+            "difficulty_type": 0,
+            "field_part": 0,
+            "hex_x": 4,
+            "hex_y": 11,
+            "hex_z": 0,
+            "is_boss_rush": 0,
+            "is_memorial_battle": 0,
+            "limit_act": 0,
+            "limit_party_num": 0,
+            "lock_treasure_item": [],
+            "locked_rule_id": [],
+            "map_clear_cond": 0,
+            "map_default_cond": 0,
+            "map_part_clear_cond": 0,
+            "name": "0",
+            "opt": {
+                "s_i": -1
+            },
+            "quest_id": 63437,
+            "quest_list_group": 0,
+            "quest_type": 4,
+            "regist_party_num": 0,
+            "sort_num": 738090,
+            "symbol_label": -1,
+            "warp_point": {
+                "warp_x": 0,
+                "warp_y": 0,
+                "warp_z": 0
+            }
+        },
+        {
+            "before_talk": -1,
+            "can_skip": 0,
+            "chara_icon_id": -1,
+            "clear_num": 0,
+            "coop_theme_group": 0,
+            "crevasse_point": 0,
+            "dest_cond_quest_id": -1,
+            "dest_focus_quest_id": -1,
+            "difficulty_type": 0,
+            "field_part": 0,
+            "hex_x": 4,
+            "hex_y": 19,
+            "hex_z": 0,
+            "is_boss_rush": 0,
+            "is_memorial_battle": 0,
+            "limit_act": 0,
+            "limit_party_num": 0,
+            "lock_treasure_item": [],
+            "locked_rule_id": [],
+            "map_clear_cond": 0,
+            "map_default_cond": 0,
+            "map_part_clear_cond": 0,
+            "name": "0",
+            "opt": {
+                "s_i": -1
+            },
+            "quest_id": 63438,
+            "quest_list_group": 0,
+            "quest_type": 4,
+            "regist_party_num": 0,
+            "sort_num": 738098,
+            "symbol_label": -1,
+            "warp_point": {
+                "warp_x": 0,
+                "warp_y": 0,
+                "warp_z": 0
+            }
+        },
+        {
+            "before_talk": -1,
+            "can_skip": 0,
+            "chara_icon_id": -1,
+            "clear_num": 0,
+            "coop_theme_group": 0,
+            "crevasse_point": 0,
+            "dest_cond_quest_id": -1,
+            "dest_focus_quest_id": -1,
+            "difficulty_type": 0,
+            "field_part": 0,
+            "hex_x": 5,
+            "hex_y": 5,
+            "hex_z": 0,
+            "is_boss_rush": 0,
+            "is_memorial_battle": 0,
+            "limit_act": 0,
+            "limit_party_num": 0,
+            "lock_treasure_item": [],
+            "locked_rule_id": [],
+            "map_clear_cond": 0,
+            "map_default_cond": 0,
+            "map_part_clear_cond": 0,
+            "name": "0",
+            "opt": {
+                "s_i": -1
+            },
+            "quest_id": 63439,
+            "quest_list_group": 0,
+            "quest_type": 4,
+            "regist_party_num": 0,
+            "sort_num": 738109,
+            "symbol_label": -1,
+            "warp_point": {
+                "warp_x": 0,
+                "warp_y": 0,
+                "warp_z": 0
+            }
+        },
+        {
+            "before_talk": -1,
+            "can_skip": 0,
+            "chara_icon_id": -1,
+            "clear_num": 0,
+            "coop_theme_group": 0,
+            "crevasse_point": 0,
+            "dest_cond_quest_id": -1,
+            "dest_focus_quest_id": -1,
+            "difficulty_type": 0,
+            "field_part": 0,
+            "hex_x": 5,
+            "hex_y": 6,
+            "hex_z": 0,
+            "is_boss_rush": 0,
+            "is_memorial_battle": 0,
+            "limit_act": 0,
+            "limit_party_num": 0,
+            "lock_treasure_item": [],
+            "locked_rule_id": [],
+            "map_clear_cond": 0,
+            "map_default_cond": 0,
+            "map_part_clear_cond": 0,
+            "name": "0",
+            "opt": {
+                "s_i": -1
+            },
+            "quest_id": 63440,
+            "quest_list_group": 0,
+            "quest_type": 4,
+            "regist_party_num": 0,
+            "sort_num": 738110,
+            "symbol_label": -1,
+            "warp_point": {
+                "warp_x": 0,
+                "warp_y": 0,
+                "warp_z": 0
+            }
+        },
+        {
+            "before_talk": -1,
+            "can_skip": 0,
+            "chara_icon_id": -1,
+            "clear_num": 0,
+            "coop_theme_group": 0,
+            "crevasse_point": 0,
+            "dest_cond_quest_id": -1,
+            "dest_focus_quest_id": -1,
+            "difficulty_type": 0,
+            "field_part": 0,
+            "hex_x": 1,
+            "hex_y": 15,
+            "hex_z": 0,
+            "is_boss_rush": 0,
+            "is_memorial_battle": 0,
+            "limit_act": 0,
+            "limit_party_num": 0,
+            "lock_treasure_item": [],
+            "locked_rule_id": [],
+            "map_clear_cond": 0,
+            "map_default_cond": 0,
+            "map_part_clear_cond": 0,
+            "name": "0",
+            "opt": {
+                "s_i": -1
+            },
+            "quest_id": 63441,
+            "quest_list_group": 0,
+            "quest_type": 6,
+            "regist_party_num": 0,
+            "sort_num": 738019,
+            "symbol_label": -1,
+            "warp_point": {
+                "warp_x": 0,
+                "warp_y": 0,
+                "warp_z": 0
+            }
+        },
+        {
+            "before_talk": -1,
+            "can_skip": 0,
+            "chara_icon_id": -1,
+            "clear_num": 0,
+            "coop_theme_group": 0,
+            "crevasse_point": 0,
+            "dest_cond_quest_id": -1,
+            "dest_focus_quest_id": -1,
+            "difficulty_type": 0,
+            "field_part": 0,
+            "hex_x": 1,
+            "hex_y": 19,
+            "hex_z": 0,
+            "is_boss_rush": 0,
+            "is_memorial_battle": 0,
+            "limit_act": 0,
+            "limit_party_num": 0,
+            "lock_treasure_item": [],
+            "locked_rule_id": [],
+            "map_clear_cond": 0,
+            "map_default_cond": 0,
+            "map_part_clear_cond": 0,
+            "name": "0",
+            "opt": {
+                "s_i": -1
+            },
+            "quest_id": 63442,
+            "quest_list_group": 0,
+            "quest_type": 6,
+            "regist_party_num": 0,
+            "sort_num": 738023,
+            "symbol_label": -1,
+            "warp_point": {
+                "warp_x": 0,
+                "warp_y": 0,
+                "warp_z": 0
+            }
+        },
+        {
+            "before_talk": -1,
+            "can_skip": 0,
+            "chara_icon_id": -1,
+            "clear_num": 0,
+            "coop_theme_group": 0,
+            "crevasse_point": 0,
+            "dest_cond_quest_id": -1,
+            "dest_focus_quest_id": -1,
+            "difficulty_type": 0,
+            "field_part": 0,
+            "hex_x": 2,
+            "hex_y": 12,
+            "hex_z": 0,
+            "is_boss_rush": 0,
+            "is_memorial_battle": 0,
+            "limit_act": 0,
+            "limit_party_num": 0,
+            "lock_treasure_item": [],
+            "locked_rule_id": [],
+            "map_clear_cond": 0,
+            "map_default_cond": 0,
+            "map_part_clear_cond": 0,
+            "name": "0",
+            "opt": {
+                "s_i": -1
+            },
+            "quest_id": 63443,
+            "quest_list_group": 0,
+            "quest_type": 6,
+            "regist_party_num": 0,
+            "sort_num": 738041,
+            "symbol_label": -1,
+            "warp_point": {
+                "warp_x": 0,
+                "warp_y": 0,
+                "warp_z": 0
+            }
+        },
+        {
+            "before_talk": -1,
+            "can_skip": 0,
+            "chara_icon_id": -1,
+            "clear_num": 0,
+            "coop_theme_group": 0,
+            "crevasse_point": 0,
+            "dest_cond_quest_id": -1,
+            "dest_focus_quest_id": -1,
+            "difficulty_type": 0,
+            "field_part": 0,
+            "hex_x": 2,
+            "hex_y": 17,
+            "hex_z": 0,
+            "is_boss_rush": 0,
+            "is_memorial_battle": 0,
+            "limit_act": 0,
+            "limit_party_num": 0,
+            "lock_treasure_item": [],
+            "locked_rule_id": [],
+            "map_clear_cond": 0,
+            "map_default_cond": 0,
+            "map_part_clear_cond": 0,
+            "name": "0",
+            "opt": {
+                "s_i": -1
+            },
+            "quest_id": 63444,
+            "quest_list_group": 0,
+            "quest_type": 6,
+            "regist_party_num": 0,
+            "sort_num": 738046,
+            "symbol_label": -1,
+            "warp_point": {
+                "warp_x": 0,
+                "warp_y": 0,
+                "warp_z": 0
+            }
+        },
+        {
+            "before_talk": -1,
+            "can_skip": 0,
+            "chara_icon_id": -1,
+            "clear_num": 0,
+            "coop_theme_group": 0,
+            "crevasse_point": 0,
+            "dest_cond_quest_id": -1,
+            "dest_focus_quest_id": -1,
+            "difficulty_type": 0,
+            "field_part": 0,
+            "hex_x": 3,
+            "hex_y": 7,
+            "hex_z": 0,
+            "is_boss_rush": 0,
+            "is_memorial_battle": 0,
+            "limit_act": 0,
+            "limit_party_num": 0,
+            "lock_treasure_item": [],
+            "locked_rule_id": [],
+            "map_clear_cond": 0,
+            "map_default_cond": 0,
+            "map_part_clear_cond": 0,
+            "name": "0",
+            "opt": {
+                "s_i": -1
+            },
+            "quest_id": 63445,
+            "quest_list_group": 0,
+            "quest_type": 6,
+            "regist_party_num": 0,
+            "sort_num": 738061,
+            "symbol_label": -1,
+            "warp_point": {
+                "warp_x": 0,
+                "warp_y": 0,
+                "warp_z": 0
+            }
+        },
+        {
+            "before_talk": -1,
+            "can_skip": 0,
+            "chara_icon_id": -1,
+            "clear_num": 0,
+            "coop_theme_group": 0,
+            "crevasse_point": 0,
+            "dest_cond_quest_id": -1,
+            "dest_focus_quest_id": -1,
+            "difficulty_type": 0,
+            "field_part": 0,
+            "hex_x": 3,
+            "hex_y": 8,
+            "hex_z": 0,
+            "is_boss_rush": 0,
+            "is_memorial_battle": 0,
+            "limit_act": 0,
+            "limit_party_num": 0,
+            "lock_treasure_item": [],
+            "locked_rule_id": [],
+            "map_clear_cond": 0,
+            "map_default_cond": 0,
+            "map_part_clear_cond": 0,
+            "name": "0",
+            "opt": {
+                "s_i": -1
+            },
+            "quest_id": 63446,
+            "quest_list_group": 0,
+            "quest_type": 6,
+            "regist_party_num": 0,
+            "sort_num": 738062,
+            "symbol_label": -1,
+            "warp_point": {
+                "warp_x": 0,
+                "warp_y": 0,
+                "warp_z": 0
+            }
+        },
+        {
+            "before_talk": -1,
+            "can_skip": 0,
+            "chara_icon_id": -1,
+            "clear_num": 0,
+            "coop_theme_group": 0,
+            "crevasse_point": 0,
+            "dest_cond_quest_id": -1,
+            "dest_focus_quest_id": -1,
+            "difficulty_type": 0,
+            "field_part": 0,
+            "hex_x": 3,
+            "hex_y": 10,
+            "hex_z": 0,
+            "is_boss_rush": 0,
+            "is_memorial_battle": 0,
+            "limit_act": 0,
+            "limit_party_num": 0,
+            "lock_treasure_item": [],
+            "locked_rule_id": [],
+            "map_clear_cond": 0,
+            "map_default_cond": 0,
+            "map_part_clear_cond": 0,
+            "name": "0",
+            "opt": {
+                "s_i": -1
+            },
+            "quest_id": 63447,
+            "quest_list_group": 0,
+            "quest_type": 6,
+            "regist_party_num": 0,
+            "sort_num": 738064,
+            "symbol_label": -1,
+            "warp_point": {
+                "warp_x": 0,
+                "warp_y": 0,
+                "warp_z": 0
+            }
+        },
+        {
+            "before_talk": -1,
+            "can_skip": 0,
+            "chara_icon_id": -1,
+            "clear_num": 0,
+            "coop_theme_group": 0,
+            "crevasse_point": 0,
+            "dest_cond_quest_id": -1,
+            "dest_focus_quest_id": -1,
+            "difficulty_type": 0,
+            "field_part": 0,
+            "hex_x": 3,
+            "hex_y": 15,
+            "hex_z": 0,
+            "is_boss_rush": 0,
+            "is_memorial_battle": 0,
+            "limit_act": 0,
+            "limit_party_num": 0,
+            "lock_treasure_item": [],
+            "locked_rule_id": [],
+            "map_clear_cond": 0,
+            "map_default_cond": 0,
+            "map_part_clear_cond": 0,
+            "name": "0",
+            "opt": {
+                "s_i": -1
+            },
+            "quest_id": 63448,
+            "quest_list_group": 0,
+            "quest_type": 6,
+            "regist_party_num": 0,
+            "sort_num": 738069,
+            "symbol_label": -1,
+            "warp_point": {
+                "warp_x": 0,
+                "warp_y": 0,
+                "warp_z": 0
+            }
+        },
+        {
+            "before_talk": -1,
+            "can_skip": 0,
+            "chara_icon_id": -1,
+            "clear_num": 0,
+            "coop_theme_group": 0,
+            "crevasse_point": 0,
+            "dest_cond_quest_id": -1,
+            "dest_focus_quest_id": -1,
+            "difficulty_type": 0,
+            "field_part": 0,
+            "hex_x": 4,
+            "hex_y": 12,
+            "hex_z": 0,
+            "is_boss_rush": 0,
+            "is_memorial_battle": 0,
+            "limit_act": 0,
+            "limit_party_num": 0,
+            "lock_treasure_item": [],
+            "locked_rule_id": [],
+            "map_clear_cond": 0,
+            "map_default_cond": 0,
+            "map_part_clear_cond": 0,
+            "name": "0",
+            "opt": {
+                "s_i": -1
+            },
+            "quest_id": 63449,
+            "quest_list_group": 0,
+            "quest_type": 6,
+            "regist_party_num": 0,
+            "sort_num": 738091,
+            "symbol_label": -1,
+            "warp_point": {
+                "warp_x": 0,
+                "warp_y": 0,
+                "warp_z": 0
+            }
+        },
+        {
+            "before_talk": -1,
+            "can_skip": 0,
+            "chara_icon_id": -1,
+            "clear_num": 0,
+            "coop_theme_group": 0,
+            "crevasse_point": 0,
+            "dest_cond_quest_id": -1,
+            "dest_focus_quest_id": -1,
+            "difficulty_type": 0,
+            "field_part": 0,
+            "hex_x": 5,
+            "hex_y": 7,
+            "hex_z": 0,
+            "is_boss_rush": 0,
+            "is_memorial_battle": 0,
+            "limit_act": 0,
+            "limit_party_num": 0,
+            "lock_treasure_item": [],
+            "locked_rule_id": [],
+            "map_clear_cond": 0,
+            "map_default_cond": 0,
+            "map_part_clear_cond": 0,
+            "name": "0",
+            "opt": {
+                "s_i": -1
+            },
+            "quest_id": 63450,
+            "quest_list_group": 0,
+            "quest_type": 6,
+            "regist_party_num": 0,
+            "sort_num": 738111,
+            "symbol_label": -1,
+            "warp_point": {
+                "warp_x": 0,
+                "warp_y": 0,
+                "warp_z": 0
+            }
+        },
+        {
+            "before_talk": -1,
+            "can_skip": 0,
+            "chara_icon_id": -1,
+            "clear_num": 0,
+            "coop_theme_group": 0,
+            "crevasse_point": 0,
+            "dest_cond_quest_id": -1,
+            "dest_focus_quest_id": -1,
+            "difficulty_type": 0,
+            "field_part": 0,
+            "hex_x": 5,
+            "hex_y": 9,
+            "hex_z": 0,
+            "is_boss_rush": 0,
+            "is_memorial_battle": 0,
+            "limit_act": 0,
+            "limit_party_num": 0,
+            "lock_treasure_item": [],
+            "locked_rule_id": [],
+            "map_clear_cond": 0,
+            "map_default_cond": 0,
+            "map_part_clear_cond": 0,
+            "name": "0",
+            "opt": {
+                "s_i": -1
+            },
+            "quest_id": 63451,
+            "quest_list_group": 0,
+            "quest_type": 6,
+            "regist_party_num": 0,
+            "sort_num": 738113,
+            "symbol_label": -1,
+            "warp_point": {
+                "warp_x": 0,
+                "warp_y": 0,
+                "warp_z": 0
+            }
+        },
+        {
+            "before_talk": -1,
+            "can_skip": 0,
+            "chara_icon_id": -1,
+            "clear_num": 0,
+            "coop_theme_group": 0,
+            "crevasse_point": 0,
+            "dest_cond_quest_id": -1,
+            "dest_focus_quest_id": -1,
+            "difficulty_type": 0,
+            "field_part": 0,
+            "hex_x": 2,
+            "hex_y": 18,
+            "hex_z": 0,
+            "is_boss_rush": 0,
+            "is_memorial_battle": 0,
+            "limit_act": 0,
+            "limit_party_num": 0,
+            "lock_treasure_item": [],
+            "locked_rule_id": [],
+            "map_clear_cond": 0,
+            "map_default_cond": 0,
+            "map_part_clear_cond": 0,
+            "name": "0",
+            "opt": {
+                "s_i": -1
+            },
+            "quest_id": 63465,
+            "quest_list_group": 0,
+            "quest_type": 4,
+            "regist_party_num": 0,
+            "sort_num": 738047,
+            "symbol_label": -1,
+            "warp_point": {
+                "warp_x": 0,
+                "warp_y": 0,
+                "warp_z": 0
+            }
+        },
+        {
+            "before_talk": -1,
+            "can_skip": 0,
+            "chara_icon_id": -1,
+            "clear_num": 0,
+            "coop_theme_group": 0,
+            "crevasse_point": 0,
+            "dest_cond_quest_id": -1,
+            "dest_focus_quest_id": -1,
+            "difficulty_type": 0,
+            "field_part": 0,
+            "hex_x": 3,
+            "hex_y": 13,
+            "hex_z": 0,
+            "is_boss_rush": 0,
+            "is_memorial_battle": 0,
+            "limit_act": 0,
+            "limit_party_num": 0,
+            "lock_treasure_item": [],
+            "locked_rule_id": [],
+            "map_clear_cond": 0,
+            "map_default_cond": 0,
+            "map_part_clear_cond": 0,
+            "name": "0",
+            "opt": {
+                "s_i": -1
+            },
+            "quest_id": 63466,
+            "quest_list_group": 0,
+            "quest_type": 4,
+            "regist_party_num": 0,
+            "sort_num": 738067,
+            "symbol_label": -1,
+            "warp_point": {
+                "warp_x": 0,
+                "warp_y": 0,
+                "warp_z": 0
+            }
+        },
+        {
+            "before_talk": -1,
+            "can_skip": 0,
+            "chara_icon_id": -1,
+            "clear_num": 0,
+            "coop_theme_group": 0,
+            "crevasse_point": 0,
+            "dest_cond_quest_id": -1,
+            "dest_focus_quest_id": -1,
+            "difficulty_type": 0,
+            "field_part": 0,
+            "hex_x": 2,
+            "hex_y": 10,
+            "hex_z": 0,
+            "is_boss_rush": 0,
+            "is_memorial_battle": 0,
+            "limit_act": 0,
+            "limit_party_num": 0,
+            "lock_treasure_item": [],
+            "locked_rule_id": [],
+            "map_clear_cond": 0,
+            "map_default_cond": 0,
+            "map_part_clear_cond": 0,
+            "name": "宝1",
+            "opt": {
+                "s_i": -1
+            },
+            "quest_id": 63468,
+            "quest_list_group": 0,
+            "quest_type": 2,
+            "regist_party_num": 0,
+            "sort_num": 738039,
+            "symbol_label": -1,
+            "warp_point": {
+                "warp_x": 0,
+                "warp_y": 0,
+                "warp_z": 0
+            }
+        },
+        {
+            "before_talk": -1,
+            "can_skip": 0,
+            "chara_icon_id": -1,
+            "clear_num": 0,
+            "coop_theme_group": 0,
+            "crevasse_point": 0,
+            "dest_cond_quest_id": -1,
+            "dest_focus_quest_id": -1,
+            "difficulty_type": 0,
+            "field_part": 0,
+            "hex_x": 5,
+            "hex_y": 8,
+            "hex_z": 0,
+            "is_boss_rush": 0,
+            "is_memorial_battle": 0,
+            "limit_act": 0,
+            "limit_party_num": 0,
+            "lock_treasure_item": [],
+            "locked_rule_id": [],
+            "map_clear_cond": 0,
+            "map_default_cond": 0,
+            "map_part_clear_cond": 0,
+            "name": "宝2",
+            "opt": {
+                "s_i": -1
+            },
+            "quest_id": 63469,
+            "quest_list_group": 0,
+            "quest_type": 2,
+            "regist_party_num": 0,
+            "sort_num": 738112,
+            "symbol_label": -1,
+            "warp_point": {
+                "warp_x": 0,
+                "warp_y": 0,
+                "warp_z": 0
+            }
+        },
+        {
+            "before_talk": -1,
+            "can_skip": 0,
+            "chara_icon_id": -1,
+            "clear_num": 0,
+            "coop_theme_group": 0,
+            "crevasse_point": 0,
+            "dest_cond_quest_id": -1,
+            "dest_focus_quest_id": -1,
+            "difficulty_type": 0,
+            "field_part": 0,
+            "hex_x": 4,
+            "hex_y": 4,
+            "hex_z": 0,
+            "is_boss_rush": 0,
+            "is_memorial_battle": 0,
+            "limit_act": 0,
+            "limit_party_num": 0,
+            "lock_treasure_item": [],
+            "locked_rule_id": [],
+            "map_clear_cond": 0,
+            "map_default_cond": 0,
+            "map_part_clear_cond": 0,
+            "name": "神・幻獣界　シヴァへの挑戦LUFENIA用リストロック",
+            "opt": {
+                "s_i": -1
+            },
+            "quest_id": 63475,
+            "quest_list_group": 1,
+            "quest_type": 12,
+            "regist_party_num": 0,
+            "sort_num": 738083,
+            "symbol_label": -1,
+            "warp_point": {
+                "warp_x": 1,
+                "warp_y": 1,
+                "warp_z": 1
+            }
+        },
+        {
+            "before_talk": -1,
+            "can_skip": 0,
+            "chara_icon_id": -1,
+            "clear_num": 0,
+            "coop_theme_group": 0,
+            "crevasse_point": 0,
+            "dest_cond_quest_id": -1,
+            "dest_focus_quest_id": -1,
+            "difficulty_type": 0,
+            "field_part": 0,
+            "hex_x": 1,
+            "hex_y": 1,
+            "hex_z": 1,
+            "is_boss_rush": 0,
+            "is_memorial_battle": 0,
+            "limit_act": 0,
+            "limit_party_num": 0,
+            "lock_treasure_item": [],
+            "locked_rule_id": [],
+            "map_clear_cond": 0,
+            "map_default_cond": 0,
+            "map_part_clear_cond": 0,
+            "name": "0",
+            "opt": {
+                "bg_index": 0,
+                "bg_x": 0,
+                "bg_y": 0
+            },
+            "quest_id": 63477,
+            "quest_list_group": 1,
+            "quest_type": 12,
+            "regist_party_num": 0,
+            "sort_num": 738005,
+            "symbol_label": -1,
+            "warp_point": {
+                "warp_x": 4,
+                "warp_y": 4,
+                "warp_z": 0
+            }
+        },
+        {
+            "before_talk": -1,
+            "can_skip": 0,
+            "chara_icon_id": -1,
+            "clear_num": 0,
+            "coop_theme_group": 0,
+            "crevasse_point": 0,
+            "dest_cond_quest_id": -1,
+            "dest_focus_quest_id": -1,
+            "difficulty_type": 0,
+            "field_part": 0,
+            "hex_x": 1,
+            "hex_y": 3,
+            "hex_z": 1,
+            "is_boss_rush": 0,
+            "is_memorial_battle": 0,
+            "limit_act": 0,
+            "limit_party_num": 0,
+            "lock_treasure_item": [],
+            "locked_rule_id": [],
+            "map_clear_cond": 0,
+            "map_default_cond": 0,
+            "map_part_clear_cond": 0,
+            "name": "0",
+            "opt": {
+                "bg_index": 0,
+                "bg_x": 0,
+                "bg_y": 0
+            },
+            "quest_id": 63479,
+            "quest_list_group": 1,
+            "quest_type": 13,
+            "regist_party_num": 0,
+            "sort_num": 738007,
+            "symbol_label": -1,
+            "warp_point": {
+                "warp_x": 4,
+                "warp_y": 4,
+                "warp_z": 0
+            }
+        }
+    ],
+    "field_rule": [],
+    "level_multiply_set": {},
+    "lock_treasure_items": [],
+    "map_expire_date": -1,
+    "nonce": "cewyrs7wMMFC7yiT",
+    "status_code": 0,
+    "verup_code": 0
+}
