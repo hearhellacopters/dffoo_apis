@@ -1,0 +1,417 @@
+{
+    "battle_stage": {
+        "board_id": 0,
+        "board_point": 0,
+        "board_points": [
+            {
+                "board_id": 50,
+                "board_point": 0
+            }
+        ],
+        "break_bonus": 12680,
+        "current_mission_step": 1,
+        "exp": 0,
+        "gil": 1120,
+        "is_boss_rush": 0,
+        "is_ignore_enemy_exp": 1,
+        "is_memorial_battle": 1,
+        "is_perfect_mission": 0,
+        "is_total_battle": 0,
+        "limit_act": 0,
+        "limit_party_num": 5,
+        "quest_battle_id": 22220,
+        "quest_missions": [
+            {
+                "complete": 0,
+                "level": 0,
+                "missions": [
+                    {
+                        "history": {
+                            "clear": 0,
+                            "progress": -1
+                        },
+                        "num": 1,
+                        "quest_mission": {
+                            "arg1": -1,
+                            "arg2": -1,
+                            "clear": 0,
+                            "description": "",
+                            "mission_type": 2,
+                            "mode": 1,
+                            "num": 1,
+                            "progress": -1,
+                            "rewards": [
+                                {
+                                    "item_id": 2,
+                                    "item_num": 100,
+                                    "item_type": 99
+                                }
+                            ]
+                        },
+                        "require": 1
+                    },
+                    {
+                        "history": {
+                            "clear": 0,
+                            "progress": -1
+                        },
+                        "num": 2,
+                        "quest_mission": {
+                            "arg1": 3,
+                            "arg2": -1,
+                            "clear": 0,
+                            "description": "",
+                            "mission_type": 63,
+                            "mode": 3,
+                            "num": 2,
+                            "progress": -1,
+                            "rewards": [
+                                {
+                                    "item_id": 2,
+                                    "item_num": 100,
+                                    "item_type": 99
+                                }
+                            ]
+                        },
+                        "require": 3
+                    },
+                    {
+                        "history": {
+                            "clear": 0,
+                            "progress": -1
+                        },
+                        "num": 3,
+                        "quest_mission": {
+                            "arg1": 75,
+                            "arg2": -1,
+                            "clear": 0,
+                            "description": "",
+                            "mission_type": 3,
+                            "mode": 3,
+                            "num": 3,
+                            "progress": -1,
+                            "rewards": [
+                                {
+                                    "item_id": 2,
+                                    "item_num": 100,
+                                    "item_type": 99
+                                }
+                            ]
+                        },
+                        "require": 75
+                    },
+                    {
+                        "history": {
+                            "clear": 0,
+                            "progress": -1
+                        },
+                        "num": 4,
+                        "quest_mission": {
+                            "arg1": 1700000,
+                            "arg2": -1,
+                            "clear": 0,
+                            "mission_type": 30,
+                            "mode": 2,
+                            "num": 4,
+                            "progress": -1,
+                            "rewards": [
+                                {
+                                    "item_id": 2,
+                                    "item_num": 100,
+                                    "item_type": 99,
+                                    "quest_reward_type": 3
+                                }
+                            ]
+                        },
+                        "require": 1700000
+                    }
+                ],
+                "perfect_cleared": 0,
+                "step": 1,
+                "this_perfect_clear": 0,
+                "this_perfect_clear2": 0
+            }
+        ],
+        "regist_party_num": 3,
+        "stage_id": 60,
+        "total_mission_step": 1,
+        "waves": [
+            {
+                "bgm": 446,
+                "disable_appear_se": 0,
+                "exp": 0,
+                "formation": 1,
+                "gil": 0,
+                "num": 1,
+                "party_id": 20370020,
+                "quest_wave_id": 20370020,
+                "show_type": 0,
+                "wave_enemies": [
+                    {
+                        "battle_enemy_id": 4051,
+                        "disable_appear_se": 0,
+                        "enemy_party_id": 20370060,
+                        "exp": 0,
+                        "gil": 0,
+                        "level": 400,
+                        "max_hp": 1000000000,
+                        "party_index": 0
+                    }
+                ]
+            }
+        ]
+    },
+    "before_talk": -1,
+    "behavior_code": 0,
+    "campaign": [
+        {
+            "character_list": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20,
+                21,
+                22,
+                23,
+                24,
+                25,
+                26,
+                27,
+                28,
+                29,
+                30,
+                31,
+                32,
+                33,
+                34,
+                35,
+                36,
+                37,
+                38,
+                39,
+                40,
+                41,
+                42,
+                43,
+                44,
+                45,
+                46,
+                47,
+                48,
+                49,
+                50,
+                51,
+                52,
+                53,
+                54,
+                55,
+                56,
+                57,
+                58,
+                59,
+                60,
+                61,
+                62,
+                63,
+                64,
+                65,
+                66,
+                67,
+                68,
+                69,
+                70,
+                71,
+                72,
+                73,
+                74,
+                76,
+                77,
+                78,
+                79,
+                80,
+                81,
+                82,
+                83,
+                84,
+                85,
+                86,
+                87,
+                88,
+                89,
+                90,
+                91,
+                92,
+                101,
+                102,
+                103,
+                104,
+                105,
+                106,
+                107,
+                108,
+                109,
+                110,
+                111,
+                112,
+                113,
+                114,
+                115,
+                116,
+                117,
+                118,
+                119,
+                120,
+                121,
+                122,
+                123,
+                124,
+                125,
+                126,
+                127,
+                128,
+                129,
+                130,
+                131,
+                132,
+                133,
+                134,
+                135,
+                136,
+                137,
+                138,
+                139,
+                140,
+                141,
+                142,
+                143,
+                144,
+                145,
+                146,
+                147,
+                148,
+                149,
+                150,
+                151,
+                152,
+                153,
+                154,
+                155,
+                156,
+                157,
+                158,
+                159,
+                160,
+                161,
+                162,
+                163,
+                164,
+                165,
+                166,
+                167,
+                168,
+                169,
+                170,
+                171,
+                172,
+                173,
+                174,
+                175,
+                176,
+                177,
+                178,
+                179,
+                180,
+                181,
+                182,
+                183,
+                184,
+                185,
+                186,
+                187,
+                188,
+                189
+            ],
+            "cp_id": 537,
+            "effect": [
+                {
+                    "effect_num": 200,
+                    "effect_type": 1
+                }
+            ]
+        }
+    ],
+    "count_event": false,
+    "difficulty_level": 0,
+    "event_id": 1115,
+    "event_point_rate": {
+        "coop_boost_rate": 0,
+        "coop_num": 0,
+        "moogle_pass_rate": 0,
+        "weapon_boost_rate": 0
+    },
+    "link_bell_info": {
+        "link_bell_num": 5,
+        "link_bell_time": 1702330618109,
+        "max_num": 5,
+        "sys_interval": 7200
+    },
+    "mission_clear": false,
+    "nonce": "lGCiKYaatpuY9aih",
+    "party": {
+        "ins_summon_beast_id": 0,
+        "party": [
+            {
+                "assist_chara_id": 0,
+                "chara_id": 48,
+                "party_index": 0
+            },
+            {
+                "assist_chara_id": 0,
+                "chara_id": 53,
+                "party_index": 1
+            },
+            {
+                "assist_chara_id": 0,
+                "chara_id": 1,
+                "party_index": 2
+            }
+        ],
+        "party_num": 1,
+        "summon_beast_id": 0
+    },
+    "postproc_opt": {
+        "bg_index": 0,
+        "bg_x": 0,
+        "bg_y": 0
+    },
+    "quest_sid": "6o13cbpjo1w3vjow",
+    "quest_start_date": 1702330618109,
+    "stamina_info": {
+        "max_sp": 200,
+        "sp": 5,
+        "sp_time": 1702330472000,
+        "sys_sp_interval": 180
+    },
+    "status_code": 0,
+    "support_user_id": 0,
+    "unlocked_event": false,
+    "use_battle_ticket": 0,
+    "use_skip_ticket_id": 0,
+    "verup_code": 0
+}
