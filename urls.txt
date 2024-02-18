@@ -1,8 +1,17 @@
+-- psg.sqex-bridge.jp
+
+native/session
+update/top
+reg/top
+
+-- game(.g).dissidiaff-oo.com
+
 api/coop/create_coop_key.api
 api/coop/get_list.api
 api/coop/get_party.api
 api/coop/inactivate.api
 api/coop/request.api
+
 api/friend/favourite.api
 api/friend/follow.api
 api/friend/followers.api
@@ -14,23 +23,31 @@ api/friend/search_user.api
 api/friend/supporters.api
 api/friend/unfavourite.api
 api/friend/unfollow.api
+
 api/gacha/draw.api
 api/gacha/get_contents.api
 api/gacha/get_list.api
+
 api/info/get_information_detail.api
 api/info/get_information_list.api
 api/info/information_detail.html
+api/info/refund_form?player_id=[id]&hash=[md5]*(for bridge login)
+api/info/inquiry?player_id=[id]&hash=[md5]*(for bridge login)
+
 api/login/login_bonus_check.api
 api/login/login_check.api
+
 api/master/check_update.api
 api/master/check_update_cdn.api
 api/master/get_master.api
+
 api/mission/get_achievement_list.api
 api/mission/get_mission.api
 api/mission/get_mission_reward.api
 api/mission/get_mission_rewards.api
 api/mission/get_received_mission.api
 api/mission/set_flg_mission.api
+
 api/payment/add_reward.api
 api/payment/cancel.api
 api/payment/check_product.api
@@ -41,6 +58,7 @@ api/payment/set_birth_year_month.api
 api/presentbox/get_list.api
 api/presentbox/get_received_list.api
 api/presentbox/receive.api
+
 api/quest/battle_info.api
 api/quest/charge_link_bell.api
 api/quest/charge_sp.api
@@ -66,18 +84,22 @@ api/quest/quest_start.api
 api/quest/secret_countdown.api
 api/quest/total_battle_reset.api
 api/quest/world.api
+
 api/session/create_native_token.api
 api/session/create_user.api
 api/session/start.api
+
 api/shop/get_equipment_shop_histories.api
 api/shop/get_equipment_shop_list.api
 api/shop/get_equipment_shop_products.api
 api/shop/get_shop_products.api
 api/shop/purchase_equipment_shop_product.api
 api/shop/purchase_shop_product.api
+
 api/sns/link_account.api
 api/sns/transfer_data.api
 api/sns/unlink_account.api
+
 api/user/convert_summonboard_point.api
 api/user/crystal_awakening.api
 api/user/get_party_info.api
@@ -87,6 +109,7 @@ api/user/learn_summonboard.api
 api/user/link_strengthen.api
 api/user/set_favorite.api
 api/user/set_party_info.api
+
 api/useritem/choose_secret_passive.api
 api/useritem/equipment_composite.api
 api/useritem/equipment_generate.api
@@ -109,6 +132,7 @@ api/useritem/summonbeast_agreement.api
 api/useritem/summonbeast_composite.api
 api/useritem/use_boost_item.api
 api/useritem/use_exp_item.api
+
 api/util/check_bridge_registration.api
 api/util/delete_user_account.api
 api/util/get_init_params.api
@@ -123,3 +147,12 @@ api/util/set_status_icon.api
 api/util/set_support_chara.api
 api/util/update_device_token.api
 api/util/user_data.api
+
+-- multi(.g).dissidiaff-oo.com
+
+loadbalancing/api/v100/inquiry
+loadbalancing/api/v100/enter
+loadbalancing/api/v100/status
+loadbalancing/api/v100/leave
+
+matching/api/v100/battlestart

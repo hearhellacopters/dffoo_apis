@@ -1,0 +1,980 @@
+{
+    "battle_result": {
+        "current_mission_step": 1,
+        "hiscore": 1042999,
+        "quest_missions": [
+            {
+                "complete": 1,
+                "level": 0,
+                "missions": [
+                    {
+                        "current": {
+                            "clear": 1,
+                            "progress": 1
+                        },
+                        "history": {
+                            "clear": 0,
+                            "progress": -1
+                        },
+                        "num": 1,
+                        "quest_mission": {
+                            "arg1": -1,
+                            "arg2": -1,
+                            "clear": 1,
+                            "description": "",
+                            "mission_type": 2,
+                            "mode": 1,
+                            "num": 1,
+                            "progress": 1,
+                            "rewards": [
+                                {
+                                    "ins_id": 3932166,
+                                    "item_id": 2,
+                                    "item_num": 50,
+                                    "item_type": 99
+                                }
+                            ]
+                        },
+                        "require": 1
+                    },
+                    {
+                        "current": {
+                            "clear": 1,
+                            "progress": 12
+                        },
+                        "history": {
+                            "clear": 0,
+                            "progress": -1
+                        },
+                        "num": 2,
+                        "quest_mission": {
+                            "arg1": 100,
+                            "arg2": -1,
+                            "clear": 1,
+                            "description": "",
+                            "mission_type": 3,
+                            "mode": 3,
+                            "num": 2,
+                            "progress": 12,
+                            "rewards": [
+                                {
+                                    "ins_id": 3932166,
+                                    "item_id": 2,
+                                    "item_num": 50,
+                                    "item_type": 99
+                                }
+                            ]
+                        },
+                        "require": 100
+                    },
+                    {
+                        "current": {
+                            "clear": 1,
+                            "progress": 17
+                        },
+                        "history": {
+                            "clear": 0,
+                            "progress": -1
+                        },
+                        "num": 3,
+                        "quest_mission": {
+                            "arg1": 1,
+                            "arg2": -1,
+                            "clear": 1,
+                            "description": "",
+                            "mission_type": 4,
+                            "mode": 2,
+                            "num": 3,
+                            "progress": 17,
+                            "rewards": [
+                                {
+                                    "ins_id": 3932166,
+                                    "item_id": 2,
+                                    "item_num": 50,
+                                    "item_type": 99
+                                }
+                            ]
+                        },
+                        "require": 1
+                    },
+                    {
+                        "current": {
+                            "clear": 1,
+                            "progress": 1042999
+                        },
+                        "history": {
+                            "clear": 0,
+                            "progress": 0
+                        },
+                        "num": 4,
+                        "quest_mission": {
+                            "arg1": 5000,
+                            "arg2": -1,
+                            "clear": 1,
+                            "mission_type": 30,
+                            "mode": 2,
+                            "num": 4,
+                            "progress": 1042999,
+                            "rewards": [
+                                {
+                                    "ins_id": 3932166,
+                                    "item_id": 2,
+                                    "item_num": 50,
+                                    "item_type": 99,
+                                    "quest_reward_type": 3
+                                }
+                            ]
+                        },
+                        "require": 5000
+                    }
+                ],
+                "perfect_cleared": 0,
+                "step": 1,
+                "this_perfect_clear": 0,
+                "this_perfect_clear2": 1
+            }
+        ],
+        "total_mission_step": 1
+    },
+    "battle_ticket_rewards": [
+        {
+            "ins_id": 12242002,
+            "item_id": 761,
+            "item_num": 300,
+            "item_type": 23,
+            "quest_reward_type": 7
+        },
+        {
+            "ins_id": 8194826,
+            "item_id": 12,
+            "item_num": 60,
+            "item_type": 11,
+            "quest_reward_type": 7
+        }
+    ],
+    "behavior_code": 0,
+    "campaign": [
+        {
+            "character_list": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20,
+                21,
+                22,
+                23,
+                24,
+                25,
+                26,
+                27,
+                28,
+                29,
+                30,
+                31,
+                32,
+                33,
+                34,
+                35,
+                36,
+                37,
+                38,
+                39,
+                40,
+                41,
+                42,
+                43,
+                44,
+                45,
+                46,
+                47,
+                48,
+                49,
+                50,
+                51,
+                52,
+                53,
+                54,
+                55,
+                56,
+                57,
+                58,
+                59,
+                60,
+                61,
+                62,
+                63,
+                64,
+                65,
+                66,
+                67,
+                68,
+                69,
+                70,
+                71,
+                72,
+                73,
+                74,
+                76,
+                77,
+                78,
+                79,
+                80,
+                81,
+                82,
+                83,
+                84,
+                85,
+                86,
+                87,
+                88,
+                89,
+                90,
+                91,
+                92,
+                101,
+                102,
+                103,
+                104,
+                105,
+                106,
+                107,
+                108,
+                109,
+                110,
+                111,
+                112,
+                113,
+                114,
+                115,
+                116,
+                117,
+                118,
+                119,
+                120,
+                121,
+                122,
+                123,
+                124,
+                125,
+                126,
+                127,
+                128,
+                129,
+                130,
+                131,
+                132,
+                133,
+                134,
+                135,
+                136,
+                137,
+                138,
+                139,
+                140,
+                141,
+                142,
+                143,
+                144,
+                145,
+                146,
+                147,
+                148,
+                149,
+                150,
+                151,
+                152,
+                153,
+                154,
+                155,
+                156,
+                157,
+                158,
+                159,
+                160,
+                161,
+                162,
+                163,
+                164,
+                165,
+                166,
+                167,
+                168,
+                169,
+                170,
+                171,
+                172,
+                173,
+                174,
+                175,
+                176,
+                177,
+                178,
+                179,
+                180,
+                181,
+                182,
+                183,
+                184,
+                185,
+                186,
+                187,
+                188,
+                189
+            ],
+            "cp_id": 537,
+            "effect": [
+                {
+                    "effect_num": 200,
+                    "effect_type": 1
+                }
+            ]
+        }
+    ],
+    "character": [
+        {
+            "acquisition_date": 1565498492000,
+            "assist_ability": {
+                "assist_ability_info": []
+            },
+            "chara_id": 10,
+            "command_abilities": [
+                1,
+                2,
+                44,
+                42,
+                3922,
+                43,
+                9384
+            ],
+            "command_ability_id_a": 0,
+            "command_ability_id_b": 0,
+            "command_ability_id_c": 0,
+            "crystal_level": 71,
+            "decoration_skin_id": -1,
+            "ex_skills": [],
+            "ex_slot_keys": [
+                1
+            ],
+            "exp": 939740,
+            "ins_guard_id": 1439474132,
+            "ins_skin_id": 0,
+            "ins_weapon_id": 65432919,
+            "link_level": 0,
+            "passiv_ability": [
+                {
+                    "ins_passiv_id": 90837205
+                },
+                {
+                    "ins_passiv_id": 31204863
+                },
+                {
+                    "ins_passiv_id": 35535207
+                },
+                {
+                    "ins_passiv_id": 35535208
+                },
+                {
+                    "ins_passiv_id": 35535209
+                },
+                {
+                    "ins_passiv_id": 35535210
+                },
+                {
+                    "ins_passiv_id": 35535211
+                },
+                {
+                    "ins_passiv_id": 35535544
+                },
+                {
+                    "ins_passiv_id": 35646701
+                },
+                {
+                    "ins_passiv_id": 35649567
+                },
+                {
+                    "ins_passiv_id": 35654630
+                },
+                {
+                    "ins_passiv_id": 35711620
+                },
+                {
+                    "ins_passiv_id": 36157421
+                },
+                {
+                    "ins_passiv_id": 36158302
+                },
+                {
+                    "ins_passiv_id": 31927724
+                },
+                {
+                    "ins_passiv_id": 31927725
+                },
+                {
+                    "ins_passiv_id": 31927726
+                },
+                {
+                    "ins_passiv_id": 31927747
+                },
+                {
+                    "ins_passiv_id": 31927748
+                },
+                {
+                    "ins_passiv_id": 35597140
+                },
+                {
+                    "ins_passiv_id": 35597141
+                },
+                {
+                    "ins_passiv_id": 35597142
+                },
+                {
+                    "ins_passiv_id": 35598189
+                },
+                {
+                    "ins_passiv_id": 35598190
+                },
+                {
+                    "ins_passiv_id": 35598191
+                },
+                {
+                    "ins_passiv_id": 35678371
+                },
+                {
+                    "ins_passiv_id": 36020613
+                },
+                {
+                    "ins_passiv_id": 36158220
+                },
+                {
+                    "ins_passiv_id": 39443285
+                },
+                {
+                    "ins_passiv_id": 36156274
+                },
+                {
+                    "ins_passiv_id": 39902362
+                },
+                {
+                    "ins_passiv_id": 36156279
+                },
+                {
+                    "ins_passiv_id": 36156283
+                },
+                {
+                    "ins_passiv_id": 36157203
+                },
+                {
+                    "ins_passiv_id": 36158291
+                },
+                {
+                    "ins_passiv_id": 42222404
+                },
+                {
+                    "ins_passiv_id": 41187385
+                },
+                {
+                    "ins_passiv_id": 36156477
+                },
+                {
+                    "ins_passiv_id": 36156482
+                },
+                {
+                    "ins_passiv_id": 36156483
+                },
+                {
+                    "ins_passiv_id": 36156484
+                },
+                {
+                    "ins_passiv_id": 36156487
+                },
+                {
+                    "ins_passiv_id": 36156488
+                },
+                {
+                    "ins_passiv_id": 36156491
+                },
+                {
+                    "ins_passiv_id": 36156492
+                },
+                {
+                    "ins_passiv_id": 36156493
+                },
+                {
+                    "ins_passiv_id": 36156494
+                },
+                {
+                    "ins_passiv_id": 36156495
+                },
+                {
+                    "ins_passiv_id": 36156496
+                },
+                {
+                    "ins_passiv_id": 41187266
+                },
+                {
+                    "ins_passiv_id": 41187267
+                },
+                {
+                    "ins_passiv_id": 41187425
+                },
+                {
+                    "ins_passiv_id": 41187426
+                },
+                {
+                    "ins_passiv_id": 41187427
+                },
+                {
+                    "ins_passiv_id": 41187428
+                }
+            ],
+            "secret_ability": [
+                {
+                    "ins_id": 24968413
+                },
+                {
+                    "ins_id": 25178783
+                }
+            ],
+            "summonboard": {
+                "points": [
+                    {
+                        "board_id": 1,
+                        "board_point": 60
+                    },
+                    {
+                        "board_id": 2,
+                        "board_point": 92
+                    },
+                    {
+                        "board_id": 5,
+                        "board_point": 52
+                    },
+                    {
+                        "board_id": 7,
+                        "board_point": 3024
+                    },
+                    {
+                        "board_id": 9,
+                        "board_point": 3409
+                    },
+                    {
+                        "board_id": 10,
+                        "board_point": 593
+                    }
+                ],
+                "statuses": [
+                    {
+                        "board_id": 1,
+                        "board_num": 0,
+                        "status": "187a6fc108700"
+                    },
+                    {
+                        "board_id": 2,
+                        "board_num": 0,
+                        "status": "66fe3842102111"
+                    },
+                    {
+                        "board_id": 5,
+                        "board_num": 0,
+                        "status": "88903872670ddf"
+                    },
+                    {
+                        "board_id": 50,
+                        "board_num": 0,
+                        "status": "ffffffffffffffff:7fffffffff"
+                    }
+                ]
+            },
+            "weapon_skin_id": -1
+        },
+        {
+            "acquisition_date": 1565637673000,
+            "assist_ability": {
+                "assist_ability_info": []
+            },
+            "chara_id": 46,
+            "command_abilities": [
+                1,
+                2,
+                463,
+                461,
+                2828,
+                9202,
+                4364
+            ],
+            "command_ability_id_a": 0,
+            "command_ability_id_b": 0,
+            "command_ability_id_c": 0,
+            "crystal_level": 70,
+            "decoration_skin_id": -1,
+            "ex_skills": [],
+            "ex_slot_keys": [],
+            "exp": 898650,
+            "ins_guard_id": 1360050387,
+            "ins_skin_id": 0,
+            "ins_weapon_id": 76556131,
+            "link_level": 0,
+            "passiv_ability": [
+                {
+                    "ins_passiv_id": 52541195
+                },
+                {
+                    "ins_passiv_id": 52635571
+                },
+                {
+                    "ins_passiv_id": 52640829
+                },
+                {
+                    "ins_passiv_id": 31022705
+                },
+                {
+                    "ins_passiv_id": 31022706
+                },
+                {
+                    "ins_passiv_id": 31022707
+                },
+                {
+                    "ins_passiv_id": 36106765
+                },
+                {
+                    "ins_passiv_id": 43979497
+                },
+                {
+                    "ins_passiv_id": 43979498
+                },
+                {
+                    "ins_passiv_id": 36020964
+                },
+                {
+                    "ins_passiv_id": 36020965
+                },
+                {
+                    "ins_passiv_id": 36020966
+                },
+                {
+                    "ins_passiv_id": 52640928
+                },
+                {
+                    "ins_passiv_id": 52640929
+                },
+                {
+                    "ins_passiv_id": 52640930
+                },
+                {
+                    "ins_passiv_id": 52640931
+                },
+                {
+                    "ins_passiv_id": 52640932
+                },
+                {
+                    "ins_passiv_id": 52640933
+                },
+                {
+                    "ins_passiv_id": 52640934
+                },
+                {
+                    "ins_passiv_id": 52640935
+                },
+                {
+                    "ins_passiv_id": 52640936
+                },
+                {
+                    "ins_passiv_id": 52640937
+                }
+            ],
+            "secret_ability": [],
+            "summonboard": {
+                "points": []
+            },
+            "weapon_skin_id": 0
+        },
+        {
+            "acquisition_date": 1646030700000,
+            "assist_ability": {
+                "assist_ability_info": []
+            },
+            "chara_id": 172,
+            "command_abilities": [
+                1,
+                2,
+                18294,
+                18304,
+                18329,
+                18322
+            ],
+            "command_ability_id_a": 0,
+            "command_ability_id_b": 0,
+            "command_ability_id_c": 0,
+            "crystal_level": 70,
+            "decoration_skin_id": -1,
+            "ex_skills": [],
+            "ex_slot_keys": [],
+            "exp": 898650,
+            "ins_guard_id": 0,
+            "ins_skin_id": 0,
+            "ins_weapon_id": 134310681,
+            "link_level": 0,
+            "passiv_ability": [
+                {
+                    "ins_passiv_id": 0
+                },
+                {
+                    "ins_passiv_id": 0
+                },
+                {
+                    "ins_passiv_id": 0
+                },
+                {
+                    "ins_passiv_id": 0
+                },
+                {
+                    "ins_passiv_id": 0
+                },
+                {
+                    "ins_passiv_id": 0
+                },
+                {
+                    "ins_passiv_id": 0
+                }
+            ],
+            "secret_ability": [],
+            "summonboard": {
+                "points": []
+            },
+            "weapon_skin_id": -1
+        }
+    ],
+    "conditions": [],
+    "coop_newcomer_bonus": [],
+    "coop_reward": {
+        "3932166": [
+            {
+                "ins_id": 8194825,
+                "item_id": 11,
+                "item_num": 3,
+                "item_type": 11
+            },
+            {
+                "ins_id": 12242001,
+                "item_id": 759,
+                "item_num": 75,
+                "item_type": 23
+            },
+            {
+                "ins_id": 12242009,
+                "item_id": 760,
+                "item_num": 25,
+                "item_type": 23
+            },
+            {
+                "ins_id": 12242010,
+                "item_id": 762,
+                "item_num": 15,
+                "item_type": 23
+            }
+        ]
+    },
+    "equipment_material_rate": {},
+    "event_point": 0,
+    "field_board_point": [
+        {
+            "add_field_point_limit": 0,
+            "add_field_point_limit_rate": 0,
+            "board_id": 50,
+            "boardpoint_limit_group": 333,
+            "boardpoint_limit_id": 591,
+            "end_date": 1703656799000,
+            "field_id": 2055,
+            "field_name": "敵勢力殲滅司令",
+            "field_part": 0,
+            "field_point_current": 2934,
+            "field_point_limit": 5000,
+            "start_date": 1701324000000
+        }
+    ],
+    "ignore_rewards": [],
+    "levelup_ability": [
+        null,
+        null,
+        null
+    ],
+    "levelup_chara_infos": [],
+    "link_bell_info": {
+        "link_bell_num": 3,
+        "link_bell_time": 1702142584000,
+        "max_num": 5,
+        "sys_interval": 7200
+    },
+    "mission_clear": true,
+    "mission_progress": [],
+    "mission_status": {
+        "achievement_ids": [],
+        "mission_categories": [
+            4
+        ],
+        "mission_clear": true,
+        "unlock_gacha_ids": []
+    },
+    "new_characters": [],
+    "nonce": "rd8wqww48b1m255b",
+    "normal_quest_present_rewards": [],
+    "normal_quest_rewards": [],
+    "param_reward": {
+        "1": [
+            {
+                "ins_id": 12242001,
+                "item_id": 759,
+                "item_num": 60,
+                "item_type": 23
+            },
+            {
+                "ins_id": 12242009,
+                "item_id": 760,
+                "item_num": 20,
+                "item_type": 23
+            },
+            {
+                "ins_id": 12242010,
+                "item_id": 762,
+                "item_num": 10,
+                "item_type": 23
+            }
+        ],
+        "2": [
+            {
+                "ins_id": 12242001,
+                "item_id": 759,
+                "item_num": 60,
+                "item_type": 23
+            },
+            {
+                "ins_id": 12242009,
+                "item_id": 760,
+                "item_num": 20,
+                "item_type": 23
+            },
+            {
+                "ins_id": 12242010,
+                "item_id": 762,
+                "item_num": 10,
+                "item_type": 23
+            }
+        ],
+        "3": [
+            {
+                "ins_id": 12242001,
+                "item_id": 759,
+                "item_num": 60,
+                "item_type": 23
+            },
+            {
+                "ins_id": 12242009,
+                "item_id": 760,
+                "item_num": 20,
+                "item_type": 23
+            },
+            {
+                "ins_id": 12242010,
+                "item_id": 762,
+                "item_num": 10,
+                "item_type": 23
+            }
+        ]
+    },
+    "point_shop_info": [],
+    "present_rewards": [],
+    "quest_member_info": [],
+    "quest_term_end": 1703656799000,
+    "rewards": [
+        {
+            "ins_id": 8194825,
+            "item_id": 11,
+            "item_num": 3,
+            "item_type": 11
+        },
+        {
+            "ins_id": 8194825,
+            "item_id": 11,
+            "item_num": 3,
+            "item_type": 11
+        },
+        {
+            "ins_id": 8194825,
+            "item_id": 11,
+            "item_num": 3,
+            "item_type": 11
+        },
+        {
+            "ins_id": 12242010,
+            "item_id": 762,
+            "item_num": 10,
+            "item_type": 23,
+            "quest_reward_type": 5
+        },
+        {
+            "ins_id": 12242001,
+            "item_id": 759,
+            "item_num": 15,
+            "item_type": 23,
+            "quest_reward_type": 5
+        },
+        {
+            "ins_id": 3932166,
+            "item_id": 2,
+            "item_num": 50,
+            "item_type": 99,
+            "quest_reward_type": 2
+        }
+    ],
+    "sale_info": {},
+    "shop_sale_info": {},
+    "skip_ticket_num": 0,
+    "solo_grind_point": 0,
+    "spiritus_point": 0,
+    "stamina_info": {
+        "max_sp": 200,
+        "sp": 200,
+        "sp_time": 1702145624099,
+        "sys_sp_interval": 180
+    },
+    "status_code": 0,
+    "summonboard_common_points": [
+        {
+            "board_id": 50,
+            "board_point": 161870
+        }
+    ],
+    "time_sale": [],
+    "unlocked_gachas": [],
+    "user_data": {
+        "exp": 12691,
+        "followable_limit": 300,
+        "free_currency": 121810,
+        "friend_code": "100877615",
+        "gil": 9999999,
+        "max_equip_count": 660,
+        "party_count": 10,
+        "pay_currency": 0,
+        "player_rank": 1270,
+        "support_chara_id": 10,
+        "tag_name": "apsUTFbNUv2R",
+        "user_name": "helacoper"
+    },
+    "verup_code": 0
+}

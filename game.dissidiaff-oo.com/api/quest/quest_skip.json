@@ -1,0 +1,811 @@
+{
+    "battle_stage": {
+        "board_id": 0,
+        "board_point": 0,
+        "board_points": [
+            {
+                "board_id": 50,
+                "board_point": 200
+            }
+        ],
+        "break_bonus": 3270,
+        "current_mission_step": 1,
+        "exp": 500,
+        "gil": 900,
+        "is_boss_rush": 0,
+        "is_ignore_enemy_exp": 1,
+        "is_memorial_battle": 0,
+        "is_perfect_mission": 0,
+        "is_total_battle": 0,
+        "limit_act": 0,
+        "limit_party_num": 0,
+        "quest_battle_id": 22814,
+        "quest_missions": [
+            {
+                "complete": 1,
+                "level": 0,
+                "missions": [
+                    {
+                        "history": {
+                            "clear": 2,
+                            "progress": 1
+                        },
+                        "num": 1,
+                        "quest_mission": {
+                            "arg1": -1,
+                            "arg2": -1,
+                            "clear": 1,
+                            "description": "",
+                            "mission_type": 2,
+                            "mode": 1,
+                            "num": 1,
+                            "progress": 1,
+                            "rewards": [
+                                {
+                                    "item_id": 2,
+                                    "item_num": 50,
+                                    "item_type": 99
+                                }
+                            ]
+                        },
+                        "require": 1
+                    },
+                    {
+                        "history": {
+                            "clear": 2,
+                            "progress": 2
+                        },
+                        "num": 2,
+                        "quest_mission": {
+                            "arg1": 100,
+                            "arg2": -1,
+                            "clear": 1,
+                            "description": "",
+                            "mission_type": 3,
+                            "mode": 3,
+                            "num": 2,
+                            "progress": 2,
+                            "rewards": [
+                                {
+                                    "item_id": 2,
+                                    "item_num": 50,
+                                    "item_type": 99
+                                }
+                            ]
+                        },
+                        "require": 100
+                    },
+                    {
+                        "history": {
+                            "clear": 2,
+                            "progress": 1
+                        },
+                        "num": 3,
+                        "quest_mission": {
+                            "arg1": 1,
+                            "arg2": -1,
+                            "clear": 1,
+                            "description": "",
+                            "mission_type": 4,
+                            "mode": 2,
+                            "num": 3,
+                            "progress": 1,
+                            "rewards": [
+                                {
+                                    "item_id": 2,
+                                    "item_num": 50,
+                                    "item_type": 99
+                                }
+                            ]
+                        },
+                        "require": 1
+                    },
+                    {
+                        "history": {
+                            "clear": 2,
+                            "progress": 1082699
+                        },
+                        "num": 4,
+                        "quest_mission": {
+                            "arg1": 5000,
+                            "arg2": -1,
+                            "clear": 1,
+                            "mission_type": 30,
+                            "mode": 2,
+                            "num": 4,
+                            "progress": 1082699,
+                            "rewards": [
+                                {
+                                    "item_id": 2,
+                                    "item_num": 50,
+                                    "item_type": 99,
+                                    "quest_reward_type": 3
+                                }
+                            ]
+                        },
+                        "require": 5000
+                    }
+                ],
+                "perfect_cleared": 0,
+                "step": 1,
+                "this_perfect_clear": 0,
+                "this_perfect_clear2": 0
+            }
+        ],
+        "regist_party_num": 0,
+        "stage_id": 89,
+        "total_mission_step": 1,
+        "waves": [
+            {
+                "bgm": 141,
+                "disable_appear_se": 0,
+                "exp": 0,
+                "formation": 6,
+                "gil": 0,
+                "num": 1,
+                "party_id": 17980000,
+                "quest_wave_id": 17980000,
+                "show_type": 0,
+                "wave_enemies": [
+                    {
+                        "battle_enemy_id": 4089,
+                        "disable_appear_se": 0,
+                        "enemy_party_id": 17980000,
+                        "exp": 0,
+                        "gil": 0,
+                        "level": 70,
+                        "max_hp": 1800000,
+                        "party_index": 0,
+                        "rewards": [
+                            {
+                                "item_id": 11,
+                                "item_num": 3,
+                                "item_type": 11
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "battle_ticket_rewards": [
+        {
+            "ins_id": 12242002,
+            "item_id": 761,
+            "item_num": 60,
+            "item_type": 23,
+            "quest_reward_type": 7
+        },
+        {
+            "ins_id": 8194826,
+            "item_id": 12,
+            "item_num": 12,
+            "item_type": 11,
+            "quest_reward_type": 7
+        }
+    ],
+    "behavior_code": 0,
+    "campaign": [
+        {
+            "character_list": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20,
+                21,
+                22,
+                23,
+                24,
+                25,
+                26,
+                27,
+                28,
+                29,
+                30,
+                31,
+                32,
+                33,
+                34,
+                35,
+                36,
+                37,
+                38,
+                39,
+                40,
+                41,
+                42,
+                43,
+                44,
+                45,
+                46,
+                47,
+                48,
+                49,
+                50,
+                51,
+                52,
+                53,
+                54,
+                55,
+                56,
+                57,
+                58,
+                59,
+                60,
+                61,
+                62,
+                63,
+                64,
+                65,
+                66,
+                67,
+                68,
+                69,
+                70,
+                71,
+                72,
+                73,
+                74,
+                76,
+                77,
+                78,
+                79,
+                80,
+                81,
+                82,
+                83,
+                84,
+                85,
+                86,
+                87,
+                88,
+                89,
+                90,
+                91,
+                92,
+                101,
+                102,
+                103,
+                104,
+                105,
+                106,
+                107,
+                108,
+                109,
+                110,
+                111,
+                112,
+                113,
+                114,
+                115,
+                116,
+                117,
+                118,
+                119,
+                120,
+                121,
+                122,
+                123,
+                124,
+                125,
+                126,
+                127,
+                128,
+                129,
+                130,
+                131,
+                132,
+                133,
+                134,
+                135,
+                136,
+                137,
+                138,
+                139,
+                140,
+                141,
+                142,
+                143,
+                144,
+                145,
+                146,
+                147,
+                148,
+                149,
+                150,
+                151,
+                152,
+                153,
+                154,
+                155,
+                156,
+                157,
+                158,
+                159,
+                160,
+                161,
+                162,
+                163,
+                164,
+                165,
+                166,
+                167,
+                168,
+                169,
+                170,
+                171,
+                172,
+                173,
+                174,
+                175,
+                176,
+                177,
+                178,
+                179,
+                180,
+                181,
+                182,
+                183,
+                184,
+                185,
+                186,
+                187,
+                188,
+                189
+            ],
+            "cp_id": 537,
+            "effect": [
+                {
+                    "effect_num": 200,
+                    "effect_type": 1
+                }
+            ]
+        }
+    ],
+    "character": [
+        {
+            "acquisition_date": 1680243332000,
+            "assist_ability": {
+                "assist_ability_info": [
+                    {
+                        "assist_ability_id": 332,
+                        "assist_ability_index": 7
+                    },
+                    {
+                        "assist_ability_id": 333,
+                        "assist_ability_index": 8
+                    }
+                ]
+            },
+            "chara_id": 184,
+            "command_abilities": [
+                1,
+                2,
+                20625,
+                20630,
+                20636,
+                20657,
+                20641
+            ],
+            "command_ability_id_a": 0,
+            "command_ability_id_b": 0,
+            "command_ability_id_c": 0,
+            "crystal_level": 90,
+            "decoration_skin_id": -1,
+            "ex_skills": [],
+            "ex_slot_keys": [
+                1
+            ],
+            "exp": 1606650,
+            "ins_guard_id": 1657971096,
+            "ins_skin_id": 0,
+            "ins_weapon_id": 110018144,
+            "link_level": 0,
+            "passiv_ability": [
+                {
+                    "ins_passiv_id": 152000206
+                },
+                {
+                    "ins_passiv_id": 141156867
+                },
+                {
+                    "ins_passiv_id": 141156868
+                },
+                {
+                    "ins_passiv_id": 141156869
+                },
+                {
+                    "ins_passiv_id": 141156870
+                },
+                {
+                    "ins_passiv_id": 141156871
+                },
+                {
+                    "ins_passiv_id": 141156872
+                },
+                {
+                    "ins_passiv_id": 141156873
+                },
+                {
+                    "ins_passiv_id": 141156874
+                },
+                {
+                    "ins_passiv_id": 141156875
+                },
+                {
+                    "ins_passiv_id": 141156876
+                },
+                {
+                    "ins_passiv_id": 141156877
+                },
+                {
+                    "ins_passiv_id": 141156878
+                },
+                {
+                    "ins_passiv_id": 141156879
+                },
+                {
+                    "ins_passiv_id": 141156880
+                },
+                {
+                    "ins_passiv_id": 141156852
+                },
+                {
+                    "ins_passiv_id": 141156853
+                },
+                {
+                    "ins_passiv_id": 141156854
+                },
+                {
+                    "ins_passiv_id": 141156855
+                },
+                {
+                    "ins_passiv_id": 141156856
+                },
+                {
+                    "ins_passiv_id": 141156857
+                },
+                {
+                    "ins_passiv_id": 141156858
+                },
+                {
+                    "ins_passiv_id": 141156859
+                },
+                {
+                    "ins_passiv_id": 141156860
+                },
+                {
+                    "ins_passiv_id": 141156861
+                },
+                {
+                    "ins_passiv_id": 141156862
+                },
+                {
+                    "ins_passiv_id": 141156863
+                },
+                {
+                    "ins_passiv_id": 141156864
+                },
+                {
+                    "ins_passiv_id": 141156865
+                },
+                {
+                    "ins_passiv_id": 141156866
+                },
+                {
+                    "ins_passiv_id": 151999464
+                },
+                {
+                    "ins_passiv_id": 151999465
+                },
+                {
+                    "ins_passiv_id": 151999520
+                },
+                {
+                    "ins_passiv_id": 151999521
+                },
+                {
+                    "ins_passiv_id": 151999466
+                },
+                {
+                    "ins_passiv_id": 152000202
+                },
+                {
+                    "ins_passiv_id": 152000249
+                },
+                {
+                    "ins_passiv_id": 152000250
+                },
+                {
+                    "ins_passiv_id": 152000269
+                },
+                {
+                    "ins_passiv_id": 152000274
+                },
+                {
+                    "ins_passiv_id": 152000328
+                },
+                {
+                    "ins_passiv_id": 152000390
+                },
+                {
+                    "ins_passiv_id": 152000389
+                },
+                {
+                    "ins_passiv_id": 152000388
+                },
+                {
+                    "ins_passiv_id": 152000387
+                },
+                {
+                    "ins_passiv_id": 152000386
+                },
+                {
+                    "ins_passiv_id": 152000385
+                },
+                {
+                    "ins_passiv_id": 152000384
+                },
+                {
+                    "ins_passiv_id": 152000367
+                },
+                {
+                    "ins_passiv_id": 152000366
+                },
+                {
+                    "ins_passiv_id": 152000383
+                },
+                {
+                    "ins_passiv_id": 152000382
+                },
+                {
+                    "ins_passiv_id": 152000381
+                },
+                {
+                    "ins_passiv_id": 152000380
+                },
+                {
+                    "ins_passiv_id": 152000379
+                },
+                {
+                    "ins_passiv_id": 152000378
+                },
+                {
+                    "ins_passiv_id": 152000377
+                },
+                {
+                    "ins_passiv_id": 152000376
+                },
+                {
+                    "ins_passiv_id": 152000375
+                },
+                {
+                    "ins_passiv_id": 152000374
+                },
+                {
+                    "ins_passiv_id": 152000373
+                },
+                {
+                    "ins_passiv_id": 152000372
+                },
+                {
+                    "ins_passiv_id": 152000371
+                },
+                {
+                    "ins_passiv_id": 152000370
+                },
+                {
+                    "ins_passiv_id": 152000369
+                },
+                {
+                    "ins_passiv_id": 152000368
+                },
+                {
+                    "ins_passiv_id": 152000215
+                },
+                {
+                    "ins_passiv_id": 152000275
+                },
+                {
+                    "ins_passiv_id": 152000424
+                }
+            ],
+            "secret_ability": [],
+            "summonboard": {
+                "points": [],
+                "statuses": [
+                    {
+                        "board_id": 50,
+                        "board_num": 0,
+                        "status": "ffffffffffffffff:ffffffffffffffff:fff"
+                    }
+                ]
+            },
+            "weapon_skin_id": -1
+        }
+    ],
+    "conditions": [
+        {
+            "banner_field_id": 0,
+            "banner_id": 0,
+            "clear": 2,
+            "cond_arg1": 82909,
+            "cond_arg2": -1,
+            "cond_cl": 1,
+            "cond_txt": "0",
+            "cond_txt_arg1": "0",
+            "cond_txt_arg2": "0",
+            "cond_type": 1,
+            "current": 0,
+            "quest_cond_id": 179800,
+            "quest_id": 82910,
+            "rel_quest_cond_id": 0,
+            "require": 0
+        }
+    ],
+    "coop_reward": {
+        "3932166": [
+            {
+                "ins_id": 8194825,
+                "item_id": 11,
+                "item_num": 3,
+                "item_type": 11
+            },
+            {
+                "ins_id": 12242001,
+                "item_id": 759,
+                "item_num": 5,
+                "item_type": 23
+            }
+        ],
+        "-1": [
+            {
+                "ins_id": 8194825,
+                "item_id": 11,
+                "item_num": 3,
+                "item_type": 11
+            },
+            {
+                "ins_id": 12242001,
+                "item_id": 759,
+                "item_num": 5,
+                "item_type": 23
+            }
+        ],
+        "-2": [
+            {
+                "ins_id": 8194825,
+                "item_id": 11,
+                "item_num": 3,
+                "item_type": 11
+            },
+            {
+                "ins_id": 12242001,
+                "item_id": 759,
+                "item_num": 5,
+                "item_type": 23
+            }
+        ]
+    },
+    "equipment_material_rate": {},
+    "event_point": 0,
+    "field_board_point": [
+        {
+            "add_field_point_limit": 0,
+            "add_field_point_limit_rate": 0,
+            "board_id": 50,
+            "boardpoint_limit_group": 337,
+            "boardpoint_limit_id": 595,
+            "end_date": 1709179199000,
+            "field_id": 1798,
+            "field_name": "第4部最終章〜後編〜",
+            "field_part": 0,
+            "field_point_current": 652,
+            "field_point_limit": 5000,
+            "start_date": 1706680800000
+        }
+    ],
+    "levelup_ability": [
+        null
+    ],
+    "levelup_chara_infos": [],
+    "levelup_rewards": [],
+    "link_bell_info": {
+        "link_bell_num": 4,
+        "link_bell_time": 1707420767511,
+        "max_num": 5,
+        "sys_interval": 7200
+    },
+    "mission_clear": true,
+    "mission_progress": [],
+    "mission_status": {
+        "achievement_ids": [],
+        "mission_categories": [
+            1
+        ],
+        "mission_clear": true,
+        "unlock_gacha_ids": []
+    },
+    "new_characters": [],
+    "nonce": "LBPQioi0TuLJJJf0",
+    "param_reward": {
+        "1": [
+            {
+                "ins_id": 12242001,
+                "item_id": 759,
+                "item_num": 5,
+                "item_type": 23
+            }
+        ]
+    },
+    "present_rewards": [],
+    "quest_term_end": 1709179199000,
+    "rankup_present_rewards": [],
+    "rankup_rewards": [],
+    "rewards": [
+        {
+            "ins_id": 8194825,
+            "item_id": 11,
+            "item_num": 3,
+            "item_type": 11
+        },
+        {
+            "ins_id": 12242001,
+            "item_id": 759,
+            "item_num": 5,
+            "item_type": 23,
+            "quest_reward_type": 5
+        }
+    ],
+    "sale_info": {},
+    "shop_sale_info": {},
+    "skip_ticket_num": 85,
+    "solo_grind_point": 0,
+    "spiritus_point": 0,
+    "stamina_info": {
+        "max_sp": 200,
+        "sp": 200,
+        "sp_time": 1707420767343,
+        "sys_sp_interval": 180
+    },
+    "status_code": 0,
+    "summonboard_common_points": [
+        {
+            "board_id": 50,
+            "board_point": 126328
+        }
+    ],
+    "time_sale": [],
+    "unlocked_gachas": [],
+    "user_data": {
+        "exp": 12710,
+        "followable_limit": 300,
+        "free_currency": 154760,
+        "friend_code": "100877615",
+        "gil": 9835469,
+        "max_equip_count": 690,
+        "party_count": 10,
+        "pay_currency": 0,
+        "player_rank": 1272,
+        "support_chara_id": 10,
+        "tag_name": "apsUTFbNUv2R",
+        "user_name": "helacoper"
+    },
+    "verup_code": 0
+}

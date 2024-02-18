@@ -1,0 +1,4 @@
+object session_id is send back after each request starting with inquiry
+This object is passed to header:
+X-Session-Id
+it changes after each communication

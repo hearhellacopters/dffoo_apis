@@ -1,10 +1,11 @@
 const fs = require('fs');
 const file = JSON.parse(fs.readFileSync('./game.g.dissidiaff-oo.com/api/quest/field/quest_id_by_field.json'));
+const field_names = JSON.parse(fs.readFileSync('./game.g.dissidiaff-oo.com/api/quest/GL_mst_field_disp.json')).Added;
 const normal = file.normal
 const hard = file.hard
-const errors = {}
-for (const key in normal) {
-    normal[key].forEach(num => {
+const errors = []
+for (const field in normal) {
+    normal[field].forEach(num => {
         try {
             //check if you have a file, if so continue
             fs.readFileSync('./game.g.dissidiaff-oo.com/api/quest/quest_start/normal/' + num + '.json');
@@ -12,26 +13,24 @@ for (const key in normal) {
             //didnt find file
             try {
                 //reads field
-                const data = fs.readFileSync('./game.g.dissidiaff-oo.com/api/quest/field/normal/' + key + '.json')
+                const data = fs.readFileSync('./game.g.dissidiaff-oo.com/api/quest/field/normal/' + field + '.json')
                 const json_data = JSON.parse(data).field_quest
-                const filtered = json_data.filter(self=>self.quest_id == num)
-                if(filtered.length != 0){
-                    if( filtered[0].before_talk == -1 &&
+                const filtered = json_data.filter(self => self.quest_id == num)
+                if (filtered.length != 0) {
+                    if (filtered[0].before_talk == -1 &&
                         filtered[0].quest_list_group == 0
-                        ){
-                        console.log("quest_id "+num+" in "+key+ " missing")
-                        if(errors[key] == undefined){
-                            Object.assign(errors,{[key]:[]})
-                        }
-                        errors[key].push(num)
+                    ) {
+                        const field_name = field_names[field].name;
+                        const quest_name = filtered[0].name
+                        const str = `${field_name} #${field} - ${quest_name} #${num}`
+                        errors.push(str)
                     }
                 }
             } catch (error) {
-                console.log("Couldnt find field data for " + num);
+                console.log("Couldnt find quest data for " + num + " in field " + field);
             }
-            
+
         }
     });
 }
-fs.writeFileSync('./game.g.dissidiaff-oo.com/api/quest/gl_needed.json',JSON.stringify(errors,null,4))
-console.log(errors);
+fs.writeFileSync('./game.g.dissidiaff-oo.com/api/quest/gl_needed_normal.txt', errors.join("\n"))

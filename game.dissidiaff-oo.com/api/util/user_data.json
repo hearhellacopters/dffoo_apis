@@ -1,0 +1,341 @@
+{
+    "behavior_code": 0,
+    "decoration_status": "0",
+    "dissidia_point": 300,
+    "equipment_material_rate": {
+        "default_rate": {
+            "icon_id": 0,
+            "rates": [
+                {
+                    "exp_magnification": 12,
+                    "rate_group_id": 0,
+                    "success_type": 1
+                },
+                {
+                    "exp_magnification": 12,
+                    "rate_group_id": 0,
+                    "success_type": 2
+                },
+                {
+                    "exp_magnification": 12,
+                    "rate_group_id": 0,
+                    "success_type": 3
+                }
+            ]
+        }
+    },
+    "exp": 54,
+    "facebook_id": 0,
+    "field_board_point": [
+        {
+            "add_field_point_limit": 0,
+            "add_field_point_limit_rate": 0,
+            "board_id": 50,
+            "boardpoint_limit_group": 333,
+            "boardpoint_limit_id": 591,
+            "end_date": 1703656799000,
+            "field_id": 2055,
+            "field_name": "敵勢力殲滅司令",
+            "field_part": 0,
+            "field_point_current": 0,
+            "field_point_limit": 5000,
+            "start_date": 1701324000000
+        }
+    ],
+    "followable_limit": 112,
+    "free_currency": 4520,
+    "friend_code": "510008205",
+    "gil": 264216,
+    "init_strength_id": 0,
+    "init_strength_server_id": 1,
+    "link_bell_info": {
+        "link_bell_num": 5,
+        "link_bell_time": 1702466935479,
+        "max_num": 5,
+        "sys_interval": 7200
+    },
+    "max_artifact_count": 300,
+    "max_equip_count": 300,
+    "max_ex_guard_count": 300,
+    "max_ex_weapon_count": 300,
+    "max_item_event_unlock": 999,
+    "nonce": "xORceLWAgWT4MALM",
+    "party_count": 10,
+    "pay_currency": 0,
+    "platforms": [
+        {
+            "platform_id": "0",
+            "platform_type": 1
+        },
+        {
+            "platform_id": "0",
+            "platform_type": 2
+        },
+        {
+            "platform_id": "0",
+            "platform_type": 3
+        }
+    ],
+    "player_rank": 6,
+    "sale_info": {
+        "max_end_date": 1703065589000
+    },
+    "salutation": "よろしくお願いします！",
+    "shop_list": [
+        {
+            "disp_type": 1,
+            "shop_groups": [
+                41
+            ]
+        }
+    ],
+    "shop_sale_info": {},
+    "special_campaign": [
+        {
+            "campaign_type": 1,
+            "end_date": 1707678000000,
+            "special_campaign_id": 9,
+            "start_date": 1702460789000
+        }
+    ],
+    "stamina_info": {
+        "max_sp": 6,
+        "sp": 6,
+        "sp_time": 1702466935479,
+        "sys_sp_interval": 180
+    },
+    "status_code": 0,
+    "support_chara_config": {
+        "chara_id": 10,
+        "command_abilities": [
+            1,
+            2
+        ],
+        "command_ability_id_a": 0,
+        "command_ability_id_b": 0,
+        "command_ability_id_c": 0,
+        "crystal_passive_ability": [],
+        "decoration_skin_id": -1,
+        "ins_guard_id": 0,
+        "ins_skin_id": 0,
+        "ins_weapon_id": 0,
+        "passiv_ability": [],
+        "secret_ability": [],
+        "summonboard_status": [],
+        "weapon_skin_id": -1
+    },
+    "system_assist_ability_equip_awakening_level": 75,
+    "system_board_complete_area_num": 18,
+    "system_character_base_cp": 40,
+    "system_character_base_level_cap": 50,
+    "system_coop_request_list_min_interval": 15,
+    "system_coop_request_ttl": 300,
+    "system_crystal_grade": "0",
+    "system_crystal_passive_equip_limit": 3,
+    "system_crystal_quest_change_coin_counts": "[0,100,200]",
+    "system_crystal_quest_stack_item": {
+        "item_type": 99,
+        "item_id": 2,
+        "rate": 100,
+        "unit": 10
+    },
+    "system_facebook_friend_link_status": 1,
+    "system_grade_max_crystal": 999,
+    "system_max_artifact": 900,
+    "system_max_battle_ticket": 5,
+    "system_max_board_common_point": 999999,
+    "system_max_chara_level": 90,
+    "system_max_crystal": 99999,
+    "system_max_crystal_point": 99999,
+    "system_max_dissidia_point": 5000,
+    "system_max_equip": 900,
+    "system_max_equipment_material": 9999,
+    "system_max_event_unlock": 999,
+    "system_max_exp_item": 9999,
+    "system_max_favorite_name_length": 10,
+    "system_max_favorite_num": 6,
+    "system_max_follow_limit": 300,
+    "system_max_follower_limit": 999,
+    "system_max_free_gacha_point": 1,
+    "system_max_friends_relation_limit": 20,
+    "system_max_gem": 99999999,
+    "system_max_gil": 9999999,
+    "system_max_item_boost": 999,
+    "system_max_item_consumable": 999,
+    "system_max_item_remove_ex_skill": 9999,
+    "system_max_link_stone": 9999,
+    "system_max_quest_skip_count": 10,
+    "system_max_recover_item": 9999,
+    "system_max_sale_num": 50,
+    "system_max_send_emotion": 100,
+    "system_max_skip_ticket": 999,
+    "system_max_summon_material": 9999,
+    "system_max_summonboard_point": 9999,
+    "system_max_summonboard_wild_point": 99999,
+    "system_max_ticket": 999,
+    "system_max_title_item": 999,
+    "system_max_treasure_key": 9999,
+    "system_max_ultima_weapon": 900,
+    "system_presentbox_page_demilit": 100,
+    "system_rooot_event_from": 1675177200000,
+    "system_rooot_event_to": 1675868399000,
+    "system_rooot_event_url": "https://dffoo6th.rooot.fan/",
+    "system_secret_passive_equip_limit": 3,
+    "system_secret_passive_limit": 7,
+    "system_summonboard_wild_point_rate": 70,
+    "system_ultima_weapon_unit_count": 900,
+    "tag_name": "SF0UXBvbVM9",
+    "time_sale": [
+        {
+            "expiration_end_date": 1703065589000,
+            "promotion_id": 3270
+        },
+        {
+            "expiration_end_date": 1703065589000,
+            "promotion_id": 3266
+        },
+        {
+            "expiration_end_date": 1703065589000,
+            "promotion_id": 3267
+        },
+        {
+            "expiration_end_date": 1703065589000,
+            "promotion_id": 3271
+        },
+        {
+            "expiration_end_date": 1703065589000,
+            "promotion_id": 3272
+        },
+        {
+            "expiration_end_date": 1703065589000,
+            "promotion_id": 3268
+        },
+        {
+            "expiration_end_date": 1703065589000,
+            "promotion_id": 3273
+        },
+        {
+            "expiration_end_date": 1703065589000,
+            "promotion_id": 3269
+        },
+        {
+            "expiration_end_date": 1703065589000,
+            "promotion_id": 3261
+        },
+        {
+            "expiration_end_date": 1703065589000,
+            "promotion_id": 3274
+        },
+        {
+            "expiration_end_date": 1703065589000,
+            "promotion_id": 3262
+        },
+        {
+            "expiration_end_date": 1703065589000,
+            "promotion_id": 3263
+        },
+        {
+            "expiration_end_date": 1703065589000,
+            "promotion_id": 3264
+        },
+        {
+            "expiration_end_date": 1703065589000,
+            "promotion_id": 3265
+        }
+    ],
+    "tower_records": [],
+    "uid": 5316747,
+    "unlocked_gachas": [
+        {
+            "expiration_end_date": 1703065589000,
+            "gacha_id": 2982
+        },
+        {
+            "expiration_end_date": 1703065589000,
+            "gacha_id": 2343
+        },
+        {
+            "expiration_end_date": 1703065589000,
+            "gacha_id": 2983
+        },
+        {
+            "expiration_end_date": 1703065589000,
+            "gacha_id": 1416
+        },
+        {
+            "expiration_end_date": 1703065589000,
+            "gacha_id": 2984
+        },
+        {
+            "expiration_end_date": 1703065589000,
+            "gacha_id": 1417
+        },
+        {
+            "expiration_end_date": 1703065589000,
+            "gacha_id": 2985
+        },
+        {
+            "expiration_end_date": 1703065589000,
+            "gacha_id": 938
+        },
+        {
+            "expiration_end_date": 1703065589000,
+            "gacha_id": 1418
+        },
+        {
+            "expiration_end_date": 1703065589000,
+            "gacha_id": 2986
+        },
+        {
+            "expiration_end_date": 1703065589000,
+            "gacha_id": 939
+        },
+        {
+            "expiration_end_date": 1703065589000,
+            "gacha_id": 1419
+        },
+        {
+            "expiration_end_date": 1703065589000,
+            "gacha_id": 1174
+        },
+        {
+            "expiration_end_date": 1703065589000,
+            "gacha_id": 1175
+        },
+        {
+            "expiration_end_date": 1703065589000,
+            "gacha_id": 1176
+        },
+        {
+            "expiration_end_date": 1703065589000,
+            "gacha_id": 1177
+        },
+        {
+            "expiration_end_date": 1703065589000,
+            "gacha_id": 1593
+        },
+        {
+            "expiration_end_date": 1703065589000,
+            "gacha_id": 1594
+        },
+        {
+            "expiration_end_date": 1703065589000,
+            "gacha_id": 1595
+        },
+        {
+            "expiration_end_date": 1703065589000,
+            "gacha_id": 1020
+        },
+        {
+            "expiration_end_date": 1703065589000,
+            "gacha_id": 1596
+        },
+        {
+            "expiration_end_date": 1703065589000,
+            "gacha_id": 1085
+        }
+    ],
+    "user_name": "名もなき戦士",
+    "valid_boost_item": [],
+    "verup_code": 0
+}
