@@ -17,10 +17,9 @@ for (const field in normal) {
                 const json_data = JSON.parse(data).field_quest
                 const filtered = json_data.filter(self => self.quest_id == num)
                 if (filtered.length != 0) {
-                    if (filtered[0].before_talk == -1 &&
-                        filtered[0].quest_list_group == 0
+                    if (filtered[0].battle_info != undefined
                     ) {
-                        const field_name = field_names[field].name;
+                        const field_name = field_names[field] && field_names[field].name;
                         const quest_name = filtered[0].name
                         const str = `${field_name} #${field} - ${quest_name} #${num}`
                         errors.push(str)
@@ -28,6 +27,7 @@ for (const field in normal) {
                 }
             } catch (error) {
                 console.log("Couldnt find quest data for " + num + " in field " + field);
+                console.log(error)
             }
 
         }

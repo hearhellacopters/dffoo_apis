@@ -1,0 +1,165 @@
+{
+    "fields": [
+        {
+            "close_date": 1709179199000,
+            "field_id": 2020,
+            "field_part": 0,
+            "published_date": 1701370800000,
+            "quests": [
+                {
+                    "difficulty": 100,
+                    "difficulty_mode": 1,
+                    "is_clear": 0,
+                    "is_strong_enemy": 1,
+                    "items": [],
+                    "name": "毎日メダルコレクトバトル",
+                    "quest_id": 77251,
+                    "quest_missions": [
+                        {
+                            "complete": 0,
+                            "level": 0,
+                            "missions": [
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 1,
+                                    "quest_mission": {
+                                        "arg1": -1,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 2,
+                                        "mode": 1,
+                                        "num": 1,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 50,
+                                                "item_type": 99
+                                            }
+                                        ]
+                                    },
+                                    "require": 1
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 2,
+                                    "quest_mission": {
+                                        "arg1": 310,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 3,
+                                        "mode": 3,
+                                        "num": 2,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 50,
+                                                "item_type": 99
+                                            }
+                                        ]
+                                    },
+                                    "require": 310
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 3,
+                                    "quest_mission": {
+                                        "arg1": 31000,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 29,
+                                        "mode": 3,
+                                        "num": 3,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 50,
+                                                "item_type": 99
+                                            }
+                                        ]
+                                    },
+                                    "require": 31000
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 4,
+                                    "quest_mission": {
+                                        "arg1": 3100,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "mission_type": 30,
+                                        "mode": 2,
+                                        "num": 4,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 50,
+                                                "item_type": 99,
+                                                "quest_reward_type": 3
+                                            }
+                                        ]
+                                    },
+                                    "require": 3100
+                                }
+                            ],
+                            "perfect_cleared": 0,
+                            "step": 1,
+                            "this_perfect_clear": 0,
+                            "this_perfect_clear2": 0
+                        }
+                    ],
+                    "quest_type": 1
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 2,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "毎日メダルコレクトバトル",
+                    "quest_id": 77251,
+                    "quest_type": 1
+                }
+            ],
+            "shop_items": []
+        }
+    ],
+    "missions": [
+        {
+            "close_date": 1709179199000,
+            "description": "「毎日メダルコレクトバトル」を1回クリアしよう",
+            "field_part": 0,
+            "mission_category": 1,
+            "mission_id": 450,
+            "moogle_pass_receive_status": 0,
+            "published_date": 1701370800000,
+            "receive_status": 0,
+            "rewards": [
+                {
+                    "item_id": 763,
+                    "item_num": 20,
+                    "item_type": 23
+                }
+            ]
+        }
+    ],
+    "summonboard": {}
+}

@@ -22,19 +22,19 @@
         "quest_battle_id": 980,
         "quest_missions": [
             {
-                "complete": 1,
+                "complete": 0,
                 "level": 0,
                 "missions": [
                     {
                         "history": {
-                            "clear": 2,
-                            "progress": 1
+                            "clear": 0,
+                            "progress": -1
                         },
                         "num": 1,
                         "quest_mission": {
                             "arg1": -1,
                             "arg2": -1,
-                            "clear": 1,
+                            "clear": 0,
                             "description": "",
                             "mission_type": 2,
                             "mode": 1,
@@ -52,14 +52,14 @@
                     },
                     {
                         "history": {
-                            "clear": 2,
+                            "clear": 0,
                             "progress": -1
                         },
                         "num": 2,
                         "quest_mission": {
                             "arg1": 25,
                             "arg2": -1,
-                            "clear": 1,
+                            "clear": 0,
                             "description": "",
                             "mission_type": 3,
                             "mode": 3,
@@ -77,14 +77,14 @@
                     },
                     {
                         "history": {
-                            "clear": 2,
+                            "clear": 0,
                             "progress": -1
                         },
                         "num": 3,
                         "quest_mission": {
                             "arg1": 2,
                             "arg2": -1,
-                            "clear": 1,
+                            "clear": 0,
                             "description": "",
                             "mission_type": 4,
                             "mode": 2,
@@ -102,18 +102,18 @@
                     },
                     {
                         "history": {
-                            "clear": 2,
-                            "progress": 4367
+                            "clear": 0,
+                            "progress": -1
                         },
                         "num": 4,
                         "quest_mission": {
                             "arg1": 3700,
                             "arg2": -1,
-                            "clear": 1,
+                            "clear": 0,
                             "mission_type": 30,
                             "mode": 2,
                             "num": 4,
-                            "progress": 4367,
+                            "progress": -1,
                             "rewards": [
                                 {
                                     "item_id": 2,
@@ -236,7 +236,6 @@
         ]
     },
     "before_talk": -1,
-    "behavior_code": 0,
     "campaign": [
         {
             "character_list": [
@@ -464,7 +463,6 @@
         "sys_interval": 7200
     },
     "mission_clear": false,
-    "nonce": "m4m94cKg8cE9MgKc",
     "party": {
         "ins_summon_beast_id": 13804,
         "party": [
@@ -495,7 +493,6 @@
         "sp_time": 1702254843809,
         "sys_sp_interval": 180
     },
-    "status_code": 0,
     "support_user_id": 0,
     "unlocked_event": false,
     "use_battle_ticket": 0,
@@ -509,6 +506,5 @@
             "start_date": 1700534420000,
             "upgrade_cnt": 0
         }
-    ],
-    "verup_code": 0
+    ]
 }

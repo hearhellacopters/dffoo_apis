@@ -1,5 +1,4 @@
 {
-    "behavior_code": 0,
     "change_num": 0,
     "default_quest_id": 0,
     "field_quest": [
@@ -7,7 +6,7 @@
             "before_talk": 21,
             "can_skip": 0,
             "chara_icon_id": -1,
-            "clear_num": 1,
+            "clear_num": 0,
             "coop_theme_group": 0,
             "crevasse_point": 0,
             "dest_cond_quest_id": -1,
@@ -444,7 +443,7 @@
                         "level": 4
                     }
                 ],
-                "hiscore": 6527,
+                "hiscore": 0,
                 "hunts_ticket_rewards": [],
                 "is_perfect_mission": 0,
                 "is_six_coop": 0,
@@ -457,24 +456,24 @@
                 "quest_battle_id": 521,
                 "quest_missions": [
                     {
-                        "complete": 1,
+                        "complete": 0,
                         "level": 0,
                         "missions": [
                             {
                                 "history": {
-                                    "clear": 2,
-                                    "progress": 1
+                                    "clear": 0,
+                                    "progress": -1
                                 },
                                 "num": 1,
                                 "quest_mission": {
                                     "arg1": -1,
                                     "arg2": -1,
-                                    "clear": 1,
+                                    "clear": 0,
                                     "description": "",
                                     "mission_type": 2,
                                     "mode": 1,
                                     "num": 1,
-                                    "progress": 1,
+                                    "progress": -1,
                                     "rewards": [
                                         {
                                             "item_id": 2,
@@ -487,19 +486,19 @@
                             },
                             {
                                 "history": {
-                                    "clear": 2,
-                                    "progress": 4
+                                    "clear": 0,
+                                    "progress": -1
                                 },
                                 "num": 2,
                                 "quest_mission": {
                                     "arg1": 25,
                                     "arg2": -1,
-                                    "clear": 1,
+                                    "clear": 0,
                                     "description": "",
                                     "mission_type": 3,
                                     "mode": 3,
                                     "num": 2,
-                                    "progress": 4,
+                                    "progress": -1,
                                     "rewards": [
                                         {
                                             "item_id": 2,
@@ -512,19 +511,19 @@
                             },
                             {
                                 "history": {
-                                    "clear": 2,
-                                    "progress": 3
+                                    "clear": 0,
+                                    "progress": -1
                                 },
                                 "num": 3,
                                 "quest_mission": {
                                     "arg1": 2,
                                     "arg2": -1,
-                                    "clear": 1,
+                                    "clear": 0,
                                     "description": "",
                                     "mission_type": 4,
                                     "mode": 2,
                                     "num": 3,
-                                    "progress": 3,
+                                    "progress": -1,
                                     "rewards": [
                                         {
                                             "item_id": 1,
@@ -537,18 +536,18 @@
                             },
                             {
                                 "history": {
-                                    "clear": 2,
-                                    "progress": 6527
+                                    "clear": 0,
+                                    "progress": -1
                                 },
                                 "num": 4,
                                 "quest_mission": {
                                     "arg1": 1300,
                                     "arg2": -1,
-                                    "clear": 1,
+                                    "clear": 0,
                                     "mission_type": 30,
                                     "mode": 2,
                                     "num": 4,
-                                    "progress": 6527,
+                                    "progress": -1,
                                     "rewards": [
                                         {
                                             "item_id": 2,
@@ -585,7 +584,7 @@
             "before_talk": -1,
             "can_skip": 0,
             "chara_icon_id": -1,
-            "clear_num": 1,
+            "clear_num": 0,
             "coop_theme_group": 0,
             "crevasse_point": 0,
             "dest_cond_quest_id": -1,
@@ -7878,7 +7877,7 @@
             "before_talk": -1,
             "can_skip": 0,
             "chara_icon_id": -1,
-            "clear_num": 1,
+            "clear_num": 0,
             "coop_theme_group": 0,
             "crevasse_point": 0,
             "dest_cond_quest_id": -1,
@@ -12675,8 +12674,5 @@
     "field_rule": [],
     "level_multiply_set": {},
     "lock_treasure_items": [],
-    "map_expire_date": -1,
-    "nonce": "PudAM1dfuIAAvvvA",
-    "status_code": 0,
-    "verup_code": 0
+    "map_expire_date": -1
 }

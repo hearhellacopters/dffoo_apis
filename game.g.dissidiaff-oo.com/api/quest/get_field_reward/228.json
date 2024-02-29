@@ -1,0 +1,4330 @@
+{
+    "fields": [
+        {
+            "field_id": 228,
+            "field_part": 0,
+            "quests": [
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "To Bear the Cross Alone",
+                    "quest_id": 3188,
+                    "quest_type": 0
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "A Deep Brooding",
+                    "quest_id": 3189,
+                    "quest_type": 0
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "Desert Kingdoms",
+                    "quest_id": 3190,
+                    "quest_type": 0
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "Conquering Hate",
+                    "quest_id": 3191,
+                    "quest_type": 0
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "The Princess's Fight",
+                    "quest_id": 3192,
+                    "quest_type": 0
+                },
+                {
+                    "difficulty": 10,
+                    "difficulty_mode": 1,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "Quick Encounter Pt. 1",
+                    "quest_id": 3193,
+                    "quest_missions": [
+                        {
+                            "complete": 0,
+                            "level": 0,
+                            "missions": [
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 1,
+                                    "quest_mission": {
+                                        "arg1": -1,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 2,
+                                        "mode": 1,
+                                        "num": 1,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 1,
+                                                "item_num": 250,
+                                                "item_type": 99
+                                            }
+                                        ]
+                                    },
+                                    "require": 1
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 2,
+                                    "quest_mission": {
+                                        "arg1": 15,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 3,
+                                        "mode": 3,
+                                        "num": 2,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 1,
+                                                "item_num": 250,
+                                                "item_type": 99
+                                            }
+                                        ]
+                                    },
+                                    "require": 15
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 3,
+                                    "quest_mission": {
+                                        "arg1": 1,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 4,
+                                        "mode": 2,
+                                        "num": 3,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 4,
+                                                "item_num": 5,
+                                                "item_type": 11
+                                            }
+                                        ]
+                                    },
+                                    "require": 1
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 4,
+                                    "quest_mission": {
+                                        "arg1": 1000,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "mission_type": 30,
+                                        "mode": 2,
+                                        "num": 4,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 1,
+                                                "item_num": 500,
+                                                "item_type": 99,
+                                                "quest_reward_type": 3
+                                            }
+                                        ]
+                                    },
+                                    "require": 1000
+                                }
+                            ],
+                            "perfect_cleared": 0,
+                            "step": 1,
+                            "this_perfect_clear": 0,
+                            "this_perfect_clear2": 0
+                        }
+                    ],
+                    "quest_type": 5
+                },
+                {
+                    "difficulty": 60,
+                    "difficulty_mode": 2,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "Quick Encounter Pt. 1",
+                    "quest_id": 3193,
+                    "quest_missions": [
+                        {
+                            "complete": 0,
+                            "level": 0,
+                            "missions": [
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 1,
+                                    "quest_mission": {
+                                        "arg1": -1,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 2,
+                                        "mode": 1,
+                                        "num": 1,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 1,
+                                                "item_num": 1000,
+                                                "item_type": 99
+                                            }
+                                        ]
+                                    },
+                                    "require": 1
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 2,
+                                    "quest_mission": {
+                                        "arg1": 10,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 3,
+                                        "mode": 3,
+                                        "num": 2,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 1,
+                                                "item_num": 1000,
+                                                "item_type": 99
+                                            }
+                                        ]
+                                    },
+                                    "require": 10
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 3,
+                                    "quest_mission": {
+                                        "arg1": -1,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 5,
+                                        "mode": 1,
+                                        "num": 3,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 10,
+                                                "item_type": 11
+                                            }
+                                        ]
+                                    },
+                                    "require": 1
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 4,
+                                    "quest_mission": {
+                                        "arg1": 15000,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "mission_type": 30,
+                                        "mode": 2,
+                                        "num": 4,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 1,
+                                                "item_num": 3000,
+                                                "item_type": 99,
+                                                "quest_reward_type": 3
+                                            }
+                                        ]
+                                    },
+                                    "require": 15000
+                                }
+                            ],
+                            "perfect_cleared": 0,
+                            "step": 1,
+                            "this_perfect_clear": 0,
+                            "this_perfect_clear2": 0
+                        }
+                    ],
+                    "quest_type": 5
+                },
+                {
+                    "difficulty": 20,
+                    "difficulty_mode": 1,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "Quick Encounter Pt. 2",
+                    "quest_id": 3194,
+                    "quest_missions": [
+                        {
+                            "complete": 0,
+                            "level": 0,
+                            "missions": [
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 1,
+                                    "quest_mission": {
+                                        "arg1": -1,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 2,
+                                        "mode": 1,
+                                        "num": 1,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 1,
+                                                "item_num": 250,
+                                                "item_type": 99
+                                            }
+                                        ]
+                                    },
+                                    "require": 1
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 2,
+                                    "quest_mission": {
+                                        "arg1": 20,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 3,
+                                        "mode": 3,
+                                        "num": 2,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 1,
+                                                "item_num": 250,
+                                                "item_type": 99
+                                            }
+                                        ]
+                                    },
+                                    "require": 20
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 3,
+                                    "quest_mission": {
+                                        "arg1": 1,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 4,
+                                        "mode": 2,
+                                        "num": 3,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 1,
+                                                "item_num": 10,
+                                                "item_type": 11
+                                            }
+                                        ]
+                                    },
+                                    "require": 1
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 4,
+                                    "quest_mission": {
+                                        "arg1": 3000,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "mission_type": 30,
+                                        "mode": 2,
+                                        "num": 4,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 1,
+                                                "item_num": 500,
+                                                "item_type": 99,
+                                                "quest_reward_type": 3
+                                            }
+                                        ]
+                                    },
+                                    "require": 3000
+                                }
+                            ],
+                            "perfect_cleared": 0,
+                            "step": 1,
+                            "this_perfect_clear": 0,
+                            "this_perfect_clear2": 0
+                        }
+                    ],
+                    "quest_type": 5
+                },
+                {
+                    "difficulty": 70,
+                    "difficulty_mode": 2,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "Quick Encounter Pt. 2",
+                    "quest_id": 3194,
+                    "quest_missions": [
+                        {
+                            "complete": 0,
+                            "level": 0,
+                            "missions": [
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 1,
+                                    "quest_mission": {
+                                        "arg1": -1,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 2,
+                                        "mode": 1,
+                                        "num": 1,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 1,
+                                                "item_num": 1000,
+                                                "item_type": 99
+                                            }
+                                        ]
+                                    },
+                                    "require": 1
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 2,
+                                    "quest_mission": {
+                                        "arg1": 10,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 3,
+                                        "mode": 3,
+                                        "num": 2,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 1,
+                                                "item_num": 1000,
+                                                "item_type": 99
+                                            }
+                                        ]
+                                    },
+                                    "require": 10
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 3,
+                                    "quest_mission": {
+                                        "arg1": -1,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 5,
+                                        "mode": 1,
+                                        "num": 3,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 5,
+                                                "item_num": 10,
+                                                "item_type": 11
+                                            }
+                                        ]
+                                    },
+                                    "require": 1
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 4,
+                                    "quest_mission": {
+                                        "arg1": 21000,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "mission_type": 30,
+                                        "mode": 2,
+                                        "num": 4,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 1,
+                                                "item_num": 3000,
+                                                "item_type": 99,
+                                                "quest_reward_type": 3
+                                            }
+                                        ]
+                                    },
+                                    "require": 21000
+                                }
+                            ],
+                            "perfect_cleared": 0,
+                            "step": 1,
+                            "this_perfect_clear": 0,
+                            "this_perfect_clear2": 0
+                        }
+                    ],
+                    "quest_type": 5
+                },
+                {
+                    "difficulty": 20,
+                    "difficulty_mode": 1,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "Quick Encounter Pt. 3",
+                    "quest_id": 3195,
+                    "quest_missions": [
+                        {
+                            "complete": 0,
+                            "level": 0,
+                            "missions": [
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 1,
+                                    "quest_mission": {
+                                        "arg1": -1,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 2,
+                                        "mode": 1,
+                                        "num": 1,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 1,
+                                                "item_num": 250,
+                                                "item_type": 99
+                                            }
+                                        ]
+                                    },
+                                    "require": 1
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 2,
+                                    "quest_mission": {
+                                        "arg1": 20,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 3,
+                                        "mode": 3,
+                                        "num": 2,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 1,
+                                                "item_num": 250,
+                                                "item_type": 99
+                                            }
+                                        ]
+                                    },
+                                    "require": 20
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 3,
+                                    "quest_mission": {
+                                        "arg1": 1,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 4,
+                                        "mode": 2,
+                                        "num": 3,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 3,
+                                                "item_num": 5,
+                                                "item_type": 11
+                                            }
+                                        ]
+                                    },
+                                    "require": 1
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 4,
+                                    "quest_mission": {
+                                        "arg1": 5000,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "mission_type": 30,
+                                        "mode": 2,
+                                        "num": 4,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 1,
+                                                "item_num": 500,
+                                                "item_type": 99,
+                                                "quest_reward_type": 3
+                                            }
+                                        ]
+                                    },
+                                    "require": 5000
+                                }
+                            ],
+                            "perfect_cleared": 0,
+                            "step": 1,
+                            "this_perfect_clear": 0,
+                            "this_perfect_clear2": 0
+                        }
+                    ],
+                    "quest_type": 5
+                },
+                {
+                    "difficulty": 70,
+                    "difficulty_mode": 2,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "Quick Encounter Pt. 3",
+                    "quest_id": 3195,
+                    "quest_missions": [
+                        {
+                            "complete": 0,
+                            "level": 0,
+                            "missions": [
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 1,
+                                    "quest_mission": {
+                                        "arg1": -1,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 2,
+                                        "mode": 1,
+                                        "num": 1,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 1,
+                                                "item_num": 1000,
+                                                "item_type": 99
+                                            }
+                                        ]
+                                    },
+                                    "require": 1
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 2,
+                                    "quest_mission": {
+                                        "arg1": 10,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 3,
+                                        "mode": 3,
+                                        "num": 2,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 1,
+                                                "item_num": 1000,
+                                                "item_type": 99
+                                            }
+                                        ]
+                                    },
+                                    "require": 10
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 3,
+                                    "quest_mission": {
+                                        "arg1": -1,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 5,
+                                        "mode": 1,
+                                        "num": 3,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 3,
+                                                "item_num": 10,
+                                                "item_type": 11
+                                            }
+                                        ]
+                                    },
+                                    "require": 1
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 4,
+                                    "quest_mission": {
+                                        "arg1": 23000,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "mission_type": 30,
+                                        "mode": 2,
+                                        "num": 4,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 1,
+                                                "item_num": 3000,
+                                                "item_type": 99,
+                                                "quest_reward_type": 3
+                                            }
+                                        ]
+                                    },
+                                    "require": 23000
+                                }
+                            ],
+                            "perfect_cleared": 0,
+                            "step": 1,
+                            "this_perfect_clear": 0,
+                            "this_perfect_clear2": 0
+                        }
+                    ],
+                    "quest_type": 5
+                },
+                {
+                    "difficulty": 40,
+                    "difficulty_mode": 1,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "Quick Encounter Pt. 4",
+                    "quest_id": 3196,
+                    "quest_missions": [
+                        {
+                            "complete": 0,
+                            "level": 0,
+                            "missions": [
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 1,
+                                    "quest_mission": {
+                                        "arg1": -1,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 2,
+                                        "mode": 1,
+                                        "num": 1,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 1,
+                                                "item_num": 250,
+                                                "item_type": 99
+                                            }
+                                        ]
+                                    },
+                                    "require": 1
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 2,
+                                    "quest_mission": {
+                                        "arg1": 20,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 3,
+                                        "mode": 3,
+                                        "num": 2,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 1,
+                                                "item_num": 250,
+                                                "item_type": 99
+                                            }
+                                        ]
+                                    },
+                                    "require": 20
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 3,
+                                    "quest_mission": {
+                                        "arg1": 1,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 4,
+                                        "mode": 2,
+                                        "num": 3,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 6,
+                                                "item_num": 5,
+                                                "item_type": 9
+                                            }
+                                        ]
+                                    },
+                                    "require": 1
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 4,
+                                    "quest_mission": {
+                                        "arg1": 7000,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "mission_type": 30,
+                                        "mode": 2,
+                                        "num": 4,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 1,
+                                                "item_num": 500,
+                                                "item_type": 99,
+                                                "quest_reward_type": 3
+                                            }
+                                        ]
+                                    },
+                                    "require": 7000
+                                }
+                            ],
+                            "perfect_cleared": 0,
+                            "step": 1,
+                            "this_perfect_clear": 0,
+                            "this_perfect_clear2": 0
+                        }
+                    ],
+                    "quest_type": 5
+                },
+                {
+                    "difficulty": 90,
+                    "difficulty_mode": 2,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "Quick Encounter Pt. 4",
+                    "quest_id": 3196,
+                    "quest_missions": [
+                        {
+                            "complete": 0,
+                            "level": 0,
+                            "missions": [
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 1,
+                                    "quest_mission": {
+                                        "arg1": -1,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 2,
+                                        "mode": 1,
+                                        "num": 1,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 1,
+                                                "item_num": 1000,
+                                                "item_type": 99
+                                            }
+                                        ]
+                                    },
+                                    "require": 1
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 2,
+                                    "quest_mission": {
+                                        "arg1": 15,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 3,
+                                        "mode": 3,
+                                        "num": 2,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 1,
+                                                "item_num": 1000,
+                                                "item_type": 99
+                                            }
+                                        ]
+                                    },
+                                    "require": 15
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 3,
+                                    "quest_mission": {
+                                        "arg1": -1,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 5,
+                                        "mode": 1,
+                                        "num": 3,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 3,
+                                                "item_num": 10,
+                                                "item_type": 11
+                                            }
+                                        ]
+                                    },
+                                    "require": 1
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 4,
+                                    "quest_mission": {
+                                        "arg1": 24000,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "mission_type": 30,
+                                        "mode": 2,
+                                        "num": 4,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 1,
+                                                "item_num": 3000,
+                                                "item_type": 99,
+                                                "quest_reward_type": 3
+                                            }
+                                        ]
+                                    },
+                                    "require": 24000
+                                }
+                            ],
+                            "perfect_cleared": 0,
+                            "step": 1,
+                            "this_perfect_clear": 0,
+                            "this_perfect_clear2": 0
+                        }
+                    ],
+                    "quest_type": 5
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [
+                        {
+                            "acquired_num": 0,
+                            "all_num": 20,
+                            "exchange_count": 0,
+                            "item_id": 4,
+                            "item_type": 9,
+                            "sort_num": 0,
+                            "stock": 0
+                        }
+                    ],
+                    "name": "断章アーシェ宝箱０１",
+                    "quest_id": 3198,
+                    "quest_type": 2
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [
+                        {
+                            "acquired_num": 0,
+                            "all_num": 50,
+                            "exchange_count": 0,
+                            "item_id": 5,
+                            "item_type": 9,
+                            "sort_num": 0,
+                            "stock": 0
+                        }
+                    ],
+                    "name": "断章アーシェ宝箱０２",
+                    "quest_id": 3199,
+                    "quest_type": 2
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [
+                        {
+                            "acquired_num": 0,
+                            "all_num": 10,
+                            "exchange_count": 0,
+                            "item_id": 6,
+                            "item_type": 9,
+                            "sort_num": 0,
+                            "stock": 0
+                        }
+                    ],
+                    "name": "断章アーシェ宝箱０３",
+                    "quest_id": 3200,
+                    "quest_type": 2
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [
+                        {
+                            "acquired_num": 0,
+                            "all_num": 10,
+                            "exchange_count": 0,
+                            "item_id": 3,
+                            "item_type": 11,
+                            "sort_num": 0,
+                            "stock": 0
+                        }
+                    ],
+                    "name": "断章アーシェ宝箱０４",
+                    "quest_id": 3201,
+                    "quest_type": 2
+                },
+                {
+                    "difficulty": 10,
+                    "difficulty_mode": 1,
+                    "is_clear": 0,
+                    "is_strong_enemy": 1,
+                    "items": [],
+                    "name": "The Princess of Dalmasca Pt. 1",
+                    "quest_id": 3203,
+                    "quest_missions": [
+                        {
+                            "complete": 0,
+                            "level": 0,
+                            "missions": [
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 1,
+                                    "quest_mission": {
+                                        "arg1": -1,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 2,
+                                        "mode": 1,
+                                        "num": 1,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 20,
+                                                "item_type": 99
+                                            }
+                                        ]
+                                    },
+                                    "require": 1
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 2,
+                                    "quest_mission": {
+                                        "arg1": 50,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 3,
+                                        "mode": 3,
+                                        "num": 2,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 20,
+                                                "item_type": 99
+                                            }
+                                        ]
+                                    },
+                                    "require": 50
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 3,
+                                    "quest_mission": {
+                                        "arg1": 3,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 4,
+                                        "mode": 2,
+                                        "num": 3,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 1,
+                                                "item_num": 5,
+                                                "item_type": 11
+                                            }
+                                        ]
+                                    },
+                                    "require": 3
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 4,
+                                    "quest_mission": {
+                                        "arg1": 2500,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "mission_type": 30,
+                                        "mode": 2,
+                                        "num": 4,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 40,
+                                                "item_type": 99,
+                                                "quest_reward_type": 3
+                                            }
+                                        ]
+                                    },
+                                    "require": 2500
+                                }
+                            ],
+                            "perfect_cleared": 0,
+                            "step": 1,
+                            "this_perfect_clear": 0,
+                            "this_perfect_clear2": 0
+                        }
+                    ],
+                    "quest_type": 1
+                },
+                {
+                    "difficulty": 60,
+                    "difficulty_mode": 2,
+                    "is_clear": 0,
+                    "is_strong_enemy": 1,
+                    "items": [],
+                    "name": "The Princess of Dalmasca Pt. 1",
+                    "quest_id": 3203,
+                    "quest_missions": [
+                        {
+                            "complete": 0,
+                            "level": 0,
+                            "missions": [
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 1,
+                                    "quest_mission": {
+                                        "arg1": -1,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 2,
+                                        "mode": 1,
+                                        "num": 1,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 20,
+                                                "item_type": 99
+                                            }
+                                        ]
+                                    },
+                                    "require": 1
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 2,
+                                    "quest_mission": {
+                                        "arg1": 45,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 3,
+                                        "mode": 3,
+                                        "num": 2,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 20,
+                                                "item_type": 99
+                                            }
+                                        ]
+                                    },
+                                    "require": 45
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 3,
+                                    "quest_mission": {
+                                        "arg1": 56,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 8,
+                                        "mode": 1,
+                                        "num": 3,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 20,
+                                                "item_num": 10,
+                                                "item_type": 9
+                                            }
+                                        ]
+                                    },
+                                    "require": 1
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 4,
+                                    "quest_mission": {
+                                        "arg1": 40000,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "mission_type": 30,
+                                        "mode": 2,
+                                        "num": 4,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 40,
+                                                "item_type": 99,
+                                                "quest_reward_type": 3
+                                            }
+                                        ]
+                                    },
+                                    "require": 40000
+                                }
+                            ],
+                            "perfect_cleared": 0,
+                            "step": 1,
+                            "this_perfect_clear": 0,
+                            "this_perfect_clear2": 0
+                        }
+                    ],
+                    "quest_type": 1
+                },
+                {
+                    "difficulty": 20,
+                    "difficulty_mode": 1,
+                    "is_clear": 0,
+                    "is_strong_enemy": 1,
+                    "items": [],
+                    "name": "The Princess of Dalmasca Pt. 2",
+                    "quest_id": 3204,
+                    "quest_missions": [
+                        {
+                            "complete": 0,
+                            "level": 0,
+                            "missions": [
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 1,
+                                    "quest_mission": {
+                                        "arg1": -1,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 2,
+                                        "mode": 1,
+                                        "num": 1,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 20,
+                                                "item_type": 99
+                                            }
+                                        ]
+                                    },
+                                    "require": 1
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 2,
+                                    "quest_mission": {
+                                        "arg1": 70,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 3,
+                                        "mode": 3,
+                                        "num": 2,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 20,
+                                                "item_type": 99
+                                            }
+                                        ]
+                                    },
+                                    "require": 70
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 3,
+                                    "quest_mission": {
+                                        "arg1": 56,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 8,
+                                        "mode": 1,
+                                        "num": 3,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 4,
+                                                "item_num": 5,
+                                                "item_type": 9
+                                            }
+                                        ]
+                                    },
+                                    "require": 1
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 4,
+                                    "quest_mission": {
+                                        "arg1": 3000,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "mission_type": 30,
+                                        "mode": 2,
+                                        "num": 4,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 40,
+                                                "item_type": 99,
+                                                "quest_reward_type": 3
+                                            }
+                                        ]
+                                    },
+                                    "require": 3000
+                                }
+                            ],
+                            "perfect_cleared": 0,
+                            "step": 1,
+                            "this_perfect_clear": 0,
+                            "this_perfect_clear2": 0
+                        }
+                    ],
+                    "quest_type": 1
+                },
+                {
+                    "difficulty": 70,
+                    "difficulty_mode": 2,
+                    "is_clear": 0,
+                    "is_strong_enemy": 1,
+                    "items": [],
+                    "name": "The Princess of Dalmasca Pt. 2",
+                    "quest_id": 3204,
+                    "quest_missions": [
+                        {
+                            "complete": 0,
+                            "level": 0,
+                            "missions": [
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 1,
+                                    "quest_mission": {
+                                        "arg1": -1,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 2,
+                                        "mode": 1,
+                                        "num": 1,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 20,
+                                                "item_type": 99
+                                            }
+                                        ]
+                                    },
+                                    "require": 1
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 2,
+                                    "quest_mission": {
+                                        "arg1": 60,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 3,
+                                        "mode": 3,
+                                        "num": 2,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 20,
+                                                "item_type": 99
+                                            }
+                                        ]
+                                    },
+                                    "require": 60
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 3,
+                                    "quest_mission": {
+                                        "arg1": 56,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 8,
+                                        "mode": 1,
+                                        "num": 3,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 20,
+                                                "item_num": 10,
+                                                "item_type": 9
+                                            }
+                                        ]
+                                    },
+                                    "require": 1
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 4,
+                                    "quest_mission": {
+                                        "arg1": 38500,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "mission_type": 30,
+                                        "mode": 2,
+                                        "num": 4,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 40,
+                                                "item_type": 99,
+                                                "quest_reward_type": 3
+                                            }
+                                        ]
+                                    },
+                                    "require": 38500
+                                }
+                            ],
+                            "perfect_cleared": 0,
+                            "step": 1,
+                            "this_perfect_clear": 0,
+                            "this_perfect_clear2": 0
+                        }
+                    ],
+                    "quest_type": 1
+                },
+                {
+                    "difficulty": 20,
+                    "difficulty_mode": 1,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "The Princess of Dalmasca Pt. 3",
+                    "quest_id": 3205,
+                    "quest_missions": [
+                        {
+                            "complete": 0,
+                            "level": 0,
+                            "missions": [
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 1,
+                                    "quest_mission": {
+                                        "arg1": -1,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 2,
+                                        "mode": 1,
+                                        "num": 1,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 20,
+                                                "item_type": 99
+                                            }
+                                        ]
+                                    },
+                                    "require": 1
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 2,
+                                    "quest_mission": {
+                                        "arg1": 25,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 3,
+                                        "mode": 3,
+                                        "num": 2,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 20,
+                                                "item_type": 99
+                                            }
+                                        ]
+                                    },
+                                    "require": 25
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 3,
+                                    "quest_mission": {
+                                        "arg1": 2,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 4,
+                                        "mode": 2,
+                                        "num": 3,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 4,
+                                                "item_num": 10,
+                                                "item_type": 11
+                                            }
+                                        ]
+                                    },
+                                    "require": 2
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 4,
+                                    "quest_mission": {
+                                        "arg1": 4000,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "mission_type": 30,
+                                        "mode": 2,
+                                        "num": 4,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 40,
+                                                "item_type": 99,
+                                                "quest_reward_type": 3
+                                            }
+                                        ]
+                                    },
+                                    "require": 4000
+                                }
+                            ],
+                            "perfect_cleared": 0,
+                            "step": 1,
+                            "this_perfect_clear": 0,
+                            "this_perfect_clear2": 0
+                        }
+                    ],
+                    "quest_type": 1
+                },
+                {
+                    "difficulty": 70,
+                    "difficulty_mode": 2,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "The Princess of Dalmasca Pt. 3",
+                    "quest_id": 3205,
+                    "quest_missions": [
+                        {
+                            "complete": 0,
+                            "level": 0,
+                            "missions": [
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 1,
+                                    "quest_mission": {
+                                        "arg1": -1,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 2,
+                                        "mode": 1,
+                                        "num": 1,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 20,
+                                                "item_type": 99
+                                            }
+                                        ]
+                                    },
+                                    "require": 1
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 2,
+                                    "quest_mission": {
+                                        "arg1": 15,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 3,
+                                        "mode": 3,
+                                        "num": 2,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 20,
+                                                "item_type": 99
+                                            }
+                                        ]
+                                    },
+                                    "require": 15
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 3,
+                                    "quest_mission": {
+                                        "arg1": -1,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 5,
+                                        "mode": 1,
+                                        "num": 3,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 5,
+                                                "item_num": 10,
+                                                "item_type": 11
+                                            }
+                                        ]
+                                    },
+                                    "require": 1
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 4,
+                                    "quest_mission": {
+                                        "arg1": 24000,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "mission_type": 30,
+                                        "mode": 2,
+                                        "num": 4,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 40,
+                                                "item_type": 99,
+                                                "quest_reward_type": 3
+                                            }
+                                        ]
+                                    },
+                                    "require": 24000
+                                }
+                            ],
+                            "perfect_cleared": 0,
+                            "step": 1,
+                            "this_perfect_clear": 0,
+                            "this_perfect_clear2": 0
+                        }
+                    ],
+                    "quest_type": 1
+                },
+                {
+                    "difficulty": 20,
+                    "difficulty_mode": 1,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "The Princess of Dalmasca Pt. 4",
+                    "quest_id": 3206,
+                    "quest_missions": [
+                        {
+                            "complete": 0,
+                            "level": 0,
+                            "missions": [
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 1,
+                                    "quest_mission": {
+                                        "arg1": -1,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 2,
+                                        "mode": 1,
+                                        "num": 1,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 20,
+                                                "item_type": 99
+                                            }
+                                        ]
+                                    },
+                                    "require": 1
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 2,
+                                    "quest_mission": {
+                                        "arg1": 25,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 3,
+                                        "mode": 3,
+                                        "num": 2,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 20,
+                                                "item_type": 99
+                                            }
+                                        ]
+                                    },
+                                    "require": 25
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 3,
+                                    "quest_mission": {
+                                        "arg1": 2,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 4,
+                                        "mode": 2,
+                                        "num": 3,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 4,
+                                                "item_num": 10,
+                                                "item_type": 9
+                                            }
+                                        ]
+                                    },
+                                    "require": 2
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 4,
+                                    "quest_mission": {
+                                        "arg1": 4000,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "mission_type": 30,
+                                        "mode": 2,
+                                        "num": 4,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 40,
+                                                "item_type": 99,
+                                                "quest_reward_type": 3
+                                            }
+                                        ]
+                                    },
+                                    "require": 4000
+                                }
+                            ],
+                            "perfect_cleared": 0,
+                            "step": 1,
+                            "this_perfect_clear": 0,
+                            "this_perfect_clear2": 0
+                        }
+                    ],
+                    "quest_type": 1
+                },
+                {
+                    "difficulty": 70,
+                    "difficulty_mode": 2,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "The Princess of Dalmasca Pt. 4",
+                    "quest_id": 3206,
+                    "quest_missions": [
+                        {
+                            "complete": 0,
+                            "level": 0,
+                            "missions": [
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 1,
+                                    "quest_mission": {
+                                        "arg1": -1,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 2,
+                                        "mode": 1,
+                                        "num": 1,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 20,
+                                                "item_type": 99
+                                            }
+                                        ]
+                                    },
+                                    "require": 1
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 2,
+                                    "quest_mission": {
+                                        "arg1": 15,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 3,
+                                        "mode": 3,
+                                        "num": 2,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 20,
+                                                "item_type": 99
+                                            }
+                                        ]
+                                    },
+                                    "require": 15
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 3,
+                                    "quest_mission": {
+                                        "arg1": -1,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 5,
+                                        "mode": 1,
+                                        "num": 3,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 10,
+                                                "item_type": 11
+                                            }
+                                        ]
+                                    },
+                                    "require": 1
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 4,
+                                    "quest_mission": {
+                                        "arg1": 26000,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "mission_type": 30,
+                                        "mode": 2,
+                                        "num": 4,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 40,
+                                                "item_type": 99,
+                                                "quest_reward_type": 3
+                                            }
+                                        ]
+                                    },
+                                    "require": 26000
+                                }
+                            ],
+                            "perfect_cleared": 0,
+                            "step": 1,
+                            "this_perfect_clear": 0,
+                            "this_perfect_clear2": 0
+                        }
+                    ],
+                    "quest_type": 1
+                },
+                {
+                    "difficulty": 20,
+                    "difficulty_mode": 1,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "The Princess of Dalmasca Pt. 5",
+                    "quest_id": 3207,
+                    "quest_missions": [
+                        {
+                            "complete": 0,
+                            "level": 0,
+                            "missions": [
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 1,
+                                    "quest_mission": {
+                                        "arg1": -1,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 2,
+                                        "mode": 1,
+                                        "num": 1,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 20,
+                                                "item_type": 99
+                                            }
+                                        ]
+                                    },
+                                    "require": 1
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 2,
+                                    "quest_mission": {
+                                        "arg1": 25,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 3,
+                                        "mode": 3,
+                                        "num": 2,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 20,
+                                                "item_type": 99
+                                            }
+                                        ]
+                                    },
+                                    "require": 25
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 3,
+                                    "quest_mission": {
+                                        "arg1": 2,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 4,
+                                        "mode": 2,
+                                        "num": 3,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 10,
+                                                "item_type": 11
+                                            }
+                                        ]
+                                    },
+                                    "require": 2
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 4,
+                                    "quest_mission": {
+                                        "arg1": 3000,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "mission_type": 30,
+                                        "mode": 2,
+                                        "num": 4,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 40,
+                                                "item_type": 99,
+                                                "quest_reward_type": 3
+                                            }
+                                        ]
+                                    },
+                                    "require": 3000
+                                }
+                            ],
+                            "perfect_cleared": 0,
+                            "step": 1,
+                            "this_perfect_clear": 0,
+                            "this_perfect_clear2": 0
+                        }
+                    ],
+                    "quest_type": 1
+                },
+                {
+                    "difficulty": 70,
+                    "difficulty_mode": 2,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "The Princess of Dalmasca Pt. 5",
+                    "quest_id": 3207,
+                    "quest_missions": [
+                        {
+                            "complete": 0,
+                            "level": 0,
+                            "missions": [
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 1,
+                                    "quest_mission": {
+                                        "arg1": -1,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 2,
+                                        "mode": 1,
+                                        "num": 1,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 20,
+                                                "item_type": 99
+                                            }
+                                        ]
+                                    },
+                                    "require": 1
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 2,
+                                    "quest_mission": {
+                                        "arg1": 15,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 3,
+                                        "mode": 3,
+                                        "num": 2,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 20,
+                                                "item_type": 99
+                                            }
+                                        ]
+                                    },
+                                    "require": 15
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 3,
+                                    "quest_mission": {
+                                        "arg1": -1,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 5,
+                                        "mode": 1,
+                                        "num": 3,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 3,
+                                                "item_num": 10,
+                                                "item_type": 11
+                                            }
+                                        ]
+                                    },
+                                    "require": 1
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 4,
+                                    "quest_mission": {
+                                        "arg1": 23000,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "mission_type": 30,
+                                        "mode": 2,
+                                        "num": 4,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 40,
+                                                "item_type": 99,
+                                                "quest_reward_type": 3
+                                            }
+                                        ]
+                                    },
+                                    "require": 23000
+                                }
+                            ],
+                            "perfect_cleared": 0,
+                            "step": 1,
+                            "this_perfect_clear": 0,
+                            "this_perfect_clear2": 0
+                        }
+                    ],
+                    "quest_type": 1
+                },
+                {
+                    "difficulty": 20,
+                    "difficulty_mode": 1,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "The Princess of Dalmasca Pt. 6",
+                    "quest_id": 3208,
+                    "quest_missions": [
+                        {
+                            "complete": 0,
+                            "level": 0,
+                            "missions": [
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 1,
+                                    "quest_mission": {
+                                        "arg1": -1,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 2,
+                                        "mode": 1,
+                                        "num": 1,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 20,
+                                                "item_type": 99
+                                            }
+                                        ]
+                                    },
+                                    "require": 1
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 2,
+                                    "quest_mission": {
+                                        "arg1": 30,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 3,
+                                        "mode": 3,
+                                        "num": 2,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 20,
+                                                "item_type": 99
+                                            }
+                                        ]
+                                    },
+                                    "require": 30
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 3,
+                                    "quest_mission": {
+                                        "arg1": 2,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 4,
+                                        "mode": 2,
+                                        "num": 3,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 5,
+                                                "item_num": 10,
+                                                "item_type": 11
+                                            }
+                                        ]
+                                    },
+                                    "require": 2
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 4,
+                                    "quest_mission": {
+                                        "arg1": 4500,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "mission_type": 30,
+                                        "mode": 2,
+                                        "num": 4,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 40,
+                                                "item_type": 99,
+                                                "quest_reward_type": 3
+                                            }
+                                        ]
+                                    },
+                                    "require": 4500
+                                }
+                            ],
+                            "perfect_cleared": 0,
+                            "step": 1,
+                            "this_perfect_clear": 0,
+                            "this_perfect_clear2": 0
+                        }
+                    ],
+                    "quest_type": 1
+                },
+                {
+                    "difficulty": 70,
+                    "difficulty_mode": 2,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "The Princess of Dalmasca Pt. 6",
+                    "quest_id": 3208,
+                    "quest_missions": [
+                        {
+                            "complete": 0,
+                            "level": 0,
+                            "missions": [
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 1,
+                                    "quest_mission": {
+                                        "arg1": -1,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 2,
+                                        "mode": 1,
+                                        "num": 1,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 20,
+                                                "item_type": 99
+                                            }
+                                        ]
+                                    },
+                                    "require": 1
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 2,
+                                    "quest_mission": {
+                                        "arg1": 15,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 3,
+                                        "mode": 3,
+                                        "num": 2,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 20,
+                                                "item_type": 99
+                                            }
+                                        ]
+                                    },
+                                    "require": 15
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 3,
+                                    "quest_mission": {
+                                        "arg1": -1,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 5,
+                                        "mode": 1,
+                                        "num": 3,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 6,
+                                                "item_num": 10,
+                                                "item_type": 11
+                                            }
+                                        ]
+                                    },
+                                    "require": 1
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 4,
+                                    "quest_mission": {
+                                        "arg1": 24000,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "mission_type": 30,
+                                        "mode": 2,
+                                        "num": 4,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 40,
+                                                "item_type": 99,
+                                                "quest_reward_type": 3
+                                            }
+                                        ]
+                                    },
+                                    "require": 24000
+                                }
+                            ],
+                            "perfect_cleared": 0,
+                            "step": 1,
+                            "this_perfect_clear": 0,
+                            "this_perfect_clear2": 0
+                        }
+                    ],
+                    "quest_type": 1
+                },
+                {
+                    "difficulty": 20,
+                    "difficulty_mode": 1,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "The Princess of Dalmasca Pt. 7",
+                    "quest_id": 3209,
+                    "quest_missions": [
+                        {
+                            "complete": 0,
+                            "level": 0,
+                            "missions": [
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 1,
+                                    "quest_mission": {
+                                        "arg1": -1,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 2,
+                                        "mode": 1,
+                                        "num": 1,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 20,
+                                                "item_type": 99
+                                            }
+                                        ]
+                                    },
+                                    "require": 1
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 2,
+                                    "quest_mission": {
+                                        "arg1": 30,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 3,
+                                        "mode": 3,
+                                        "num": 2,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 20,
+                                                "item_type": 99
+                                            }
+                                        ]
+                                    },
+                                    "require": 30
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 3,
+                                    "quest_mission": {
+                                        "arg1": 2,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 4,
+                                        "mode": 2,
+                                        "num": 3,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 5,
+                                                "item_num": 10,
+                                                "item_type": 9
+                                            }
+                                        ]
+                                    },
+                                    "require": 2
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 4,
+                                    "quest_mission": {
+                                        "arg1": 4000,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "mission_type": 30,
+                                        "mode": 2,
+                                        "num": 4,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 40,
+                                                "item_type": 99,
+                                                "quest_reward_type": 3
+                                            }
+                                        ]
+                                    },
+                                    "require": 4000
+                                }
+                            ],
+                            "perfect_cleared": 0,
+                            "step": 1,
+                            "this_perfect_clear": 0,
+                            "this_perfect_clear2": 0
+                        }
+                    ],
+                    "quest_type": 1
+                },
+                {
+                    "difficulty": 70,
+                    "difficulty_mode": 2,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "The Princess of Dalmasca Pt. 7",
+                    "quest_id": 3209,
+                    "quest_missions": [
+                        {
+                            "complete": 0,
+                            "level": 0,
+                            "missions": [
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 1,
+                                    "quest_mission": {
+                                        "arg1": -1,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 2,
+                                        "mode": 1,
+                                        "num": 1,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 20,
+                                                "item_type": 99
+                                            }
+                                        ]
+                                    },
+                                    "require": 1
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 2,
+                                    "quest_mission": {
+                                        "arg1": 15,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 3,
+                                        "mode": 3,
+                                        "num": 2,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 20,
+                                                "item_type": 99
+                                            }
+                                        ]
+                                    },
+                                    "require": 15
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 3,
+                                    "quest_mission": {
+                                        "arg1": -1,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 5,
+                                        "mode": 1,
+                                        "num": 3,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 6,
+                                                "item_num": 10,
+                                                "item_type": 11
+                                            }
+                                        ]
+                                    },
+                                    "require": 1
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 4,
+                                    "quest_mission": {
+                                        "arg1": 24000,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "mission_type": 30,
+                                        "mode": 2,
+                                        "num": 4,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 40,
+                                                "item_type": 99,
+                                                "quest_reward_type": 3
+                                            }
+                                        ]
+                                    },
+                                    "require": 24000
+                                }
+                            ],
+                            "perfect_cleared": 0,
+                            "step": 1,
+                            "this_perfect_clear": 0,
+                            "this_perfect_clear2": 0
+                        }
+                    ],
+                    "quest_type": 1
+                },
+                {
+                    "difficulty": 30,
+                    "difficulty_mode": 1,
+                    "is_clear": 0,
+                    "is_strong_enemy": 1,
+                    "items": [
+                        {
+                            "acquired_num": 0,
+                            "all_num": 1,
+                            "exchange_count": 0,
+                            "item_id": 1656,
+                            "item_type": 2,
+                            "sort_num": 0,
+                            "stock": 0
+                        }
+                    ],
+                    "name": "The Princess of Dalmasca Pt. 8",
+                    "quest_id": 3210,
+                    "quest_missions": [
+                        {
+                            "complete": 0,
+                            "level": 0,
+                            "missions": [
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 1,
+                                    "quest_mission": {
+                                        "arg1": -1,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 2,
+                                        "mode": 1,
+                                        "num": 1,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 20,
+                                                "item_type": 99
+                                            }
+                                        ]
+                                    },
+                                    "require": 1
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 2,
+                                    "quest_mission": {
+                                        "arg1": 80,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 3,
+                                        "mode": 3,
+                                        "num": 2,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 20,
+                                                "item_type": 99
+                                            }
+                                        ]
+                                    },
+                                    "require": 80
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 3,
+                                    "quest_mission": {
+                                        "arg1": 56,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 8,
+                                        "mode": 1,
+                                        "num": 3,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 20,
+                                                "item_type": 99
+                                            }
+                                        ]
+                                    },
+                                    "require": 1
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 4,
+                                    "quest_mission": {
+                                        "arg1": 7000,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "mission_type": 30,
+                                        "mode": 2,
+                                        "num": 4,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 40,
+                                                "item_type": 99,
+                                                "quest_reward_type": 3
+                                            }
+                                        ]
+                                    },
+                                    "require": 7000
+                                }
+                            ],
+                            "perfect_cleared": 0,
+                            "step": 1,
+                            "this_perfect_clear": 0,
+                            "this_perfect_clear2": 0
+                        }
+                    ],
+                    "quest_type": 1
+                },
+                {
+                    "difficulty": 80,
+                    "difficulty_mode": 2,
+                    "is_clear": 0,
+                    "is_strong_enemy": 1,
+                    "items": [],
+                    "name": "The Princess of Dalmasca Pt. 8",
+                    "quest_id": 3210,
+                    "quest_missions": [
+                        {
+                            "complete": 0,
+                            "level": 0,
+                            "missions": [
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 1,
+                                    "quest_mission": {
+                                        "arg1": -1,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 2,
+                                        "mode": 1,
+                                        "num": 1,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 20,
+                                                "item_type": 99
+                                            }
+                                        ]
+                                    },
+                                    "require": 1
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 2,
+                                    "quest_mission": {
+                                        "arg1": 95,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 3,
+                                        "mode": 3,
+                                        "num": 2,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 20,
+                                                "item_type": 99
+                                            }
+                                        ]
+                                    },
+                                    "require": 95
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 3,
+                                    "quest_mission": {
+                                        "arg1": 56,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 8,
+                                        "mode": 1,
+                                        "num": 3,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 20,
+                                                "item_num": 10,
+                                                "item_type": 9
+                                            }
+                                        ]
+                                    },
+                                    "require": 1
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 4,
+                                    "quest_mission": {
+                                        "arg1": 26000,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "mission_type": 30,
+                                        "mode": 2,
+                                        "num": 4,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 40,
+                                                "item_type": 99,
+                                                "quest_reward_type": 3
+                                            }
+                                        ]
+                                    },
+                                    "require": 26000
+                                }
+                            ],
+                            "perfect_cleared": 0,
+                            "step": 1,
+                            "this_perfect_clear": 0,
+                            "this_perfect_clear2": 0
+                        }
+                    ],
+                    "quest_type": 1
+                },
+                {
+                    "difficulty": 40,
+                    "difficulty_mode": 1,
+                    "is_clear": 0,
+                    "is_strong_enemy": 1,
+                    "items": [],
+                    "name": "The Princess of Dalmasca Pt. 9",
+                    "quest_id": 3211,
+                    "quest_missions": [
+                        {
+                            "complete": 0,
+                            "level": 0,
+                            "missions": [
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 1,
+                                    "quest_mission": {
+                                        "arg1": -1,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 2,
+                                        "mode": 1,
+                                        "num": 1,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 20,
+                                                "item_type": 99
+                                            }
+                                        ]
+                                    },
+                                    "require": 1
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 2,
+                                    "quest_mission": {
+                                        "arg1": 100,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 3,
+                                        "mode": 3,
+                                        "num": 2,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 20,
+                                                "item_type": 99
+                                            }
+                                        ]
+                                    },
+                                    "require": 100
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 3,
+                                    "quest_mission": {
+                                        "arg1": 56,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 8,
+                                        "mode": 1,
+                                        "num": 3,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 6,
+                                                "item_num": 5,
+                                                "item_type": 11
+                                            }
+                                        ]
+                                    },
+                                    "require": 1
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 4,
+                                    "quest_mission": {
+                                        "arg1": 8000,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "mission_type": 30,
+                                        "mode": 2,
+                                        "num": 4,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 40,
+                                                "item_type": 99,
+                                                "quest_reward_type": 3
+                                            }
+                                        ]
+                                    },
+                                    "require": 8000
+                                }
+                            ],
+                            "perfect_cleared": 0,
+                            "step": 1,
+                            "this_perfect_clear": 0,
+                            "this_perfect_clear2": 0
+                        }
+                    ],
+                    "quest_type": 1
+                },
+                {
+                    "difficulty": 90,
+                    "difficulty_mode": 2,
+                    "is_clear": 0,
+                    "is_strong_enemy": 1,
+                    "items": [],
+                    "name": "The Princess of Dalmasca Pt. 9",
+                    "quest_id": 3211,
+                    "quest_missions": [
+                        {
+                            "complete": 0,
+                            "level": 0,
+                            "missions": [
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 1,
+                                    "quest_mission": {
+                                        "arg1": -1,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 2,
+                                        "mode": 1,
+                                        "num": 1,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 20,
+                                                "item_type": 99
+                                            }
+                                        ]
+                                    },
+                                    "require": 1
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 2,
+                                    "quest_mission": {
+                                        "arg1": 100,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 3,
+                                        "mode": 3,
+                                        "num": 2,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 20,
+                                                "item_type": 99
+                                            }
+                                        ]
+                                    },
+                                    "require": 100
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 3,
+                                    "quest_mission": {
+                                        "arg1": 56,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 8,
+                                        "mode": 1,
+                                        "num": 3,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 20,
+                                                "item_num": 10,
+                                                "item_type": 9
+                                            }
+                                        ]
+                                    },
+                                    "require": 1
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 4,
+                                    "quest_mission": {
+                                        "arg1": 31000,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "mission_type": 30,
+                                        "mode": 2,
+                                        "num": 4,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 40,
+                                                "item_type": 99,
+                                                "quest_reward_type": 3
+                                            }
+                                        ]
+                                    },
+                                    "require": 31000
+                                }
+                            ],
+                            "perfect_cleared": 0,
+                            "step": 1,
+                            "this_perfect_clear": 0,
+                            "this_perfect_clear2": 0
+                        }
+                    ],
+                    "quest_type": 1
+                },
+                {
+                    "difficulty": 50,
+                    "difficulty_mode": 1,
+                    "is_clear": 0,
+                    "is_strong_enemy": 1,
+                    "items": [],
+                    "name": "The Princess of Dalmasca Pt. 10",
+                    "quest_id": 3212,
+                    "quest_missions": [
+                        {
+                            "complete": 0,
+                            "level": 0,
+                            "missions": [
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 1,
+                                    "quest_mission": {
+                                        "arg1": -1,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 2,
+                                        "mode": 1,
+                                        "num": 1,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 20,
+                                                "item_type": 99
+                                            }
+                                        ]
+                                    },
+                                    "require": 1
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 2,
+                                    "quest_mission": {
+                                        "arg1": 100,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 3,
+                                        "mode": 3,
+                                        "num": 2,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 20,
+                                                "item_type": 99
+                                            }
+                                        ]
+                                    },
+                                    "require": 100
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 3,
+                                    "quest_mission": {
+                                        "arg1": 56,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 8,
+                                        "mode": 1,
+                                        "num": 3,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 20,
+                                                "item_type": 99
+                                            }
+                                        ]
+                                    },
+                                    "require": 1
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 4,
+                                    "quest_mission": {
+                                        "arg1": 14000,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "mission_type": 30,
+                                        "mode": 2,
+                                        "num": 4,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 40,
+                                                "item_type": 99,
+                                                "quest_reward_type": 3
+                                            }
+                                        ]
+                                    },
+                                    "require": 14000
+                                }
+                            ],
+                            "perfect_cleared": 0,
+                            "step": 1,
+                            "this_perfect_clear": 0,
+                            "this_perfect_clear2": 0
+                        }
+                    ],
+                    "quest_type": 1
+                },
+                {
+                    "difficulty": 100,
+                    "difficulty_mode": 2,
+                    "is_clear": 0,
+                    "is_strong_enemy": 1,
+                    "items": [],
+                    "name": "The Princess of Dalmasca Pt. 10",
+                    "quest_id": 3212,
+                    "quest_missions": [
+                        {
+                            "complete": 0,
+                            "level": 0,
+                            "missions": [
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 1,
+                                    "quest_mission": {
+                                        "arg1": -1,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 2,
+                                        "mode": 1,
+                                        "num": 1,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 20,
+                                                "item_type": 99
+                                            }
+                                        ]
+                                    },
+                                    "require": 1
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 2,
+                                    "quest_mission": {
+                                        "arg1": 120,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 3,
+                                        "mode": 3,
+                                        "num": 2,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 20,
+                                                "item_type": 99
+                                            }
+                                        ]
+                                    },
+                                    "require": 120
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 3,
+                                    "quest_mission": {
+                                        "arg1": 56,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 8,
+                                        "mode": 1,
+                                        "num": 3,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 20,
+                                                "item_num": 10,
+                                                "item_type": 9
+                                            }
+                                        ]
+                                    },
+                                    "require": 1
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 4,
+                                    "quest_mission": {
+                                        "arg1": 40000,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "mission_type": 30,
+                                        "mode": 2,
+                                        "num": 4,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 40,
+                                                "item_type": 99,
+                                                "quest_reward_type": 3
+                                            }
+                                        ]
+                                    },
+                                    "require": 40000
+                                }
+                            ],
+                            "perfect_cleared": 0,
+                            "step": 1,
+                            "this_perfect_clear": 0,
+                            "this_perfect_clear2": 0
+                        }
+                    ],
+                    "quest_type": 1
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 3218,
+                    "quest_type": 6
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 3219,
+                    "quest_type": 4
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 3220,
+                    "quest_type": 4
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 3222,
+                    "quest_type": 4
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 3223,
+                    "quest_type": 4
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 3224,
+                    "quest_type": 6
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 3225,
+                    "quest_type": 4
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 3226,
+                    "quest_type": 4
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 3227,
+                    "quest_type": 4
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 3228,
+                    "quest_type": 4
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 3229,
+                    "quest_type": 4
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 3230,
+                    "quest_type": 4
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 3231,
+                    "quest_type": 4
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 3232,
+                    "quest_type": 4
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 3233,
+                    "quest_type": 4
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 3234,
+                    "quest_type": 4
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 3235,
+                    "quest_type": 4
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 3236,
+                    "quest_type": 4
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 3237,
+                    "quest_type": 4
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 3238,
+                    "quest_type": 4
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 3239,
+                    "quest_type": 4
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 3240,
+                    "quest_type": 4
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 3241,
+                    "quest_type": 4
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 3242,
+                    "quest_type": 4
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 3243,
+                    "quest_type": 4
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 3244,
+                    "quest_type": 4
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 3245,
+                    "quest_type": 4
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 3246,
+                    "quest_type": 4
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 3247,
+                    "quest_type": 4
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 3248,
+                    "quest_type": 4
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 3249,
+                    "quest_type": 6
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 3251,
+                    "quest_type": 4
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 3252,
+                    "quest_type": 4
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 3253,
+                    "quest_type": 4
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 3254,
+                    "quest_type": 6
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 3255,
+                    "quest_type": 4
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 3256,
+                    "quest_type": 4
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 3257,
+                    "quest_type": 6
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 3258,
+                    "quest_type": 6
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 3259,
+                    "quest_type": 6
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 3260,
+                    "quest_type": 6
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 3261,
+                    "quest_type": 6
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 3262,
+                    "quest_type": 6
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 3263,
+                    "quest_type": 6
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 3264,
+                    "quest_type": 6
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 3265,
+                    "quest_type": 6
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 3266,
+                    "quest_type": 6
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 3267,
+                    "quest_type": 6
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 3268,
+                    "quest_type": 6
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 3269,
+                    "quest_type": 6
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 3270,
+                    "quest_type": 6
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 3271,
+                    "quest_type": 6
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 3272,
+                    "quest_type": 6
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 3273,
+                    "quest_type": 6
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 3274,
+                    "quest_type": 6
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 3275,
+                    "quest_type": 6
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 3277,
+                    "quest_type": 6
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 3278,
+                    "quest_type": 6
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 3279,
+                    "quest_type": 4
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 3280,
+                    "quest_type": 6
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 3281,
+                    "quest_type": 4
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 3282,
+                    "quest_type": 4
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 3283,
+                    "quest_type": 6
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 3284,
+                    "quest_type": 4
+                }
+            ],
+            "shop_items": []
+        }
+    ],
+    "missions": [
+        {
+            "description": "Complete the Lost Chapter \\n\"Princess of Dalmasca Pt. 1\"\\nin Hard Mode",
+            "field_part": 0,
+            "mission_category": 2,
+            "mission_id": 1269,
+            "moogle_pass_receive_status": 0,
+            "receive_status": 0,
+            "rewards": [
+                {
+                    "item_id": 5,
+                    "item_num": 2,
+                    "item_type": 8
+                }
+            ]
+        },
+        {
+            "description": "Complete the Lost Chapter \\n\"Princess of Dalmasca Pt. 2\"\\nin Hard Mode",
+            "field_part": 0,
+            "mission_category": 2,
+            "mission_id": 1270,
+            "moogle_pass_receive_status": 0,
+            "receive_status": 0,
+            "rewards": [
+                {
+                    "item_id": 5,
+                    "item_num": 2,
+                    "item_type": 8
+                }
+            ]
+        },
+        {
+            "description": "Complete the Lost Chapter \\n\"Princess of Dalmasca Pt. 8\"\\nin Hard Mode",
+            "field_part": 0,
+            "mission_category": 2,
+            "mission_id": 1271,
+            "moogle_pass_receive_status": 0,
+            "receive_status": 0,
+            "rewards": [
+                {
+                    "item_id": 5,
+                    "item_num": 2,
+                    "item_type": 8
+                }
+            ]
+        },
+        {
+            "description": "Complete the Lost Chapter \\n\"Princess of Dalmasca Pt. 9\"\\nin Hard Mode",
+            "field_part": 0,
+            "mission_category": 2,
+            "mission_id": 1272,
+            "moogle_pass_receive_status": 0,
+            "receive_status": 0,
+            "rewards": [
+                {
+                    "item_id": 5,
+                    "item_num": 2,
+                    "item_type": 8
+                }
+            ]
+        },
+        {
+            "description": "Complete the Lost Chapter \\n\"Princess of Dalmasca Pt. 10\"\\nin Hard Mode",
+            "field_part": 0,
+            "mission_category": 2,
+            "mission_id": 1273,
+            "moogle_pass_receive_status": 0,
+            "receive_status": 0,
+            "rewards": [
+                {
+                    "item_id": 5,
+                    "item_num": 2,
+                    "item_type": 8
+                }
+            ]
+        },
+        {
+            "description": "Complete the Lost Chapter\\n\"Princess of Dalmasca\"\\nin Hard Mode",
+            "field_part": 0,
+            "mission_category": 2,
+            "mission_id": 1275,
+            "moogle_pass_receive_status": 0,
+            "receive_status": 0,
+            "rewards": [
+                {
+                    "item_id": 2,
+                    "item_num": 1000,
+                    "item_type": 99
+                }
+            ]
+        },
+        {
+            "description": "Clear the Lost Chapter \\n\"The Princess of Dalmasca\" ",
+            "field_part": 0,
+            "mission_category": 2,
+            "mission_id": 1524,
+            "moogle_pass_receive_status": 0,
+            "receive_status": 0,
+            "rewards": [
+                {
+                    "item_id": 2,
+                    "item_num": 500,
+                    "item_type": 99
+                }
+            ]
+        },
+        {
+            "description": "Clear the Lost Chapter \\n\"The Princess of Dalmasca\" ",
+            "field_part": 0,
+            "mission_category": 2,
+            "mission_id": 1525,
+            "moogle_pass_receive_status": 0,
+            "receive_status": 0,
+            "rewards": [
+                {
+                    "item_id": 702,
+                    "item_num": 1,
+                    "item_type": 1
+                }
+            ]
+        }
+    ],
+    "summonboard": {}
+}

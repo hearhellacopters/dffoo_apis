@@ -1,0 +1,3221 @@
+{
+    "fields": [
+        {
+            "field_id": 308,
+            "field_part": 0,
+            "quests": [
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "獅子の心臓",
+                    "quest_id": 76102,
+                    "quest_type": 0
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "ふたりの王に仕えて",
+                    "quest_id": 76103,
+                    "quest_type": 0
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "「不死将軍」の異名",
+                    "quest_id": 76104,
+                    "quest_type": 0
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "称号にはそぐわない",
+                    "quest_id": 76105,
+                    "quest_type": 0
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "意外な腕前",
+                    "quest_id": 76106,
+                    "quest_type": 0
+                },
+                {
+                    "difficulty": 100,
+                    "difficulty_mode": 1,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "小さな戦い1",
+                    "quest_id": 76107,
+                    "quest_missions": [
+                        {
+                            "complete": 0,
+                            "level": 0,
+                            "missions": [
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 1,
+                                    "quest_mission": {
+                                        "arg1": -1,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 2,
+                                        "mode": 1,
+                                        "num": 1,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 1,
+                                                "item_num": 1000,
+                                                "item_type": 99
+                                            }
+                                        ]
+                                    },
+                                    "require": 1
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 2,
+                                    "quest_mission": {
+                                        "arg1": 15,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 3,
+                                        "mode": 3,
+                                        "num": 2,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 1,
+                                                "item_num": 1000,
+                                                "item_type": 99
+                                            }
+                                        ]
+                                    },
+                                    "require": 15
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 3,
+                                    "quest_mission": {
+                                        "arg1": 3000,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 29,
+                                        "mode": 3,
+                                        "num": 3,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 6,
+                                                "item_num": 10,
+                                                "item_type": 11
+                                            }
+                                        ]
+                                    },
+                                    "require": 3000
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 4,
+                                    "quest_mission": {
+                                        "arg1": 65000,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "mission_type": 30,
+                                        "mode": 2,
+                                        "num": 4,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 1,
+                                                "item_num": 3000,
+                                                "item_type": 99,
+                                                "quest_reward_type": 3
+                                            }
+                                        ]
+                                    },
+                                    "require": 65000
+                                }
+                            ],
+                            "perfect_cleared": 0,
+                            "step": 1,
+                            "this_perfect_clear": 0,
+                            "this_perfect_clear2": 0
+                        }
+                    ],
+                    "quest_type": 5
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 2,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "小さな戦い1",
+                    "quest_id": 76107,
+                    "quest_type": 5
+                },
+                {
+                    "difficulty": 120,
+                    "difficulty_mode": 1,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "小さな戦い2",
+                    "quest_id": 76108,
+                    "quest_missions": [
+                        {
+                            "complete": 0,
+                            "level": 0,
+                            "missions": [
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 1,
+                                    "quest_mission": {
+                                        "arg1": -1,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 2,
+                                        "mode": 1,
+                                        "num": 1,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 1,
+                                                "item_num": 1000,
+                                                "item_type": 99
+                                            }
+                                        ]
+                                    },
+                                    "require": 1
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 2,
+                                    "quest_mission": {
+                                        "arg1": 20,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 3,
+                                        "mode": 3,
+                                        "num": 2,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 1,
+                                                "item_num": 1000,
+                                                "item_type": 99
+                                            }
+                                        ]
+                                    },
+                                    "require": 20
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 3,
+                                    "quest_mission": {
+                                        "arg1": 3000,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 29,
+                                        "mode": 3,
+                                        "num": 3,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 6,
+                                                "item_num": 10,
+                                                "item_type": 11
+                                            }
+                                        ]
+                                    },
+                                    "require": 3000
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 4,
+                                    "quest_mission": {
+                                        "arg1": 140000,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "mission_type": 30,
+                                        "mode": 2,
+                                        "num": 4,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 1,
+                                                "item_num": 3000,
+                                                "item_type": 99,
+                                                "quest_reward_type": 3
+                                            }
+                                        ]
+                                    },
+                                    "require": 140000
+                                }
+                            ],
+                            "perfect_cleared": 0,
+                            "step": 1,
+                            "this_perfect_clear": 0,
+                            "this_perfect_clear2": 0
+                        }
+                    ],
+                    "quest_type": 5
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 2,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "小さな戦い2",
+                    "quest_id": 76108,
+                    "quest_type": 5
+                },
+                {
+                    "difficulty": 120,
+                    "difficulty_mode": 1,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "小さな戦い3",
+                    "quest_id": 76109,
+                    "quest_missions": [
+                        {
+                            "complete": 0,
+                            "level": 0,
+                            "missions": [
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 1,
+                                    "quest_mission": {
+                                        "arg1": -1,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 2,
+                                        "mode": 1,
+                                        "num": 1,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 1,
+                                                "item_num": 1000,
+                                                "item_type": 99
+                                            }
+                                        ]
+                                    },
+                                    "require": 1
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 2,
+                                    "quest_mission": {
+                                        "arg1": 20,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 3,
+                                        "mode": 3,
+                                        "num": 2,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 1,
+                                                "item_num": 1000,
+                                                "item_type": 99
+                                            }
+                                        ]
+                                    },
+                                    "require": 20
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 3,
+                                    "quest_mission": {
+                                        "arg1": 3000,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 29,
+                                        "mode": 3,
+                                        "num": 3,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 6,
+                                                "item_num": 10,
+                                                "item_type": 11
+                                            }
+                                        ]
+                                    },
+                                    "require": 3000
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 4,
+                                    "quest_mission": {
+                                        "arg1": 120000,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "mission_type": 30,
+                                        "mode": 2,
+                                        "num": 4,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 1,
+                                                "item_num": 3000,
+                                                "item_type": 99,
+                                                "quest_reward_type": 3
+                                            }
+                                        ]
+                                    },
+                                    "require": 120000
+                                }
+                            ],
+                            "perfect_cleared": 0,
+                            "step": 1,
+                            "this_perfect_clear": 0,
+                            "this_perfect_clear2": 0
+                        }
+                    ],
+                    "quest_type": 5
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 2,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "小さな戦い3",
+                    "quest_id": 76109,
+                    "quest_type": 5
+                },
+                {
+                    "difficulty": 120,
+                    "difficulty_mode": 1,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "小さな戦い4",
+                    "quest_id": 76110,
+                    "quest_missions": [
+                        {
+                            "complete": 0,
+                            "level": 0,
+                            "missions": [
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 1,
+                                    "quest_mission": {
+                                        "arg1": -1,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 2,
+                                        "mode": 1,
+                                        "num": 1,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 1,
+                                                "item_num": 1000,
+                                                "item_type": 99
+                                            }
+                                        ]
+                                    },
+                                    "require": 1
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 2,
+                                    "quest_mission": {
+                                        "arg1": 20,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 3,
+                                        "mode": 3,
+                                        "num": 2,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 1,
+                                                "item_num": 1000,
+                                                "item_type": 99
+                                            }
+                                        ]
+                                    },
+                                    "require": 20
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 3,
+                                    "quest_mission": {
+                                        "arg1": 3000,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 29,
+                                        "mode": 3,
+                                        "num": 3,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 3,
+                                                "item_num": 10,
+                                                "item_type": 11
+                                            }
+                                        ]
+                                    },
+                                    "require": 3000
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 4,
+                                    "quest_mission": {
+                                        "arg1": 110000,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "mission_type": 30,
+                                        "mode": 2,
+                                        "num": 4,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 1,
+                                                "item_num": 3000,
+                                                "item_type": 99,
+                                                "quest_reward_type": 3
+                                            }
+                                        ]
+                                    },
+                                    "require": 110000
+                                }
+                            ],
+                            "perfect_cleared": 0,
+                            "step": 1,
+                            "this_perfect_clear": 0,
+                            "this_perfect_clear2": 0
+                        }
+                    ],
+                    "quest_type": 5
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 2,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "小さな戦い4",
+                    "quest_id": 76110,
+                    "quest_type": 5
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [
+                        {
+                            "acquired_num": 0,
+                            "all_num": 20,
+                            "exchange_count": 0,
+                            "item_id": 4,
+                            "item_type": 9,
+                            "sort_num": 0,
+                            "stock": 0
+                        }
+                    ],
+                    "name": "宝箱1",
+                    "quest_id": 76112,
+                    "quest_type": 2
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [
+                        {
+                            "acquired_num": 0,
+                            "all_num": 50,
+                            "exchange_count": 0,
+                            "item_id": 5,
+                            "item_type": 9,
+                            "sort_num": 0,
+                            "stock": 0
+                        }
+                    ],
+                    "name": "宝箱2",
+                    "quest_id": 76113,
+                    "quest_type": 2
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [
+                        {
+                            "acquired_num": 0,
+                            "all_num": 10,
+                            "exchange_count": 0,
+                            "item_id": 6,
+                            "item_type": 9,
+                            "sort_num": 0,
+                            "stock": 0
+                        }
+                    ],
+                    "name": "宝箱3",
+                    "quest_id": 76114,
+                    "quest_type": 2
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [
+                        {
+                            "acquired_num": 0,
+                            "all_num": 2000,
+                            "exchange_count": 0,
+                            "item_id": 2,
+                            "item_type": 99,
+                            "sort_num": 0,
+                            "stock": 0
+                        }
+                    ],
+                    "name": "宝箱4",
+                    "quest_id": 76115,
+                    "quest_type": 2
+                },
+                {
+                    "difficulty": 80,
+                    "difficulty_mode": 1,
+                    "is_clear": 0,
+                    "is_strong_enemy": 1,
+                    "items": [],
+                    "name": "不死将軍と呼ばれた男1",
+                    "quest_id": 76118,
+                    "quest_missions": [
+                        {
+                            "complete": 0,
+                            "level": 0,
+                            "missions": [
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 1,
+                                    "quest_mission": {
+                                        "arg1": -1,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 2,
+                                        "mode": 1,
+                                        "num": 1,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 20,
+                                                "item_type": 99
+                                            }
+                                        ]
+                                    },
+                                    "require": 1
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 2,
+                                    "quest_mission": {
+                                        "arg1": 50,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 3,
+                                        "mode": 3,
+                                        "num": 2,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 20,
+                                                "item_type": 99
+                                            }
+                                        ]
+                                    },
+                                    "require": 50
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 3,
+                                    "quest_mission": {
+                                        "arg1": 4000,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 29,
+                                        "mode": 3,
+                                        "num": 3,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 7,
+                                                "item_num": 1,
+                                                "item_type": 11
+                                            }
+                                        ]
+                                    },
+                                    "require": 4000
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 4,
+                                    "quest_mission": {
+                                        "arg1": 66000,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "mission_type": 30,
+                                        "mode": 2,
+                                        "num": 4,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 40,
+                                                "item_type": 99,
+                                                "quest_reward_type": 3
+                                            }
+                                        ]
+                                    },
+                                    "require": 66000
+                                }
+                            ],
+                            "perfect_cleared": 0,
+                            "step": 1,
+                            "this_perfect_clear": 0,
+                            "this_perfect_clear2": 0
+                        }
+                    ],
+                    "quest_type": 1
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 2,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "不死将軍と呼ばれた男1",
+                    "quest_id": 76118,
+                    "quest_type": 1
+                },
+                {
+                    "difficulty": 100,
+                    "difficulty_mode": 1,
+                    "is_clear": 0,
+                    "is_strong_enemy": 1,
+                    "items": [
+                        {
+                            "acquired_num": 0,
+                            "all_num": 1,
+                            "exchange_count": 0,
+                            "item_id": 4112,
+                            "item_type": 2,
+                            "sort_num": 0,
+                            "stock": 0
+                        }
+                    ],
+                    "name": "不死将軍と呼ばれた男2",
+                    "quest_id": 76119,
+                    "quest_missions": [
+                        {
+                            "complete": 0,
+                            "level": 0,
+                            "missions": [
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 1,
+                                    "quest_mission": {
+                                        "arg1": -1,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 2,
+                                        "mode": 1,
+                                        "num": 1,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 20,
+                                                "item_type": 99
+                                            }
+                                        ]
+                                    },
+                                    "require": 1
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 2,
+                                    "quest_mission": {
+                                        "arg1": 50,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 3,
+                                        "mode": 3,
+                                        "num": 2,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 20,
+                                                "item_type": 99
+                                            }
+                                        ]
+                                    },
+                                    "require": 50
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 3,
+                                    "quest_mission": {
+                                        "arg1": 3000,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 29,
+                                        "mode": 3,
+                                        "num": 3,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 9,
+                                                "item_num": 1,
+                                                "item_type": 11
+                                            }
+                                        ]
+                                    },
+                                    "require": 3000
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 4,
+                                    "quest_mission": {
+                                        "arg1": 260000,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "mission_type": 30,
+                                        "mode": 2,
+                                        "num": 4,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 60,
+                                                "item_type": 99,
+                                                "quest_reward_type": 3
+                                            }
+                                        ]
+                                    },
+                                    "require": 260000
+                                }
+                            ],
+                            "perfect_cleared": 0,
+                            "step": 1,
+                            "this_perfect_clear": 0,
+                            "this_perfect_clear2": 0
+                        }
+                    ],
+                    "quest_type": 1
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 2,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "不死将軍と呼ばれた男2",
+                    "quest_id": 76119,
+                    "quest_type": 1
+                },
+                {
+                    "difficulty": 100,
+                    "difficulty_mode": 1,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "不死将軍と呼ばれた男3",
+                    "quest_id": 76120,
+                    "quest_missions": [
+                        {
+                            "complete": 0,
+                            "level": 0,
+                            "missions": [
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 1,
+                                    "quest_mission": {
+                                        "arg1": -1,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 2,
+                                        "mode": 1,
+                                        "num": 1,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 20,
+                                                "item_type": 99
+                                            }
+                                        ]
+                                    },
+                                    "require": 1
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 2,
+                                    "quest_mission": {
+                                        "arg1": 15,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 3,
+                                        "mode": 3,
+                                        "num": 2,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 20,
+                                                "item_type": 99
+                                            }
+                                        ]
+                                    },
+                                    "require": 15
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 3,
+                                    "quest_mission": {
+                                        "arg1": 3000,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 29,
+                                        "mode": 3,
+                                        "num": 3,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 3,
+                                                "item_num": 10,
+                                                "item_type": 11
+                                            }
+                                        ]
+                                    },
+                                    "require": 3000
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 4,
+                                    "quest_mission": {
+                                        "arg1": 60000,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "mission_type": 30,
+                                        "mode": 2,
+                                        "num": 4,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 40,
+                                                "item_type": 99,
+                                                "quest_reward_type": 3
+                                            }
+                                        ]
+                                    },
+                                    "require": 60000
+                                }
+                            ],
+                            "perfect_cleared": 0,
+                            "step": 1,
+                            "this_perfect_clear": 0,
+                            "this_perfect_clear2": 0
+                        }
+                    ],
+                    "quest_type": 1
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 2,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "不死将軍と呼ばれた男3",
+                    "quest_id": 76120,
+                    "quest_type": 1
+                },
+                {
+                    "difficulty": 100,
+                    "difficulty_mode": 1,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "不死将軍と呼ばれた男4",
+                    "quest_id": 76121,
+                    "quest_missions": [
+                        {
+                            "complete": 0,
+                            "level": 0,
+                            "missions": [
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 1,
+                                    "quest_mission": {
+                                        "arg1": -1,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 2,
+                                        "mode": 1,
+                                        "num": 1,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 20,
+                                                "item_type": 99
+                                            }
+                                        ]
+                                    },
+                                    "require": 1
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 2,
+                                    "quest_mission": {
+                                        "arg1": 20,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 3,
+                                        "mode": 3,
+                                        "num": 2,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 20,
+                                                "item_type": 99
+                                            }
+                                        ]
+                                    },
+                                    "require": 20
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 3,
+                                    "quest_mission": {
+                                        "arg1": 3000,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 29,
+                                        "mode": 3,
+                                        "num": 3,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 3,
+                                                "item_num": 10,
+                                                "item_type": 11
+                                            }
+                                        ]
+                                    },
+                                    "require": 3000
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 4,
+                                    "quest_mission": {
+                                        "arg1": 70000,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "mission_type": 30,
+                                        "mode": 2,
+                                        "num": 4,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 40,
+                                                "item_type": 99,
+                                                "quest_reward_type": 3
+                                            }
+                                        ]
+                                    },
+                                    "require": 70000
+                                }
+                            ],
+                            "perfect_cleared": 0,
+                            "step": 1,
+                            "this_perfect_clear": 0,
+                            "this_perfect_clear2": 0
+                        }
+                    ],
+                    "quest_type": 1
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 2,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "不死将軍と呼ばれた男4",
+                    "quest_id": 76121,
+                    "quest_type": 1
+                },
+                {
+                    "difficulty": 100,
+                    "difficulty_mode": 1,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "不死将軍と呼ばれた男5",
+                    "quest_id": 76122,
+                    "quest_missions": [
+                        {
+                            "complete": 0,
+                            "level": 0,
+                            "missions": [
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 1,
+                                    "quest_mission": {
+                                        "arg1": -1,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 2,
+                                        "mode": 1,
+                                        "num": 1,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 20,
+                                                "item_type": 99
+                                            }
+                                        ]
+                                    },
+                                    "require": 1
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 2,
+                                    "quest_mission": {
+                                        "arg1": 20,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 3,
+                                        "mode": 3,
+                                        "num": 2,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 20,
+                                                "item_type": 99
+                                            }
+                                        ]
+                                    },
+                                    "require": 20
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 3,
+                                    "quest_mission": {
+                                        "arg1": 3000,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 29,
+                                        "mode": 3,
+                                        "num": 3,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 6,
+                                                "item_num": 10,
+                                                "item_type": 11
+                                            }
+                                        ]
+                                    },
+                                    "require": 3000
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 4,
+                                    "quest_mission": {
+                                        "arg1": 75000,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "mission_type": 30,
+                                        "mode": 2,
+                                        "num": 4,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 40,
+                                                "item_type": 99,
+                                                "quest_reward_type": 3
+                                            }
+                                        ]
+                                    },
+                                    "require": 75000
+                                }
+                            ],
+                            "perfect_cleared": 0,
+                            "step": 1,
+                            "this_perfect_clear": 0,
+                            "this_perfect_clear2": 0
+                        }
+                    ],
+                    "quest_type": 1
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 2,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "不死将軍と呼ばれた男5",
+                    "quest_id": 76122,
+                    "quest_type": 1
+                },
+                {
+                    "difficulty": 100,
+                    "difficulty_mode": 1,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "不死将軍と呼ばれた男6",
+                    "quest_id": 76123,
+                    "quest_missions": [
+                        {
+                            "complete": 0,
+                            "level": 0,
+                            "missions": [
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 1,
+                                    "quest_mission": {
+                                        "arg1": -1,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 2,
+                                        "mode": 1,
+                                        "num": 1,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 20,
+                                                "item_type": 99
+                                            }
+                                        ]
+                                    },
+                                    "require": 1
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 2,
+                                    "quest_mission": {
+                                        "arg1": 20,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 3,
+                                        "mode": 3,
+                                        "num": 2,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 20,
+                                                "item_type": 99
+                                            }
+                                        ]
+                                    },
+                                    "require": 20
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 3,
+                                    "quest_mission": {
+                                        "arg1": 3000,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 29,
+                                        "mode": 3,
+                                        "num": 3,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 3,
+                                                "item_num": 10,
+                                                "item_type": 11
+                                            }
+                                        ]
+                                    },
+                                    "require": 3000
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 4,
+                                    "quest_mission": {
+                                        "arg1": 90000,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "mission_type": 30,
+                                        "mode": 2,
+                                        "num": 4,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 40,
+                                                "item_type": 99,
+                                                "quest_reward_type": 3
+                                            }
+                                        ]
+                                    },
+                                    "require": 90000
+                                }
+                            ],
+                            "perfect_cleared": 0,
+                            "step": 1,
+                            "this_perfect_clear": 0,
+                            "this_perfect_clear2": 0
+                        }
+                    ],
+                    "quest_type": 1
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 2,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "不死将軍と呼ばれた男6",
+                    "quest_id": 76123,
+                    "quest_type": 1
+                },
+                {
+                    "difficulty": 120,
+                    "difficulty_mode": 1,
+                    "is_clear": 0,
+                    "is_strong_enemy": 1,
+                    "items": [
+                        {
+                            "acquired_num": 0,
+                            "all_num": 1,
+                            "exchange_count": 0,
+                            "item_id": 4112,
+                            "item_type": 2,
+                            "sort_num": 0,
+                            "stock": 0
+                        }
+                    ],
+                    "name": "不死将軍と呼ばれた男7",
+                    "quest_id": 76124,
+                    "quest_missions": [
+                        {
+                            "complete": 0,
+                            "level": 0,
+                            "missions": [
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 1,
+                                    "quest_mission": {
+                                        "arg1": -1,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 2,
+                                        "mode": 1,
+                                        "num": 1,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 20,
+                                                "item_type": 99
+                                            }
+                                        ]
+                                    },
+                                    "require": 1
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 2,
+                                    "quest_mission": {
+                                        "arg1": 70,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 3,
+                                        "mode": 3,
+                                        "num": 2,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 20,
+                                                "item_type": 99
+                                            }
+                                        ]
+                                    },
+                                    "require": 70
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 3,
+                                    "quest_mission": {
+                                        "arg1": 4000,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 29,
+                                        "mode": 3,
+                                        "num": 3,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 7,
+                                                "item_num": 1,
+                                                "item_type": 11
+                                            }
+                                        ]
+                                    },
+                                    "require": 4000
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 4,
+                                    "quest_mission": {
+                                        "arg1": 800000,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "mission_type": 30,
+                                        "mode": 2,
+                                        "num": 4,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 60,
+                                                "item_type": 99,
+                                                "quest_reward_type": 3
+                                            }
+                                        ]
+                                    },
+                                    "require": 800000
+                                }
+                            ],
+                            "perfect_cleared": 0,
+                            "step": 1,
+                            "this_perfect_clear": 0,
+                            "this_perfect_clear2": 0
+                        }
+                    ],
+                    "quest_type": 1
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 2,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "不死将軍と呼ばれた男7",
+                    "quest_id": 76124,
+                    "quest_type": 1
+                },
+                {
+                    "difficulty": 120,
+                    "difficulty_mode": 1,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "不死将軍と呼ばれた男8",
+                    "quest_id": 76125,
+                    "quest_missions": [
+                        {
+                            "complete": 0,
+                            "level": 0,
+                            "missions": [
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 1,
+                                    "quest_mission": {
+                                        "arg1": -1,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 2,
+                                        "mode": 1,
+                                        "num": 1,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 20,
+                                                "item_type": 99
+                                            }
+                                        ]
+                                    },
+                                    "require": 1
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 2,
+                                    "quest_mission": {
+                                        "arg1": 20,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 3,
+                                        "mode": 3,
+                                        "num": 2,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 20,
+                                                "item_type": 99
+                                            }
+                                        ]
+                                    },
+                                    "require": 20
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 3,
+                                    "quest_mission": {
+                                        "arg1": 3000,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 29,
+                                        "mode": 3,
+                                        "num": 3,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 6,
+                                                "item_num": 10,
+                                                "item_type": 11
+                                            }
+                                        ]
+                                    },
+                                    "require": 3000
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 4,
+                                    "quest_mission": {
+                                        "arg1": 130000,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "mission_type": 30,
+                                        "mode": 2,
+                                        "num": 4,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 40,
+                                                "item_type": 99,
+                                                "quest_reward_type": 3
+                                            }
+                                        ]
+                                    },
+                                    "require": 130000
+                                }
+                            ],
+                            "perfect_cleared": 0,
+                            "step": 1,
+                            "this_perfect_clear": 0,
+                            "this_perfect_clear2": 0
+                        }
+                    ],
+                    "quest_type": 1
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 2,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "不死将軍と呼ばれた男8",
+                    "quest_id": 76125,
+                    "quest_type": 1
+                },
+                {
+                    "difficulty": 120,
+                    "difficulty_mode": 1,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "不死将軍と呼ばれた男9",
+                    "quest_id": 76126,
+                    "quest_missions": [
+                        {
+                            "complete": 0,
+                            "level": 0,
+                            "missions": [
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 1,
+                                    "quest_mission": {
+                                        "arg1": -1,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 2,
+                                        "mode": 1,
+                                        "num": 1,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 20,
+                                                "item_type": 99
+                                            }
+                                        ]
+                                    },
+                                    "require": 1
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 2,
+                                    "quest_mission": {
+                                        "arg1": 15,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 3,
+                                        "mode": 3,
+                                        "num": 2,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 20,
+                                                "item_type": 99
+                                            }
+                                        ]
+                                    },
+                                    "require": 15
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 3,
+                                    "quest_mission": {
+                                        "arg1": 3000,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 29,
+                                        "mode": 3,
+                                        "num": 3,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 3,
+                                                "item_num": 10,
+                                                "item_type": 11
+                                            }
+                                        ]
+                                    },
+                                    "require": 3000
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 4,
+                                    "quest_mission": {
+                                        "arg1": 120000,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "mission_type": 30,
+                                        "mode": 2,
+                                        "num": 4,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 40,
+                                                "item_type": 99,
+                                                "quest_reward_type": 3
+                                            }
+                                        ]
+                                    },
+                                    "require": 120000
+                                }
+                            ],
+                            "perfect_cleared": 0,
+                            "step": 1,
+                            "this_perfect_clear": 0,
+                            "this_perfect_clear2": 0
+                        }
+                    ],
+                    "quest_type": 1
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 2,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "不死将軍と呼ばれた男9",
+                    "quest_id": 76126,
+                    "quest_type": 1
+                },
+                {
+                    "difficulty": 120,
+                    "difficulty_mode": 1,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "不死将軍と呼ばれた男10",
+                    "quest_id": 76127,
+                    "quest_missions": [
+                        {
+                            "complete": 0,
+                            "level": 0,
+                            "missions": [
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 1,
+                                    "quest_mission": {
+                                        "arg1": -1,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 2,
+                                        "mode": 1,
+                                        "num": 1,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 20,
+                                                "item_type": 99
+                                            }
+                                        ]
+                                    },
+                                    "require": 1
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 2,
+                                    "quest_mission": {
+                                        "arg1": 20,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 3,
+                                        "mode": 3,
+                                        "num": 2,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 20,
+                                                "item_type": 99
+                                            }
+                                        ]
+                                    },
+                                    "require": 20
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 3,
+                                    "quest_mission": {
+                                        "arg1": 3000,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 29,
+                                        "mode": 3,
+                                        "num": 3,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 3,
+                                                "item_num": 10,
+                                                "item_type": 11
+                                            }
+                                        ]
+                                    },
+                                    "require": 3000
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 4,
+                                    "quest_mission": {
+                                        "arg1": 120000,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "mission_type": 30,
+                                        "mode": 2,
+                                        "num": 4,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 40,
+                                                "item_type": 99,
+                                                "quest_reward_type": 3
+                                            }
+                                        ]
+                                    },
+                                    "require": 120000
+                                }
+                            ],
+                            "perfect_cleared": 0,
+                            "step": 1,
+                            "this_perfect_clear": 0,
+                            "this_perfect_clear2": 0
+                        }
+                    ],
+                    "quest_type": 1
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 2,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "不死将軍と呼ばれた男10",
+                    "quest_id": 76127,
+                    "quest_type": 1
+                },
+                {
+                    "difficulty": 180,
+                    "difficulty_mode": 1,
+                    "is_clear": 0,
+                    "is_strong_enemy": 2,
+                    "items": [
+                        {
+                            "acquired_num": 0,
+                            "all_num": 1,
+                            "exchange_count": 0,
+                            "item_id": 2299,
+                            "item_type": 1,
+                            "sort_num": 0,
+                            "stock": 0
+                        }
+                    ],
+                    "name": "不死将軍と呼ばれた男11",
+                    "quest_id": 76128,
+                    "quest_missions": [
+                        {
+                            "complete": 0,
+                            "level": 0,
+                            "missions": [
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 1,
+                                    "quest_mission": {
+                                        "arg1": -1,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 2,
+                                        "mode": 1,
+                                        "num": 1,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 20,
+                                                "item_type": 99
+                                            }
+                                        ]
+                                    },
+                                    "require": 1
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 2,
+                                    "quest_mission": {
+                                        "arg1": 60,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 3,
+                                        "mode": 3,
+                                        "num": 2,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 20,
+                                                "item_type": 99
+                                            }
+                                        ]
+                                    },
+                                    "require": 60
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 3,
+                                    "quest_mission": {
+                                        "arg1": 6000,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 29,
+                                        "mode": 3,
+                                        "num": 3,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 9,
+                                                "item_num": 1,
+                                                "item_type": 11
+                                            }
+                                        ]
+                                    },
+                                    "require": 6000
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 4,
+                                    "quest_mission": {
+                                        "arg1": 950000,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "mission_type": 30,
+                                        "mode": 2,
+                                        "num": 4,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 60,
+                                                "item_type": 99,
+                                                "quest_reward_type": 3
+                                            }
+                                        ]
+                                    },
+                                    "require": 950000
+                                }
+                            ],
+                            "perfect_cleared": 0,
+                            "step": 1,
+                            "this_perfect_clear": 0,
+                            "this_perfect_clear2": 0
+                        }
+                    ],
+                    "quest_type": 1
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 2,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "不死将軍と呼ばれた男11",
+                    "quest_id": 76128,
+                    "quest_type": 1
+                },
+                {
+                    "difficulty": 120,
+                    "difficulty_mode": 1,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "不死将軍と呼ばれた男12",
+                    "quest_id": 76129,
+                    "quest_missions": [
+                        {
+                            "complete": 0,
+                            "level": 0,
+                            "missions": [
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 1,
+                                    "quest_mission": {
+                                        "arg1": -1,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 2,
+                                        "mode": 1,
+                                        "num": 1,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 20,
+                                                "item_type": 99
+                                            }
+                                        ]
+                                    },
+                                    "require": 1
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 2,
+                                    "quest_mission": {
+                                        "arg1": 30,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 3,
+                                        "mode": 3,
+                                        "num": 2,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 20,
+                                                "item_type": 99
+                                            }
+                                        ]
+                                    },
+                                    "require": 30
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 3,
+                                    "quest_mission": {
+                                        "arg1": 3000,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 29,
+                                        "mode": 3,
+                                        "num": 3,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 3,
+                                                "item_num": 10,
+                                                "item_type": 11
+                                            }
+                                        ]
+                                    },
+                                    "require": 3000
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 4,
+                                    "quest_mission": {
+                                        "arg1": 120000,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "mission_type": 30,
+                                        "mode": 2,
+                                        "num": 4,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 40,
+                                                "item_type": 99,
+                                                "quest_reward_type": 3
+                                            }
+                                        ]
+                                    },
+                                    "require": 120000
+                                }
+                            ],
+                            "perfect_cleared": 0,
+                            "step": 1,
+                            "this_perfect_clear": 0,
+                            "this_perfect_clear2": 0
+                        }
+                    ],
+                    "quest_type": 1
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 2,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "不死将軍と呼ばれた男12",
+                    "quest_id": 76129,
+                    "quest_type": 1
+                },
+                {
+                    "difficulty": 120,
+                    "difficulty_mode": 1,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "不死将軍と呼ばれた男13",
+                    "quest_id": 76130,
+                    "quest_missions": [
+                        {
+                            "complete": 0,
+                            "level": 0,
+                            "missions": [
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 1,
+                                    "quest_mission": {
+                                        "arg1": -1,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 2,
+                                        "mode": 1,
+                                        "num": 1,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 20,
+                                                "item_type": 99
+                                            }
+                                        ]
+                                    },
+                                    "require": 1
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 2,
+                                    "quest_mission": {
+                                        "arg1": 30,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 3,
+                                        "mode": 3,
+                                        "num": 2,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 20,
+                                                "item_type": 99
+                                            }
+                                        ]
+                                    },
+                                    "require": 30
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 3,
+                                    "quest_mission": {
+                                        "arg1": 3000,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 29,
+                                        "mode": 3,
+                                        "num": 3,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 6,
+                                                "item_num": 10,
+                                                "item_type": 11
+                                            }
+                                        ]
+                                    },
+                                    "require": 3000
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 4,
+                                    "quest_mission": {
+                                        "arg1": 110000,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "mission_type": 30,
+                                        "mode": 2,
+                                        "num": 4,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 40,
+                                                "item_type": 99,
+                                                "quest_reward_type": 3
+                                            }
+                                        ]
+                                    },
+                                    "require": 110000
+                                }
+                            ],
+                            "perfect_cleared": 0,
+                            "step": 1,
+                            "this_perfect_clear": 0,
+                            "this_perfect_clear2": 0
+                        }
+                    ],
+                    "quest_type": 1
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 2,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "不死将軍と呼ばれた男13",
+                    "quest_id": 76130,
+                    "quest_type": 1
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 76141,
+                    "quest_type": 4
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 76142,
+                    "quest_type": 4
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 76143,
+                    "quest_type": 4
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 76144,
+                    "quest_type": 4
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 76145,
+                    "quest_type": 4
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 76146,
+                    "quest_type": 4
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 76147,
+                    "quest_type": 4
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 76148,
+                    "quest_type": 4
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 76149,
+                    "quest_type": 4
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 76150,
+                    "quest_type": 4
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 76151,
+                    "quest_type": 4
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 76152,
+                    "quest_type": 4
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 76153,
+                    "quest_type": 4
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 76154,
+                    "quest_type": 4
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 76155,
+                    "quest_type": 4
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 76156,
+                    "quest_type": 4
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 76157,
+                    "quest_type": 4
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 76158,
+                    "quest_type": 4
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 76159,
+                    "quest_type": 4
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 76160,
+                    "quest_type": 4
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 76161,
+                    "quest_type": 4
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 76162,
+                    "quest_type": 6
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 76163,
+                    "quest_type": 6
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 76164,
+                    "quest_type": 6
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 76165,
+                    "quest_type": 6
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 76166,
+                    "quest_type": 6
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 76167,
+                    "quest_type": 6
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 76168,
+                    "quest_type": 6
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 76169,
+                    "quest_type": 6
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 76170,
+                    "quest_type": 6
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 76171,
+                    "quest_type": 6
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 76172,
+                    "quest_type": 6
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 76173,
+                    "quest_type": 6
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 76174,
+                    "quest_type": 6
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 76175,
+                    "quest_type": 6
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 76176,
+                    "quest_type": 6
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 76177,
+                    "quest_type": 6
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 76178,
+                    "quest_type": 6
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 76179,
+                    "quest_type": 6
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 76180,
+                    "quest_type": 6
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 76181,
+                    "quest_type": 6
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 76182,
+                    "quest_type": 6
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 76183,
+                    "quest_type": 6
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 76184,
+                    "quest_type": 6
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 76185,
+                    "quest_type": 6
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 76186,
+                    "quest_type": 6
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 76187,
+                    "quest_type": 6
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 76188,
+                    "quest_type": 6
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 1,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "リストL",
+                    "quest_id": 76201,
+                    "quest_type": 12
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 2,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "リストL",
+                    "quest_id": 76201,
+                    "quest_type": 12
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 1,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 76203,
+                    "quest_type": 12
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 2,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 76203,
+                    "quest_type": 12
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 1,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 76205,
+                    "quest_type": 13
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 2,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 76205,
+                    "quest_type": 13
+                },
+                {
+                    "difficulty": 200,
+                    "difficulty_mode": 1,
+                    "is_clear": 0,
+                    "is_strong_enemy": 3,
+                    "items": [],
+                    "name": "不死将軍と呼ばれた男14",
+                    "quest_id": 76207,
+                    "quest_missions": [
+                        {
+                            "complete": 0,
+                            "level": 0,
+                            "missions": [
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 1,
+                                    "quest_mission": {
+                                        "arg1": -1,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 2,
+                                        "mode": 1,
+                                        "num": 1,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 20,
+                                                "item_type": 99
+                                            }
+                                        ]
+                                    },
+                                    "require": 1
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 2,
+                                    "quest_mission": {
+                                        "arg1": 60,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 3,
+                                        "mode": 3,
+                                        "num": 2,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 20,
+                                                "item_type": 99
+                                            }
+                                        ]
+                                    },
+                                    "require": 60
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 3,
+                                    "quest_mission": {
+                                        "arg1": 8000,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 29,
+                                        "mode": 3,
+                                        "num": 3,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 7,
+                                                "item_num": 1,
+                                                "item_type": 11
+                                            }
+                                        ]
+                                    },
+                                    "require": 8000
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 4,
+                                    "quest_mission": {
+                                        "arg1": 990000,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "mission_type": 30,
+                                        "mode": 2,
+                                        "num": 4,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 40,
+                                                "item_type": 99,
+                                                "quest_reward_type": 3
+                                            }
+                                        ]
+                                    },
+                                    "require": 990000
+                                }
+                            ],
+                            "perfect_cleared": 0,
+                            "step": 1,
+                            "this_perfect_clear": 0,
+                            "this_perfect_clear2": 0
+                        }
+                    ],
+                    "quest_type": 1
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 2,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "不死将軍と呼ばれた男14",
+                    "quest_id": 76207,
+                    "quest_type": 1
+                },
+                {
+                    "difficulty": 300,
+                    "difficulty_mode": 1,
+                    "is_clear": 0,
+                    "is_strong_enemy": 5,
+                    "items": [],
+                    "name": "不死将軍と呼ばれた男14",
+                    "quest_id": 76208,
+                    "quest_missions": [
+                        {
+                            "complete": 0,
+                            "level": 0,
+                            "missions": [
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 1,
+                                    "quest_mission": {
+                                        "arg1": -1,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 2,
+                                        "mode": 1,
+                                        "num": 1,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 20,
+                                                "item_type": 99
+                                            }
+                                        ]
+                                    },
+                                    "require": 1
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 2,
+                                    "quest_mission": {
+                                        "arg1": 45,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 3,
+                                        "mode": 3,
+                                        "num": 2,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 20,
+                                                "item_type": 99
+                                            }
+                                        ]
+                                    },
+                                    "require": 45
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 3,
+                                    "quest_mission": {
+                                        "arg1": 20000,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 29,
+                                        "mode": 3,
+                                        "num": 3,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 9,
+                                                "item_num": 1,
+                                                "item_type": 11
+                                            }
+                                        ]
+                                    },
+                                    "require": 20000
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 4,
+                                    "quest_mission": {
+                                        "arg1": 1600000,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "mission_type": 30,
+                                        "mode": 2,
+                                        "num": 4,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 40,
+                                                "item_type": 99,
+                                                "quest_reward_type": 3
+                                            }
+                                        ]
+                                    },
+                                    "require": 1600000
+                                }
+                            ],
+                            "perfect_cleared": 0,
+                            "step": 1,
+                            "this_perfect_clear": 0,
+                            "this_perfect_clear2": 0
+                        }
+                    ],
+                    "quest_type": 1
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 2,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "不死将軍と呼ばれた男14",
+                    "quest_id": 76208,
+                    "quest_type": 1
+                }
+            ],
+            "shop_items": []
+        }
+    ],
+    "missions": [],
+    "summonboard": {}
+}

@@ -1,0 +1,226 @@
+{
+    "battle_info": {
+        "battle_num": 3,
+        "battle_ticket_rewards": [
+            {
+                "item_id": 4390,
+                "item_num": 1,
+                "item_type": 21,
+                "quest_reward_type": 7,
+                "sort_num": 26397
+            },
+            {
+                "item_id": 4330,
+                "item_num": 1,
+                "item_type": 21,
+                "quest_reward_type": 7,
+                "sort_num": 26398
+            },
+            {
+                "item_id": 4322,
+                "item_num": 1,
+                "item_type": 21,
+                "quest_reward_type": 7,
+                "sort_num": 26399
+            },
+            {
+                "item_id": 4293,
+                "item_num": 1,
+                "item_type": 21,
+                "quest_reward_type": 7,
+                "sort_num": 26400
+            },
+            {
+                "item_id": 4323,
+                "item_num": 1,
+                "item_type": 21,
+                "quest_reward_type": 7,
+                "sort_num": 26401
+            },
+            {
+                "item_id": 4320,
+                "item_num": 1,
+                "item_type": 21,
+                "quest_reward_type": 7,
+                "sort_num": 26402
+            },
+            {
+                "item_id": 12,
+                "item_num": 1,
+                "item_type": 11,
+                "quest_reward_type": 7,
+                "sort_num": 26505
+            }
+        ],
+        "break_bonus": 6540,
+        "can_online": 2,
+        "can_supporter": 1,
+        "chara_missions": [],
+        "color": 0,
+        "current_mission_step": 1,
+        "decoration_id": 0,
+        "difficulty": 150,
+        "difficulty_mode": 1,
+        "enemies": [
+            {
+                "battle_enemy_id": 2718,
+                "level": 120
+            },
+            {
+                "battle_enemy_id": 2746,
+                "level": 120
+            },
+            {
+                "battle_enemy_id": 2724,
+                "level": 122
+            },
+            {
+                "battle_enemy_id": 2724,
+                "level": 122
+            },
+            {
+                "battle_enemy_id": 2730,
+                "level": 120
+            }
+        ],
+        "hiscore": 0,
+        "hunts_ticket_rewards": [],
+        "is_perfect_mission": 0,
+        "is_six_coop": 0,
+        "is_six_quest": 0,
+        "is_strong_enemy": 1,
+        "is_total_battle": 0,
+        "need_sp": 4,
+        "online_end_date": 4070908800000,
+        "online_start_date": 1451606400000,
+        "quest_battle_id": 14319,
+        "quest_missions": [
+            {
+                "complete": 0,
+                "level": 0,
+                "missions": [
+                    {
+                        "history": {
+                            "clear": 0,
+                            "progress": -1
+                        },
+                        "num": 1,
+                        "quest_mission": {
+                            "arg1": -1,
+                            "arg2": -1,
+                            "clear": 0,
+                            "description": "",
+                            "mission_type": 2,
+                            "mode": 1,
+                            "num": 1,
+                            "progress": -1,
+                            "rewards": [
+                                {
+                                    "item_id": 2,
+                                    "item_num": 50,
+                                    "item_type": 99
+                                }
+                            ]
+                        },
+                        "require": 1
+                    },
+                    {
+                        "history": {
+                            "clear": 0,
+                            "progress": -1
+                        },
+                        "num": 2,
+                        "quest_mission": {
+                            "arg1": 60,
+                            "arg2": -1,
+                            "clear": 0,
+                            "description": "",
+                            "mission_type": 3,
+                            "mode": 3,
+                            "num": 2,
+                            "progress": -1,
+                            "rewards": [
+                                {
+                                    "item_id": 2,
+                                    "item_num": 50,
+                                    "item_type": 99
+                                }
+                            ]
+                        },
+                        "require": 60
+                    },
+                    {
+                        "history": {
+                            "clear": 0,
+                            "progress": -1
+                        },
+                        "num": 3,
+                        "quest_mission": {
+                            "arg1": 10000,
+                            "arg2": -1,
+                            "clear": 0,
+                            "description": "",
+                            "mission_type": 29,
+                            "mode": 3,
+                            "num": 3,
+                            "progress": -1,
+                            "rewards": [
+                                {
+                                    "item_id": 2,
+                                    "item_num": 50,
+                                    "item_type": 99
+                                }
+                            ]
+                        },
+                        "require": 10000
+                    },
+                    {
+                        "history": {
+                            "clear": 0,
+                            "progress": -1
+                        },
+                        "num": 4,
+                        "quest_mission": {
+                            "arg1": 210000,
+                            "arg2": -1,
+                            "clear": 0,
+                            "mission_type": 30,
+                            "mode": 2,
+                            "num": 4,
+                            "progress": -1,
+                            "rewards": [
+                                {
+                                    "item_id": 2,
+                                    "item_num": 50,
+                                    "item_type": 99,
+                                    "quest_reward_type": 3
+                                }
+                            ]
+                        },
+                        "require": 210000
+                    }
+                ],
+                "perfect_cleared": 0,
+                "step": 1,
+                "this_perfect_clear": 0,
+                "this_perfect_clear2": 0
+            }
+        ],
+        "resources": {
+            "battle_enemy_id_list": [
+                2724,
+                2746,
+                2730,
+                2718
+            ],
+            "bgm_list": [
+                5,
+                6
+            ],
+            "stage_id": 17
+        },
+        "spiritus_point": 0,
+        "status_code": 0,
+        "total_mission_step": 1
+    }
+}

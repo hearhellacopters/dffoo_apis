@@ -1,0 +1,3201 @@
+{
+    "fields": [
+        {
+            "field_id": 1887,
+            "field_part": 0,
+            "quests": [
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "Blasting the Way Forward",
+                    "quest_id": 80170,
+                    "quest_type": 0
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "A Careless Ignition",
+                    "quest_id": 80171,
+                    "quest_type": 0
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "Light My Fuse",
+                    "quest_id": 80172,
+                    "quest_type": 0
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "Meeting of the Minds",
+                    "quest_id": 80173,
+                    "quest_type": 0
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "Fight for the Future",
+                    "quest_id": 80174,
+                    "quest_type": 0
+                },
+                {
+                    "difficulty": 80,
+                    "difficulty_mode": 1,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "Quick Encounter Pt. 1",
+                    "quest_id": 80175,
+                    "quest_missions": [
+                        {
+                            "complete": 0,
+                            "level": 0,
+                            "missions": [
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 1,
+                                    "quest_mission": {
+                                        "arg1": -1,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 2,
+                                        "mode": 1,
+                                        "num": 1,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 1,
+                                                "item_num": 1000,
+                                                "item_type": 99
+                                            }
+                                        ]
+                                    },
+                                    "require": 1
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 2,
+                                    "quest_mission": {
+                                        "arg1": 100,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 3,
+                                        "mode": 3,
+                                        "num": 2,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 1,
+                                                "item_num": 1000,
+                                                "item_type": 99
+                                            }
+                                        ]
+                                    },
+                                    "require": 100
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 3,
+                                    "quest_mission": {
+                                        "arg1": 1,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 4,
+                                        "mode": 2,
+                                        "num": 3,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 3,
+                                                "item_num": 10,
+                                                "item_type": 11
+                                            }
+                                        ]
+                                    },
+                                    "require": 1
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 4,
+                                    "quest_mission": {
+                                        "arg1": 5000,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "mission_type": 30,
+                                        "mode": 2,
+                                        "num": 4,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 1,
+                                                "item_num": 3000,
+                                                "item_type": 99,
+                                                "quest_reward_type": 3
+                                            }
+                                        ]
+                                    },
+                                    "require": 5000
+                                }
+                            ],
+                            "perfect_cleared": 0,
+                            "step": 1,
+                            "this_perfect_clear": 0,
+                            "this_perfect_clear2": 0
+                        }
+                    ],
+                    "quest_type": 5
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 2,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "Quick Encounter Pt. 1",
+                    "quest_id": 80175,
+                    "quest_type": 5
+                },
+                {
+                    "difficulty": 80,
+                    "difficulty_mode": 1,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "Quick Encounter Pt. 2",
+                    "quest_id": 80176,
+                    "quest_missions": [
+                        {
+                            "complete": 0,
+                            "level": 0,
+                            "missions": [
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 1,
+                                    "quest_mission": {
+                                        "arg1": -1,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 2,
+                                        "mode": 1,
+                                        "num": 1,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 1,
+                                                "item_num": 1000,
+                                                "item_type": 99
+                                            }
+                                        ]
+                                    },
+                                    "require": 1
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 2,
+                                    "quest_mission": {
+                                        "arg1": 100,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 3,
+                                        "mode": 3,
+                                        "num": 2,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 1,
+                                                "item_num": 1000,
+                                                "item_type": 99
+                                            }
+                                        ]
+                                    },
+                                    "require": 100
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 3,
+                                    "quest_mission": {
+                                        "arg1": 1,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 4,
+                                        "mode": 2,
+                                        "num": 3,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 3,
+                                                "item_num": 10,
+                                                "item_type": 11
+                                            }
+                                        ]
+                                    },
+                                    "require": 1
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 4,
+                                    "quest_mission": {
+                                        "arg1": 5000,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "mission_type": 30,
+                                        "mode": 2,
+                                        "num": 4,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 1,
+                                                "item_num": 3000,
+                                                "item_type": 99,
+                                                "quest_reward_type": 3
+                                            }
+                                        ]
+                                    },
+                                    "require": 5000
+                                }
+                            ],
+                            "perfect_cleared": 0,
+                            "step": 1,
+                            "this_perfect_clear": 0,
+                            "this_perfect_clear2": 0
+                        }
+                    ],
+                    "quest_type": 5
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 2,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "Quick Encounter Pt. 2",
+                    "quest_id": 80176,
+                    "quest_type": 5
+                },
+                {
+                    "difficulty": 120,
+                    "difficulty_mode": 1,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "Quick Encounter Pt. 3",
+                    "quest_id": 80177,
+                    "quest_missions": [
+                        {
+                            "complete": 0,
+                            "level": 0,
+                            "missions": [
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 1,
+                                    "quest_mission": {
+                                        "arg1": -1,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 2,
+                                        "mode": 1,
+                                        "num": 1,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 1,
+                                                "item_num": 1000,
+                                                "item_type": 99
+                                            }
+                                        ]
+                                    },
+                                    "require": 1
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 2,
+                                    "quest_mission": {
+                                        "arg1": 100,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 3,
+                                        "mode": 3,
+                                        "num": 2,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 1,
+                                                "item_num": 1000,
+                                                "item_type": 99
+                                            }
+                                        ]
+                                    },
+                                    "require": 100
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 3,
+                                    "quest_mission": {
+                                        "arg1": 1,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 4,
+                                        "mode": 2,
+                                        "num": 3,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 6,
+                                                "item_num": 10,
+                                                "item_type": 11
+                                            }
+                                        ]
+                                    },
+                                    "require": 1
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 4,
+                                    "quest_mission": {
+                                        "arg1": 5000,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "mission_type": 30,
+                                        "mode": 2,
+                                        "num": 4,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 1,
+                                                "item_num": 3000,
+                                                "item_type": 99,
+                                                "quest_reward_type": 3
+                                            }
+                                        ]
+                                    },
+                                    "require": 5000
+                                }
+                            ],
+                            "perfect_cleared": 0,
+                            "step": 1,
+                            "this_perfect_clear": 0,
+                            "this_perfect_clear2": 0
+                        }
+                    ],
+                    "quest_type": 5
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 2,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "Quick Encounter Pt. 3",
+                    "quest_id": 80177,
+                    "quest_type": 5
+                },
+                {
+                    "difficulty": 120,
+                    "difficulty_mode": 1,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "Quick Encounter Pt. 4",
+                    "quest_id": 80178,
+                    "quest_missions": [
+                        {
+                            "complete": 0,
+                            "level": 0,
+                            "missions": [
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 1,
+                                    "quest_mission": {
+                                        "arg1": -1,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 2,
+                                        "mode": 1,
+                                        "num": 1,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 1,
+                                                "item_num": 1000,
+                                                "item_type": 99
+                                            }
+                                        ]
+                                    },
+                                    "require": 1
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 2,
+                                    "quest_mission": {
+                                        "arg1": 100,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 3,
+                                        "mode": 3,
+                                        "num": 2,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 1,
+                                                "item_num": 1000,
+                                                "item_type": 99
+                                            }
+                                        ]
+                                    },
+                                    "require": 100
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 3,
+                                    "quest_mission": {
+                                        "arg1": 1,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 4,
+                                        "mode": 2,
+                                        "num": 3,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 3,
+                                                "item_num": 10,
+                                                "item_type": 11
+                                            }
+                                        ]
+                                    },
+                                    "require": 1
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 4,
+                                    "quest_mission": {
+                                        "arg1": 5000,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "mission_type": 30,
+                                        "mode": 2,
+                                        "num": 4,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 1,
+                                                "item_num": 3000,
+                                                "item_type": 99,
+                                                "quest_reward_type": 3
+                                            }
+                                        ]
+                                    },
+                                    "require": 5000
+                                }
+                            ],
+                            "perfect_cleared": 0,
+                            "step": 1,
+                            "this_perfect_clear": 0,
+                            "this_perfect_clear2": 0
+                        }
+                    ],
+                    "quest_type": 5
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 2,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "Quick Encounter Pt. 4",
+                    "quest_id": 80178,
+                    "quest_type": 5
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [
+                        {
+                            "acquired_num": 0,
+                            "all_num": 20,
+                            "exchange_count": 0,
+                            "item_id": 10,
+                            "item_type": 9,
+                            "sort_num": 0,
+                            "stock": 0
+                        }
+                    ],
+                    "name": "Treasure",
+                    "quest_id": 80180,
+                    "quest_type": 2
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [
+                        {
+                            "acquired_num": 0,
+                            "all_num": 50,
+                            "exchange_count": 0,
+                            "item_id": 11,
+                            "item_type": 9,
+                            "sort_num": 0,
+                            "stock": 0
+                        }
+                    ],
+                    "name": "Treasure",
+                    "quest_id": 80181,
+                    "quest_type": 2
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [
+                        {
+                            "acquired_num": 0,
+                            "all_num": 10,
+                            "exchange_count": 0,
+                            "item_id": 12,
+                            "item_type": 9,
+                            "sort_num": 0,
+                            "stock": 0
+                        }
+                    ],
+                    "name": "Treasure",
+                    "quest_id": 80182,
+                    "quest_type": 2
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [
+                        {
+                            "acquired_num": 0,
+                            "all_num": 2000,
+                            "exchange_count": 0,
+                            "item_id": 2,
+                            "item_type": 99,
+                            "sort_num": 0,
+                            "stock": 0
+                        }
+                    ],
+                    "name": "Treasure",
+                    "quest_id": 80183,
+                    "quest_type": 2
+                },
+                {
+                    "difficulty": 80,
+                    "difficulty_mode": 1,
+                    "is_clear": 0,
+                    "is_strong_enemy": 1,
+                    "items": [],
+                    "name": "Sloppy Provisioner Pt. 1",
+                    "quest_id": 80186,
+                    "quest_missions": [
+                        {
+                            "complete": 0,
+                            "level": 0,
+                            "missions": [
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 1,
+                                    "quest_mission": {
+                                        "arg1": -1,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 2,
+                                        "mode": 1,
+                                        "num": 1,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 20,
+                                                "item_type": 99
+                                            }
+                                        ]
+                                    },
+                                    "require": 1
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 2,
+                                    "quest_mission": {
+                                        "arg1": 100,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 3,
+                                        "mode": 3,
+                                        "num": 2,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 20,
+                                                "item_type": 99
+                                            }
+                                        ]
+                                    },
+                                    "require": 100
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 3,
+                                    "quest_mission": {
+                                        "arg1": 1,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 4,
+                                        "mode": 2,
+                                        "num": 3,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 7,
+                                                "item_num": 1,
+                                                "item_type": 11
+                                            }
+                                        ]
+                                    },
+                                    "require": 1
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 4,
+                                    "quest_mission": {
+                                        "arg1": 5000,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "mission_type": 30,
+                                        "mode": 2,
+                                        "num": 4,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 40,
+                                                "item_type": 99,
+                                                "quest_reward_type": 3
+                                            }
+                                        ]
+                                    },
+                                    "require": 5000
+                                }
+                            ],
+                            "perfect_cleared": 0,
+                            "step": 1,
+                            "this_perfect_clear": 0,
+                            "this_perfect_clear2": 0
+                        }
+                    ],
+                    "quest_type": 1
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 2,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "Sloppy Provisioner Pt. 1",
+                    "quest_id": 80186,
+                    "quest_type": 1
+                },
+                {
+                    "difficulty": 80,
+                    "difficulty_mode": 1,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "Sloppy Provisioner Pt. 2",
+                    "quest_id": 80187,
+                    "quest_missions": [
+                        {
+                            "complete": 0,
+                            "level": 0,
+                            "missions": [
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 1,
+                                    "quest_mission": {
+                                        "arg1": -1,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 2,
+                                        "mode": 1,
+                                        "num": 1,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 20,
+                                                "item_type": 99
+                                            }
+                                        ]
+                                    },
+                                    "require": 1
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 2,
+                                    "quest_mission": {
+                                        "arg1": 100,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 3,
+                                        "mode": 3,
+                                        "num": 2,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 20,
+                                                "item_type": 99
+                                            }
+                                        ]
+                                    },
+                                    "require": 100
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 3,
+                                    "quest_mission": {
+                                        "arg1": 1,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 4,
+                                        "mode": 2,
+                                        "num": 3,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 6,
+                                                "item_num": 10,
+                                                "item_type": 11
+                                            }
+                                        ]
+                                    },
+                                    "require": 1
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 4,
+                                    "quest_mission": {
+                                        "arg1": 5000,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "mission_type": 30,
+                                        "mode": 2,
+                                        "num": 4,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 40,
+                                                "item_type": 99,
+                                                "quest_reward_type": 3
+                                            }
+                                        ]
+                                    },
+                                    "require": 5000
+                                }
+                            ],
+                            "perfect_cleared": 0,
+                            "step": 1,
+                            "this_perfect_clear": 0,
+                            "this_perfect_clear2": 0
+                        }
+                    ],
+                    "quest_type": 1
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 2,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "Sloppy Provisioner Pt. 2",
+                    "quest_id": 80187,
+                    "quest_type": 1
+                },
+                {
+                    "difficulty": 80,
+                    "difficulty_mode": 1,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "Sloppy Provisioner Pt. 3",
+                    "quest_id": 80188,
+                    "quest_missions": [
+                        {
+                            "complete": 0,
+                            "level": 0,
+                            "missions": [
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 1,
+                                    "quest_mission": {
+                                        "arg1": -1,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 2,
+                                        "mode": 1,
+                                        "num": 1,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 20,
+                                                "item_type": 99
+                                            }
+                                        ]
+                                    },
+                                    "require": 1
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 2,
+                                    "quest_mission": {
+                                        "arg1": 100,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 3,
+                                        "mode": 3,
+                                        "num": 2,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 20,
+                                                "item_type": 99
+                                            }
+                                        ]
+                                    },
+                                    "require": 100
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 3,
+                                    "quest_mission": {
+                                        "arg1": 1,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 4,
+                                        "mode": 2,
+                                        "num": 3,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 3,
+                                                "item_num": 10,
+                                                "item_type": 11
+                                            }
+                                        ]
+                                    },
+                                    "require": 1
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 4,
+                                    "quest_mission": {
+                                        "arg1": 5000,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "mission_type": 30,
+                                        "mode": 2,
+                                        "num": 4,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 40,
+                                                "item_type": 99,
+                                                "quest_reward_type": 3
+                                            }
+                                        ]
+                                    },
+                                    "require": 5000
+                                }
+                            ],
+                            "perfect_cleared": 0,
+                            "step": 1,
+                            "this_perfect_clear": 0,
+                            "this_perfect_clear2": 0
+                        }
+                    ],
+                    "quest_type": 1
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 2,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "Sloppy Provisioner Pt. 3",
+                    "quest_id": 80188,
+                    "quest_type": 1
+                },
+                {
+                    "difficulty": 80,
+                    "difficulty_mode": 1,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "Sloppy Provisioner Pt. 4",
+                    "quest_id": 80189,
+                    "quest_missions": [
+                        {
+                            "complete": 0,
+                            "level": 0,
+                            "missions": [
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 1,
+                                    "quest_mission": {
+                                        "arg1": -1,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 2,
+                                        "mode": 1,
+                                        "num": 1,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 20,
+                                                "item_type": 99
+                                            }
+                                        ]
+                                    },
+                                    "require": 1
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 2,
+                                    "quest_mission": {
+                                        "arg1": 100,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 3,
+                                        "mode": 3,
+                                        "num": 2,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 20,
+                                                "item_type": 99
+                                            }
+                                        ]
+                                    },
+                                    "require": 100
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 3,
+                                    "quest_mission": {
+                                        "arg1": 1,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 4,
+                                        "mode": 2,
+                                        "num": 3,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 6,
+                                                "item_num": 10,
+                                                "item_type": 11
+                                            }
+                                        ]
+                                    },
+                                    "require": 1
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 4,
+                                    "quest_mission": {
+                                        "arg1": 5000,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "mission_type": 30,
+                                        "mode": 2,
+                                        "num": 4,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 40,
+                                                "item_type": 99,
+                                                "quest_reward_type": 3
+                                            }
+                                        ]
+                                    },
+                                    "require": 5000
+                                }
+                            ],
+                            "perfect_cleared": 0,
+                            "step": 1,
+                            "this_perfect_clear": 0,
+                            "this_perfect_clear2": 0
+                        }
+                    ],
+                    "quest_type": 1
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 2,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "Sloppy Provisioner Pt. 4",
+                    "quest_id": 80189,
+                    "quest_type": 1
+                },
+                {
+                    "difficulty": 80,
+                    "difficulty_mode": 1,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "Sloppy Provisioner Pt. 5",
+                    "quest_id": 80190,
+                    "quest_missions": [
+                        {
+                            "complete": 0,
+                            "level": 0,
+                            "missions": [
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 1,
+                                    "quest_mission": {
+                                        "arg1": -1,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 2,
+                                        "mode": 1,
+                                        "num": 1,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 20,
+                                                "item_type": 99
+                                            }
+                                        ]
+                                    },
+                                    "require": 1
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 2,
+                                    "quest_mission": {
+                                        "arg1": 100,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 3,
+                                        "mode": 3,
+                                        "num": 2,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 20,
+                                                "item_type": 99
+                                            }
+                                        ]
+                                    },
+                                    "require": 100
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 3,
+                                    "quest_mission": {
+                                        "arg1": 1,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 4,
+                                        "mode": 2,
+                                        "num": 3,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 6,
+                                                "item_num": 10,
+                                                "item_type": 11
+                                            }
+                                        ]
+                                    },
+                                    "require": 1
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 4,
+                                    "quest_mission": {
+                                        "arg1": 5000,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "mission_type": 30,
+                                        "mode": 2,
+                                        "num": 4,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 40,
+                                                "item_type": 99,
+                                                "quest_reward_type": 3
+                                            }
+                                        ]
+                                    },
+                                    "require": 5000
+                                }
+                            ],
+                            "perfect_cleared": 0,
+                            "step": 1,
+                            "this_perfect_clear": 0,
+                            "this_perfect_clear2": 0
+                        }
+                    ],
+                    "quest_type": 1
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 2,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "Sloppy Provisioner Pt. 5",
+                    "quest_id": 80190,
+                    "quest_type": 1
+                },
+                {
+                    "difficulty": 100,
+                    "difficulty_mode": 1,
+                    "is_clear": 0,
+                    "is_strong_enemy": 1,
+                    "items": [
+                        {
+                            "acquired_num": 0,
+                            "all_num": 1,
+                            "exchange_count": 0,
+                            "item_id": 4139,
+                            "item_type": 2,
+                            "sort_num": 0,
+                            "stock": 0
+                        }
+                    ],
+                    "name": "Sloppy Provisioner Pt. 6",
+                    "quest_id": 80191,
+                    "quest_missions": [
+                        {
+                            "complete": 0,
+                            "level": 0,
+                            "missions": [
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 1,
+                                    "quest_mission": {
+                                        "arg1": -1,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 2,
+                                        "mode": 1,
+                                        "num": 1,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 20,
+                                                "item_type": 99
+                                            }
+                                        ]
+                                    },
+                                    "require": 1
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 2,
+                                    "quest_mission": {
+                                        "arg1": 100,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 3,
+                                        "mode": 3,
+                                        "num": 2,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 20,
+                                                "item_type": 99
+                                            }
+                                        ]
+                                    },
+                                    "require": 100
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 3,
+                                    "quest_mission": {
+                                        "arg1": 1,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 4,
+                                        "mode": 2,
+                                        "num": 3,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 9,
+                                                "item_num": 1,
+                                                "item_type": 11
+                                            }
+                                        ]
+                                    },
+                                    "require": 1
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 4,
+                                    "quest_mission": {
+                                        "arg1": 5000,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "mission_type": 30,
+                                        "mode": 2,
+                                        "num": 4,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 60,
+                                                "item_type": 99,
+                                                "quest_reward_type": 3
+                                            }
+                                        ]
+                                    },
+                                    "require": 5000
+                                }
+                            ],
+                            "perfect_cleared": 0,
+                            "step": 1,
+                            "this_perfect_clear": 0,
+                            "this_perfect_clear2": 0
+                        }
+                    ],
+                    "quest_type": 1
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 2,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "Sloppy Provisioner Pt. 6",
+                    "quest_id": 80191,
+                    "quest_type": 1
+                },
+                {
+                    "difficulty": 100,
+                    "difficulty_mode": 1,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "Sloppy Provisioner Pt. 7",
+                    "quest_id": 80192,
+                    "quest_missions": [
+                        {
+                            "complete": 0,
+                            "level": 0,
+                            "missions": [
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 1,
+                                    "quest_mission": {
+                                        "arg1": -1,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 2,
+                                        "mode": 1,
+                                        "num": 1,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 20,
+                                                "item_type": 99
+                                            }
+                                        ]
+                                    },
+                                    "require": 1
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 2,
+                                    "quest_mission": {
+                                        "arg1": 100,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 3,
+                                        "mode": 3,
+                                        "num": 2,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 20,
+                                                "item_type": 99
+                                            }
+                                        ]
+                                    },
+                                    "require": 100
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 3,
+                                    "quest_mission": {
+                                        "arg1": 1,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 4,
+                                        "mode": 2,
+                                        "num": 3,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 3,
+                                                "item_num": 10,
+                                                "item_type": 11
+                                            }
+                                        ]
+                                    },
+                                    "require": 1
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 4,
+                                    "quest_mission": {
+                                        "arg1": 5000,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "mission_type": 30,
+                                        "mode": 2,
+                                        "num": 4,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 40,
+                                                "item_type": 99,
+                                                "quest_reward_type": 3
+                                            }
+                                        ]
+                                    },
+                                    "require": 5000
+                                }
+                            ],
+                            "perfect_cleared": 0,
+                            "step": 1,
+                            "this_perfect_clear": 0,
+                            "this_perfect_clear2": 0
+                        }
+                    ],
+                    "quest_type": 1
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 2,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "Sloppy Provisioner Pt. 7",
+                    "quest_id": 80192,
+                    "quest_type": 1
+                },
+                {
+                    "difficulty": 120,
+                    "difficulty_mode": 1,
+                    "is_clear": 0,
+                    "is_strong_enemy": 1,
+                    "items": [
+                        {
+                            "acquired_num": 0,
+                            "all_num": 1,
+                            "exchange_count": 0,
+                            "item_id": 4139,
+                            "item_type": 2,
+                            "sort_num": 0,
+                            "stock": 0
+                        }
+                    ],
+                    "name": "Sloppy Provisioner Pt. 8",
+                    "quest_id": 80193,
+                    "quest_missions": [
+                        {
+                            "complete": 0,
+                            "level": 0,
+                            "missions": [
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 1,
+                                    "quest_mission": {
+                                        "arg1": -1,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 2,
+                                        "mode": 1,
+                                        "num": 1,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 20,
+                                                "item_type": 99
+                                            }
+                                        ]
+                                    },
+                                    "require": 1
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 2,
+                                    "quest_mission": {
+                                        "arg1": 100,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 3,
+                                        "mode": 3,
+                                        "num": 2,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 20,
+                                                "item_type": 99
+                                            }
+                                        ]
+                                    },
+                                    "require": 100
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 3,
+                                    "quest_mission": {
+                                        "arg1": 1,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 4,
+                                        "mode": 2,
+                                        "num": 3,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 7,
+                                                "item_num": 1,
+                                                "item_type": 11
+                                            }
+                                        ]
+                                    },
+                                    "require": 1
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 4,
+                                    "quest_mission": {
+                                        "arg1": 5000,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "mission_type": 30,
+                                        "mode": 2,
+                                        "num": 4,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 60,
+                                                "item_type": 99,
+                                                "quest_reward_type": 3
+                                            }
+                                        ]
+                                    },
+                                    "require": 5000
+                                }
+                            ],
+                            "perfect_cleared": 0,
+                            "step": 1,
+                            "this_perfect_clear": 0,
+                            "this_perfect_clear2": 0
+                        }
+                    ],
+                    "quest_type": 1
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 2,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "Sloppy Provisioner Pt. 8",
+                    "quest_id": 80193,
+                    "quest_type": 1
+                },
+                {
+                    "difficulty": 120,
+                    "difficulty_mode": 1,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "Sloppy Provisioner Pt. 9",
+                    "quest_id": 80194,
+                    "quest_missions": [
+                        {
+                            "complete": 0,
+                            "level": 0,
+                            "missions": [
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 1,
+                                    "quest_mission": {
+                                        "arg1": -1,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 2,
+                                        "mode": 1,
+                                        "num": 1,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 20,
+                                                "item_type": 99
+                                            }
+                                        ]
+                                    },
+                                    "require": 1
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 2,
+                                    "quest_mission": {
+                                        "arg1": 100,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 3,
+                                        "mode": 3,
+                                        "num": 2,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 20,
+                                                "item_type": 99
+                                            }
+                                        ]
+                                    },
+                                    "require": 100
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 3,
+                                    "quest_mission": {
+                                        "arg1": 1,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 4,
+                                        "mode": 2,
+                                        "num": 3,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 3,
+                                                "item_num": 10,
+                                                "item_type": 11
+                                            }
+                                        ]
+                                    },
+                                    "require": 1
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 4,
+                                    "quest_mission": {
+                                        "arg1": 5000,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "mission_type": 30,
+                                        "mode": 2,
+                                        "num": 4,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 40,
+                                                "item_type": 99,
+                                                "quest_reward_type": 3
+                                            }
+                                        ]
+                                    },
+                                    "require": 5000
+                                }
+                            ],
+                            "perfect_cleared": 0,
+                            "step": 1,
+                            "this_perfect_clear": 0,
+                            "this_perfect_clear2": 0
+                        }
+                    ],
+                    "quest_type": 1
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 2,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "Sloppy Provisioner Pt. 9",
+                    "quest_id": 80194,
+                    "quest_type": 1
+                },
+                {
+                    "difficulty": 120,
+                    "difficulty_mode": 1,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "Sloppy Provisioner Pt. 10",
+                    "quest_id": 80195,
+                    "quest_missions": [
+                        {
+                            "complete": 0,
+                            "level": 0,
+                            "missions": [
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 1,
+                                    "quest_mission": {
+                                        "arg1": -1,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 2,
+                                        "mode": 1,
+                                        "num": 1,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 20,
+                                                "item_type": 99
+                                            }
+                                        ]
+                                    },
+                                    "require": 1
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 2,
+                                    "quest_mission": {
+                                        "arg1": 100,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 3,
+                                        "mode": 3,
+                                        "num": 2,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 20,
+                                                "item_type": 99
+                                            }
+                                        ]
+                                    },
+                                    "require": 100
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 3,
+                                    "quest_mission": {
+                                        "arg1": 1,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 4,
+                                        "mode": 2,
+                                        "num": 3,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 6,
+                                                "item_num": 10,
+                                                "item_type": 11
+                                            }
+                                        ]
+                                    },
+                                    "require": 1
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 4,
+                                    "quest_mission": {
+                                        "arg1": 5000,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "mission_type": 30,
+                                        "mode": 2,
+                                        "num": 4,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 40,
+                                                "item_type": 99,
+                                                "quest_reward_type": 3
+                                            }
+                                        ]
+                                    },
+                                    "require": 5000
+                                }
+                            ],
+                            "perfect_cleared": 0,
+                            "step": 1,
+                            "this_perfect_clear": 0,
+                            "this_perfect_clear2": 0
+                        }
+                    ],
+                    "quest_type": 1
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 2,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "Sloppy Provisioner Pt. 10",
+                    "quest_id": 80195,
+                    "quest_type": 1
+                },
+                {
+                    "difficulty": 180,
+                    "difficulty_mode": 1,
+                    "is_clear": 0,
+                    "is_strong_enemy": 2,
+                    "items": [
+                        {
+                            "acquired_num": 0,
+                            "all_num": 1,
+                            "exchange_count": 0,
+                            "item_id": 2336,
+                            "item_type": 1,
+                            "sort_num": 0,
+                            "stock": 0
+                        }
+                    ],
+                    "name": "Sloppy Provisioner Pt. 11",
+                    "quest_id": 80196,
+                    "quest_missions": [
+                        {
+                            "complete": 0,
+                            "level": 0,
+                            "missions": [
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 1,
+                                    "quest_mission": {
+                                        "arg1": -1,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 2,
+                                        "mode": 1,
+                                        "num": 1,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 20,
+                                                "item_type": 99
+                                            }
+                                        ]
+                                    },
+                                    "require": 1
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 2,
+                                    "quest_mission": {
+                                        "arg1": 100,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 3,
+                                        "mode": 3,
+                                        "num": 2,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 20,
+                                                "item_type": 99
+                                            }
+                                        ]
+                                    },
+                                    "require": 100
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 3,
+                                    "quest_mission": {
+                                        "arg1": 1,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 4,
+                                        "mode": 2,
+                                        "num": 3,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 9,
+                                                "item_num": 1,
+                                                "item_type": 11
+                                            }
+                                        ]
+                                    },
+                                    "require": 1
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 4,
+                                    "quest_mission": {
+                                        "arg1": 5000,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "mission_type": 30,
+                                        "mode": 2,
+                                        "num": 4,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 60,
+                                                "item_type": 99,
+                                                "quest_reward_type": 3
+                                            }
+                                        ]
+                                    },
+                                    "require": 5000
+                                }
+                            ],
+                            "perfect_cleared": 0,
+                            "step": 1,
+                            "this_perfect_clear": 0,
+                            "this_perfect_clear2": 0
+                        }
+                    ],
+                    "quest_type": 1
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 2,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "Sloppy Provisioner Pt. 11",
+                    "quest_id": 80196,
+                    "quest_type": 1
+                },
+                {
+                    "difficulty": 120,
+                    "difficulty_mode": 1,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "Sloppy Provisioner Pt. 12",
+                    "quest_id": 80197,
+                    "quest_missions": [
+                        {
+                            "complete": 0,
+                            "level": 0,
+                            "missions": [
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 1,
+                                    "quest_mission": {
+                                        "arg1": -1,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 2,
+                                        "mode": 1,
+                                        "num": 1,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 20,
+                                                "item_type": 99
+                                            }
+                                        ]
+                                    },
+                                    "require": 1
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 2,
+                                    "quest_mission": {
+                                        "arg1": 100,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 3,
+                                        "mode": 3,
+                                        "num": 2,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 20,
+                                                "item_type": 99
+                                            }
+                                        ]
+                                    },
+                                    "require": 100
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 3,
+                                    "quest_mission": {
+                                        "arg1": 1,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 4,
+                                        "mode": 2,
+                                        "num": 3,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 6,
+                                                "item_num": 10,
+                                                "item_type": 11
+                                            }
+                                        ]
+                                    },
+                                    "require": 1
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 4,
+                                    "quest_mission": {
+                                        "arg1": 5000,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "mission_type": 30,
+                                        "mode": 2,
+                                        "num": 4,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 40,
+                                                "item_type": 99,
+                                                "quest_reward_type": 3
+                                            }
+                                        ]
+                                    },
+                                    "require": 5000
+                                }
+                            ],
+                            "perfect_cleared": 0,
+                            "step": 1,
+                            "this_perfect_clear": 0,
+                            "this_perfect_clear2": 0
+                        }
+                    ],
+                    "quest_type": 1
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 2,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "Sloppy Provisioner Pt. 12",
+                    "quest_id": 80197,
+                    "quest_type": 1
+                },
+                {
+                    "difficulty": 120,
+                    "difficulty_mode": 1,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "Sloppy Provisioner Pt. 13",
+                    "quest_id": 80198,
+                    "quest_missions": [
+                        {
+                            "complete": 0,
+                            "level": 0,
+                            "missions": [
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 1,
+                                    "quest_mission": {
+                                        "arg1": -1,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 2,
+                                        "mode": 1,
+                                        "num": 1,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 20,
+                                                "item_type": 99
+                                            }
+                                        ]
+                                    },
+                                    "require": 1
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 2,
+                                    "quest_mission": {
+                                        "arg1": 100,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 3,
+                                        "mode": 3,
+                                        "num": 2,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 20,
+                                                "item_type": 99
+                                            }
+                                        ]
+                                    },
+                                    "require": 100
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 3,
+                                    "quest_mission": {
+                                        "arg1": 1,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 4,
+                                        "mode": 2,
+                                        "num": 3,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 3,
+                                                "item_num": 10,
+                                                "item_type": 11
+                                            }
+                                        ]
+                                    },
+                                    "require": 1
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 4,
+                                    "quest_mission": {
+                                        "arg1": 5000,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "mission_type": 30,
+                                        "mode": 2,
+                                        "num": 4,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 40,
+                                                "item_type": 99,
+                                                "quest_reward_type": 3
+                                            }
+                                        ]
+                                    },
+                                    "require": 5000
+                                }
+                            ],
+                            "perfect_cleared": 0,
+                            "step": 1,
+                            "this_perfect_clear": 0,
+                            "this_perfect_clear2": 0
+                        }
+                    ],
+                    "quest_type": 1
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 2,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "Sloppy Provisioner Pt. 13",
+                    "quest_id": 80198,
+                    "quest_type": 1
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 80209,
+                    "quest_type": 6
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 80210,
+                    "quest_type": 4
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 80211,
+                    "quest_type": 6
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 80212,
+                    "quest_type": 4
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 80213,
+                    "quest_type": 6
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 80214,
+                    "quest_type": 4
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 80215,
+                    "quest_type": 6
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 80216,
+                    "quest_type": 6
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 80217,
+                    "quest_type": 6
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 80218,
+                    "quest_type": 6
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 80219,
+                    "quest_type": 4
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 80220,
+                    "quest_type": 6
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 80221,
+                    "quest_type": 4
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 80222,
+                    "quest_type": 4
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 80223,
+                    "quest_type": 4
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 80224,
+                    "quest_type": 6
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 80225,
+                    "quest_type": 6
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 80226,
+                    "quest_type": 6
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 80227,
+                    "quest_type": 6
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 80228,
+                    "quest_type": 4
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 80229,
+                    "quest_type": 4
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 80230,
+                    "quest_type": 6
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 80231,
+                    "quest_type": 6
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 80232,
+                    "quest_type": 4
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 80233,
+                    "quest_type": 4
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 80234,
+                    "quest_type": 6
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 80235,
+                    "quest_type": 6
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 80236,
+                    "quest_type": 4
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 80237,
+                    "quest_type": 4
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 80238,
+                    "quest_type": 6
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 80239,
+                    "quest_type": 6
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 80240,
+                    "quest_type": 6
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 80241,
+                    "quest_type": 4
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 80242,
+                    "quest_type": 6
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 80243,
+                    "quest_type": 6
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 80244,
+                    "quest_type": 6
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 80245,
+                    "quest_type": 4
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 80246,
+                    "quest_type": 4
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 80247,
+                    "quest_type": 6
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 80248,
+                    "quest_type": 6
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 80249,
+                    "quest_type": 6
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 80250,
+                    "quest_type": 4
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 80251,
+                    "quest_type": 6
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 80252,
+                    "quest_type": 4
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 80253,
+                    "quest_type": 6
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 0,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 80254,
+                    "quest_type": 4
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 1,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "List",
+                    "quest_id": 80284,
+                    "quest_type": 12
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 2,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "List",
+                    "quest_id": 80284,
+                    "quest_type": 12
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 1,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 80286,
+                    "quest_type": 12
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 2,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 80286,
+                    "quest_type": 12
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 1,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 80288,
+                    "quest_type": 13
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 2,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "0",
+                    "quest_id": 80288,
+                    "quest_type": 13
+                },
+                {
+                    "difficulty": 200,
+                    "difficulty_mode": 1,
+                    "is_clear": 0,
+                    "is_strong_enemy": 3,
+                    "items": [],
+                    "name": "Sloppy Provisioner Pt. 14",
+                    "quest_id": 80290,
+                    "quest_missions": [
+                        {
+                            "complete": 0,
+                            "level": 0,
+                            "missions": [
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 1,
+                                    "quest_mission": {
+                                        "arg1": -1,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 2,
+                                        "mode": 1,
+                                        "num": 1,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 20,
+                                                "item_type": 99
+                                            }
+                                        ]
+                                    },
+                                    "require": 1
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 2,
+                                    "quest_mission": {
+                                        "arg1": 60,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 3,
+                                        "mode": 3,
+                                        "num": 2,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 20,
+                                                "item_type": 99
+                                            }
+                                        ]
+                                    },
+                                    "require": 60
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 3,
+                                    "quest_mission": {
+                                        "arg1": 15000,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 29,
+                                        "mode": 3,
+                                        "num": 3,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 7,
+                                                "item_num": 1,
+                                                "item_type": 11
+                                            }
+                                        ]
+                                    },
+                                    "require": 15000
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 4,
+                                    "quest_mission": {
+                                        "arg1": 990000,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "mission_type": 30,
+                                        "mode": 2,
+                                        "num": 4,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 40,
+                                                "item_type": 99,
+                                                "quest_reward_type": 3
+                                            }
+                                        ]
+                                    },
+                                    "require": 990000
+                                }
+                            ],
+                            "perfect_cleared": 0,
+                            "step": 1,
+                            "this_perfect_clear": 0,
+                            "this_perfect_clear2": 0
+                        }
+                    ],
+                    "quest_type": 1
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 2,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "Sloppy Provisioner Pt. 14",
+                    "quest_id": 80290,
+                    "quest_type": 1
+                },
+                {
+                    "difficulty": 300,
+                    "difficulty_mode": 1,
+                    "is_clear": 0,
+                    "is_strong_enemy": 5,
+                    "items": [],
+                    "name": "Sloppy Provisioner Pt. 14",
+                    "quest_id": 80291,
+                    "quest_missions": [
+                        {
+                            "complete": 0,
+                            "level": 0,
+                            "missions": [
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 1,
+                                    "quest_mission": {
+                                        "arg1": -1,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 2,
+                                        "mode": 1,
+                                        "num": 1,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 20,
+                                                "item_type": 99
+                                            }
+                                        ]
+                                    },
+                                    "require": 1
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 2,
+                                    "quest_mission": {
+                                        "arg1": 50,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 3,
+                                        "mode": 3,
+                                        "num": 2,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 20,
+                                                "item_type": 99
+                                            }
+                                        ]
+                                    },
+                                    "require": 50
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 3,
+                                    "quest_mission": {
+                                        "arg1": 12000,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "description": "",
+                                        "mission_type": 29,
+                                        "mode": 3,
+                                        "num": 3,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 9,
+                                                "item_num": 1,
+                                                "item_type": 11
+                                            }
+                                        ]
+                                    },
+                                    "require": 12000
+                                },
+                                {
+                                    "history": {
+                                        "clear": 0,
+                                        "progress": -1
+                                    },
+                                    "num": 4,
+                                    "quest_mission": {
+                                        "arg1": 1500000,
+                                        "arg2": -1,
+                                        "clear": 0,
+                                        "mission_type": 30,
+                                        "mode": 2,
+                                        "num": 4,
+                                        "progress": -1,
+                                        "rewards": [
+                                            {
+                                                "item_id": 2,
+                                                "item_num": 40,
+                                                "item_type": 99,
+                                                "quest_reward_type": 3
+                                            }
+                                        ]
+                                    },
+                                    "require": 1500000
+                                }
+                            ],
+                            "perfect_cleared": 0,
+                            "step": 1,
+                            "this_perfect_clear": 0,
+                            "this_perfect_clear2": 0
+                        }
+                    ],
+                    "quest_type": 1
+                },
+                {
+                    "difficulty": 0,
+                    "difficulty_mode": 2,
+                    "is_clear": 0,
+                    "is_strong_enemy": 0,
+                    "items": [],
+                    "name": "Sloppy Provisioner Pt. 14",
+                    "quest_id": 80291,
+                    "quest_type": 1
+                }
+            ],
+            "shop_items": []
+        }
+    ],
+    "missions": [],
+    "summonboard": {}
+}
